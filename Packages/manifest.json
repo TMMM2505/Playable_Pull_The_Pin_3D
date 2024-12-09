@@ -4,7 +4,7 @@
     "com.coffee.ui-particle": "https://github.com/mob-sakai/ParticleEffectForUGUI.git#3.3.0",
     "com.lupidan.apple-signin-unity": "https://github.com/lupidan/apple-signin-unity.git#v1.4.2",
     "com.pancake.heart": "https://github.com/pancake-llc/foundation.git?path=Assets/Heart#3.1.5",
-      "com.pancake.playfab": "https://github.com/pancake-llc/playfab.git#2.157.230123",
+    "com.pancake.playfab": "https://github.com/pancake-llc/playfab.git#2.157.230123",
     "com.redbluegames.mulligan": "https://github.com/redbluegames/unity-mulligan-renamer.git?path=/Assets/RedBlueGames/MulliganRenamer",
     "com.unity.2d.animation": "9.1.0",
     "com.unity.2d.sprite": "1.0.0",
