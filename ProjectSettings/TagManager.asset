@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BallHolder
+  - Ball
+  - Bomb
+  - SpecialItem
+  - BonusArea
+  - MultipleGate
+  - Coin
+  - Sharp
+  - Rock
+  - Pin
+  - FxTemporaire
+  - LavaSeed
+  - Water
+  - Bridge
+  - Wood
+  - ChangeColorGate
+  - Rope
+  - Magnet
+  - Chest
+  - StarBonus
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Wall
+  - IgnoreBall
+  - Building
+  - LevelObject
+  - Rope
+  - PostProcess
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

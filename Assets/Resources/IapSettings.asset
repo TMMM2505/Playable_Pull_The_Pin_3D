@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6733aaf460649b5930a9ef59ad33087, type: 3}
+  m_Name: IapSettings
+  m_EditorClassIdentifier: 
+  runtimeAutoInitialize: 1
+  testMode: 0
+  skusData:
+  - sku:
+      overrideId: 1
+      defaultId: com.pullpin3d.removeads
+      androidId: com.pullpin3d.removeads
+      iOSId: com.pullpin3dios.removeads
+    productType: 1
+  - sku:
+      overrideId: 1
+      defaultId: com.pullpin3d.coin
+      androidId: com.pullpin3d.coin
+      iOSId: com.pullpin3dios.coin
+    productType: 0
+  - sku:
+      overrideId: 1
+      defaultId: com.pullpin3d.vip
+      androidId: com.pullpin3d.vip
+      iOSId: com.pullpin3dios.vip
+    productType: 1
+  - sku:
+      overrideId: 1
+      defaultId: com.pullpin3d.vip
+      androidId: com.pullpin3d.coin10k
+      iOSId: com.pullpin3dios.coin10K
+    productType: 0
+  - sku:
+      overrideId: 1
+      defaultId: com.pullpin3d.vip
+      androidId: com.pullpin3d.coin25k
+      iOSId: com.pullpin3dios.coin25K
+    productType: 0
+  - sku:
+      overrideId: 1
+      defaultId: com.pullpin3d.vip
+      androidId: com.pullpin3d.packspecial
+      iOSId: com.pullpin3dios.packspecial
+    productType: 1
+  googlePlayStorePublicKey: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAu/KQo6dKF8n5A31gCpWAbMd1K2Hf2zkocg1dOVxbpF1CDWHE3lcE2Pr9VtJR0md323qoR5DDGdfrwZDF+dkDQWRvmmZThjTAKTDYdCiRfjFrnnO1jIameeNGE0c0S6K+yGQZK5k0cCcFzOybxrZV6KcFeRlSWKQPi4np9TWIkLsD8lGBE8mEHRxJ95hCDuFvDsLbwvMGeYnLxcnxxI5yN9Abc1FTDkm+2KBNfa++PDnz+QWD+gjZ4Fa1fAvfPJQDr877yCWG+bgS+kOb5Caqnz1hweI9Gj7tCfQSll+9TSha/iaIRXCCphcSUnnyxikNXjBukVVc9XDzYj+dG3daWwIDAQAB

@@ -1,0 +1,11 @@
+Hand.png
+size:699,248
+filter:Linear,Linear
+pma:true
+Layer 3
+bounds:2,12,234,360
+rotate:90
+Layer 4
+bounds:364,2,244,333
+offsets:0,0,244,338
+rotate:90

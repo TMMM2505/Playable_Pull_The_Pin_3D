@@ -1,0 +1,1 @@
+namespace PubScale.SdkOne.NativeAds {}

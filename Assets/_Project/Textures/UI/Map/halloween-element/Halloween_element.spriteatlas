@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Halloween_element
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 6464be3396ef7a6429e3f118beeb9aa2, type: 3}
+    - {fileID: 2800000, guid: a55e889e58a081943bf3b8093d2f603a, type: 3}
+    - {fileID: 2800000, guid: ae06bab6b6fac12498b801663936275c, type: 3}
+    - {fileID: 2800000, guid: 58fee90c3ba9a5649a7bab66792301ae, type: 3}
+    - {fileID: 2800000, guid: 24c0ec98de21c3848915a6bc6f1d2ef1, type: 3}
+    - {fileID: 2800000, guid: 62ce159edf855d8459d62e3b96c3be95, type: 3}
+    - {fileID: 2800000, guid: 43b472ccab57aed4090be8df568eb094, type: 3}
+    - {fileID: 2800000, guid: efc2b8ec3ad1d254a9b90cb465201aa3, type: 3}
+    - {fileID: 2800000, guid: 333426e4ed6d14944bcd8926c0a96f03, type: 3}
+    - {fileID: 2800000, guid: b0540778b2bab364aac6d4581eef27c4, type: 3}
+    - {fileID: 2800000, guid: 2cc858f88d735474995333b92b48c7ea, type: 3}
+    - {fileID: 2800000, guid: 161286cb07a27ee4997b8b7122dbebb5, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 6464be3396ef7a6429e3f118beeb9aa2: 21300000
+    - 333426e4ed6d14944bcd8926c0a96f03: 21300000
+    - ae06bab6b6fac12498b801663936275c: 21300000
+    - b0540778b2bab364aac6d4581eef27c4: 21300000
+    - 24c0ec98de21c3848915a6bc6f1d2ef1: 21300000
+    - 2cc858f88d735474995333b92b48c7ea: 21300000
+    - 161286cb07a27ee4997b8b7122dbebb5: 21300000
+    - 58fee90c3ba9a5649a7bab66792301ae: 21300000
+    - 43b472ccab57aed4090be8df568eb094: 21300000
+    - efc2b8ec3ad1d254a9b90cb465201aa3: 21300000
+    - 62ce159edf855d8459d62e3b96c3be95: 21300000
+    - a55e889e58a081943bf3b8093d2f603a: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 6464be3396ef7a6429e3f118beeb9aa2, type: 3}
+  - {fileID: 21300000, guid: 333426e4ed6d14944bcd8926c0a96f03, type: 3}
+  - {fileID: 21300000, guid: ae06bab6b6fac12498b801663936275c, type: 3}
+  - {fileID: 21300000, guid: b0540778b2bab364aac6d4581eef27c4, type: 3}
+  - {fileID: 21300000, guid: 24c0ec98de21c3848915a6bc6f1d2ef1, type: 3}
+  - {fileID: 21300000, guid: 2cc858f88d735474995333b92b48c7ea, type: 3}
+  - {fileID: 21300000, guid: 161286cb07a27ee4997b8b7122dbebb5, type: 3}
+  - {fileID: 21300000, guid: 58fee90c3ba9a5649a7bab66792301ae, type: 3}
+  - {fileID: 21300000, guid: 43b472ccab57aed4090be8df568eb094, type: 3}
+  - {fileID: 21300000, guid: efc2b8ec3ad1d254a9b90cb465201aa3, type: 3}
+  - {fileID: 21300000, guid: 62ce159edf855d8459d62e3b96c3be95, type: 3}
+  - {fileID: 21300000, guid: a55e889e58a081943bf3b8093d2f603a, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - pumkin-decor-tree
+  - tree-die
+  - pumkin2
+  - tree-halloween
+  - rip
+  - tree-violet-2
+  - tree-violet
+  - pumkin3
+  - rock
+  - skeleton
+  - rip2
+  - pumkin1
+  m_RenderDataMap: {}
+  m_Tag: Halloween_element
+  m_IsVariant: 0

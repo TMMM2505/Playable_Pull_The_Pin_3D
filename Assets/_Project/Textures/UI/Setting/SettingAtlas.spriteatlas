@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SettingAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 4ec4cefca994ebd46b05ff3212d80d6f, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 6d826310f8c04c545a50b3a60f680e8a: 21300000
+    - 8b0b794091cbc394c9171b0c94d6f594: 21300000
+    - 7b5b8b62e0a431f4e9bb95b2f31f8ca5: 21300000
+    - 77e5d864b4b575c46848538fc96a79fb: 21300000
+    - d0bae21900d08514191ba3765ff18ee7: 21300000
+    - 5c25c08905766a64cbca9e9071046867: 21300000
+    - 47c084b9d460b0e43a46c0cbd7ba28a0: 21300000
+    - 3565187bf24762940b511c519907f1f2: 21300000
+    - 734174cbd822784409dc9cebf30ac2aa: 21300000
+    - 8842d35cb0b960941936f7128be44dae: 21300000
+    - 4470694d30644aa47a111929a05832f1: 21300000
+    - 5ecbbbfde9943704ca2e2d12bccff138: 21300000
+    - 9be9815e063f08644adf360398abed8c: 21300000
+    - 93c1d96eb09a466448ad4b74789525a9: 21300000
+    - dbde38ff61cf2cb438e6e19d673f63dd: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 6d826310f8c04c545a50b3a60f680e8a, type: 3}
+  - {fileID: 21300000, guid: 8b0b794091cbc394c9171b0c94d6f594, type: 3}
+  - {fileID: 21300000, guid: 7b5b8b62e0a431f4e9bb95b2f31f8ca5, type: 3}
+  - {fileID: 21300000, guid: 77e5d864b4b575c46848538fc96a79fb, type: 3}
+  - {fileID: 21300000, guid: d0bae21900d08514191ba3765ff18ee7, type: 3}
+  - {fileID: 21300000, guid: 5c25c08905766a64cbca9e9071046867, type: 3}
+  - {fileID: 21300000, guid: 47c084b9d460b0e43a46c0cbd7ba28a0, type: 3}
+  - {fileID: 21300000, guid: 3565187bf24762940b511c519907f1f2, type: 3}
+  - {fileID: 21300000, guid: 734174cbd822784409dc9cebf30ac2aa, type: 3}
+  - {fileID: 21300000, guid: 8842d35cb0b960941936f7128be44dae, type: 3}
+  - {fileID: 21300000, guid: 4470694d30644aa47a111929a05832f1, type: 3}
+  - {fileID: 21300000, guid: 5ecbbbfde9943704ca2e2d12bccff138, type: 3}
+  - {fileID: 21300000, guid: 9be9815e063f08644adf360398abed8c, type: 3}
+  - {fileID: 21300000, guid: 93c1d96eb09a466448ad4b74789525a9, type: 3}
+  - {fileID: 21300000, guid: dbde38ff61cf2cb438e6e19d673f63dd, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - setting_line
+  - setting_popup
+  - btn_pink
+  - setting_scroll_language
+  - setting_language
+  - setting_tab_language
+  - setting_music
+  - btn_blue
+  - setting_bg_language
+  - setting_pointer_off
+  - setting_sound
+  - setting_scrollbar
+  - setting_dropdown
+  - setting_rung
+  - setting_pointer
+  m_RenderDataMap: {}
+  m_Tag: SettingAtlas
+  m_IsVariant: 0

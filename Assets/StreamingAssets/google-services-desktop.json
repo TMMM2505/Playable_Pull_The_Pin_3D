@@ -1,0 +1,36 @@
+{
+  "project_info": {
+    "project_number": "918179493574",
+    "project_id": "pull-pin-puzzle-3d",
+    "storage_bucket": "pull-pin-puzzle-3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918179493574:ios:e21634b4f64b6b829d49c7",
+        "android_client_info": {
+          "package_name": "com.gamee.pull.pin.puzzle"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlQhcYvACW6HF1_B7No4PNEc0xWPjgvO8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918179493574-uvi575tumenkndbojor6mkvp9tn2bvn4.apps.googleusercontent.com"
+        }
+      ]
+    }
+  ],
+  "configuration_version": "1"
+}

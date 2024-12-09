@@ -1,0 +1,138 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: EventAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: dc94ad2fc41f534458b7626e0448a7e3, type: 3}
+    - {fileID: 2800000, guid: 5e9ddb24dec012644a9d11b277342c2e, type: 3}
+    - {fileID: 2800000, guid: 780d663f50e9a204cabaf777c22a009e, type: 3}
+    - {fileID: 2800000, guid: 9217e176bd10e564cb8ce72f35327937, type: 3}
+    - {fileID: 2800000, guid: ac5f9c8b46cb1a24e863cadd1e837f05, type: 3}
+    - {fileID: 2800000, guid: 100efa4d14ae86d4dba000b1e9cffd01, type: 3}
+    - {fileID: 2800000, guid: 5823b555567bfbf4785428c77bfebabf, type: 3}
+    - {fileID: 2800000, guid: 89129dccd9af7ab439529614df46f4f6, type: 3}
+    - {fileID: 2800000, guid: 072e510723130e64c8a31c9be54d3d09, type: 3}
+    - {fileID: 2800000, guid: e08671e436621b1489fb6d6322a3d748, type: 3}
+    - {fileID: 2800000, guid: 55b04cb45c6c4cf419e73a7686097db7, type: 3}
+    - {fileID: 2800000, guid: 46e7806f41c625447b920926c6f0b2d7, type: 3}
+    - {fileID: 2800000, guid: de2d2f6f927a3254ab57e9ca7d623cce, type: 3}
+    - {fileID: 2800000, guid: 340134ef26b36d240b483aaf117f7423, type: 3}
+    - {fileID: 2800000, guid: c16cbca3df7821549a0efedda7e6b322, type: 3}
+    - {fileID: 2800000, guid: d7a2afe45553a164da617d503d057f0e, type: 3}
+    - {fileID: 2800000, guid: 2d3e5629ad321034cadd336459ef525d, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - c16cbca3df7821549a0efedda7e6b322: 21300000
+    - 5e9ddb24dec012644a9d11b277342c2e: 21300000
+    - 55b04cb45c6c4cf419e73a7686097db7: 21300000
+    - e08671e436621b1489fb6d6322a3d748: 21300000
+    - d7a2afe45553a164da617d503d057f0e: 21300000
+    - 5823b555567bfbf4785428c77bfebabf: 21300000
+    - 9217e176bd10e564cb8ce72f35327937: 21300000
+    - 072e510723130e64c8a31c9be54d3d09: 21300000
+    - 2d3e5629ad321034cadd336459ef525d: 21300000
+    - ac5f9c8b46cb1a24e863cadd1e837f05: 21300000
+    - 89129dccd9af7ab439529614df46f4f6: 21300000
+    - 100efa4d14ae86d4dba000b1e9cffd01: 21300000
+    - dc94ad2fc41f534458b7626e0448a7e3: 21300000
+    - 780d663f50e9a204cabaf777c22a009e: 21300000
+    - 46e7806f41c625447b920926c6f0b2d7: 21300000
+    - de2d2f6f927a3254ab57e9ca7d623cce: 21300000
+    - 340134ef26b36d240b483aaf117f7423: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: c16cbca3df7821549a0efedda7e6b322, type: 3}
+  - {fileID: 21300000, guid: 5e9ddb24dec012644a9d11b277342c2e, type: 3}
+  - {fileID: 21300000, guid: 55b04cb45c6c4cf419e73a7686097db7, type: 3}
+  - {fileID: 21300000, guid: e08671e436621b1489fb6d6322a3d748, type: 3}
+  - {fileID: 21300000, guid: d7a2afe45553a164da617d503d057f0e, type: 3}
+  - {fileID: 21300000, guid: 5823b555567bfbf4785428c77bfebabf, type: 3}
+  - {fileID: 21300000, guid: 9217e176bd10e564cb8ce72f35327937, type: 3}
+  - {fileID: 21300000, guid: 072e510723130e64c8a31c9be54d3d09, type: 3}
+  - {fileID: 21300000, guid: 2d3e5629ad321034cadd336459ef525d, type: 3}
+  - {fileID: 21300000, guid: ac5f9c8b46cb1a24e863cadd1e837f05, type: 3}
+  - {fileID: 21300000, guid: 89129dccd9af7ab439529614df46f4f6, type: 3}
+  - {fileID: 21300000, guid: 100efa4d14ae86d4dba000b1e9cffd01, type: 3}
+  - {fileID: 21300000, guid: dc94ad2fc41f534458b7626e0448a7e3, type: 3}
+  - {fileID: 21300000, guid: 780d663f50e9a204cabaf777c22a009e, type: 3}
+  - {fileID: 21300000, guid: 46e7806f41c625447b920926c6f0b2d7, type: 3}
+  - {fileID: 21300000, guid: de2d2f6f927a3254ab57e9ca7d623cce, type: 3}
+  - {fileID: 21300000, guid: 340134ef26b36d240b483aaf117f7423, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - skin_noel2023_pin_1
+  - event_noel2023_ball
+  - gameplay_noel2023_belltext
+  - event_noel2023_popup
+  - skin_noel2023_pin_2
+  - event_noel2023_iconbtn_bell
+  - event_noel2023_btn_gray
+  - event_noel2023_pin_2
+  - Xmas
+  - event_noel2023_btn_green
+  - event_noel2023_pin_1
+  - event_noel2023_demo
+  - common_btn_x
+  - event_noel2023_btn_complete
+  - mainmenu_noel2023_btnevent
+  - skin_noel2023_ball
+  - skin_noel2023_btn
+  m_RenderDataMap: {}
+  m_Tag: EventAtlas
+  m_IsVariant: 0

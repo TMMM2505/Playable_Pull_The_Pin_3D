@@ -1,0 +1,48 @@
+{ "skeleton": { "images": "F:/GAMEE/Pull_Pin3D/facebomb/anim/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "brown2", "bone": "root", "attachment": "brown2" },
+	{ "name": "teeth1", "bone": "root", "attachment": "teeth1" },
+	{ "name": "eye2", "bone": "root", "attachment": "eye2" },
+	{ "name": "eye4", "bone": "root", "attachment": "eye4" },
+	{ "name": "eye3", "bone": "root", "attachment": "eye3" },
+	{ "name": "eye1", "bone": "root", "attachment": "eye1" },
+	{ "name": "brown1", "bone": "root", "attachment": "brown1" },
+	{ "name": "Layer 10 copy 2", "bone": "root", "attachment": "Layer 10 copy 2" },
+	{ "name": "eye5", "bone": "root", "attachment": "eye5" }
+],
+"skins": {
+	"default": {
+		"brown2": {
+			"brown2": { "x": 129, "y": -55.5, "width": 192, "height": 49 }
+		},
+		"teeth1": {
+			"teeth1": { "x": 131.5, "y": -172, "width": 157, "height": 84 }
+		},
+		"eye2": {
+			"eye2": { "x": 128.5, "y": -97, "width": 169, "height": 48 }
+		},
+		"eye4": {
+			"eye4": { "x": 181, "y": -96, "width": 42, "height": 42 }
+		},
+		"eye3": {
+			"eye3": { "x": 85, "y": -96, "width": 42, "height": 42 }
+		},
+		"eye1": {
+			"eye1": { "x": 128.5, "y": -97.5, "width": 177, "height": 51 }
+		},
+		"brown1": {
+			"brown1": { "x": 129, "y": -55.5, "width": 192, "height": 49 }
+		},
+		"Layer 10 copy 2": {
+			"Layer 10 copy 2": { "x": 134.5, "y": -171.5, "width": 147, "height": 53 }
+		},
+		"eye5": {
+			"eye5": { "x": 128.5, "y": -98.5, "width": 177, "height": 49 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}

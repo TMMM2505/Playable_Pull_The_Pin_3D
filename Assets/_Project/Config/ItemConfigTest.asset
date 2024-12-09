@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0cc3e1fe2ae4c644faaaf69581a3b618, type: 3}
+  m_Name: ItemConfigTest
+  m_EditorClassIdentifier: 
+  ballDataList:
+  - TypeItem: 0
+    Id: 0
+    ImageBg: {fileID: 0}
+    ImageIcon: {fileID: 0}
+    PurchaseType: 0
+    coin: 0
+    LevelUnlock: 0
+    EventType: 0
+    CollectNumber: 0
+    itemModel: {fileID: 0}
+    packToUnlock: {fileID: 0}
+    ballSkin: {fileID: 0}
+  pinDataList: []
+  themeDataList: []
+  trailDataList: []

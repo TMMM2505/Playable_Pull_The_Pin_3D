@@ -1,0 +1,21 @@
+faceboom.png
+size:284,284
+filter:Linear,Linear
+pma:true
+Layer 10 copy 2
+bounds:2,125,147,53
+brown1
+bounds:2,231,192,49
+eye1
+bounds:2,70,177,51
+eye2
+bounds:2,20,169,48
+eye3
+bounds:151,136,42,42
+eye4
+bounds:151,136,42,42
+eye5
+bounds:2,180,177,49
+teeth1
+bounds:196,123,157,84
+rotate:90

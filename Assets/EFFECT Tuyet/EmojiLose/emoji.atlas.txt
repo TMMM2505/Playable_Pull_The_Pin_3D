@@ -1,0 +1,33 @@
+emoji.png
+size:1512,480
+filter:Linear,Linear
+pma:true
+scale:0.65
+Layer 49 copy
+bounds:1151,155,193,183
+rotate:90
+Layer 49 copy 2
+bounds:956,165,193,183
+Layer 51 copy
+bounds:2,2,476,476
+Layer 52
+bounds:956,350,384,128
+cry/Layer 45 copy
+bounds:480,4,474,474
+cry/Layer 46
+bounds:1342,301,177,165
+rotate:90
+cry/Layer 47
+bounds:956,43,172,120
+cry/Layer 48
+bounds:1336,122,177,165
+rotate:90
+cry/Layer 49
+bounds:1130,35,126,118
+cry/Layer 50
+bounds:1258,9,133,111
+cry/Layer 51
+bounds:1393,83,27,37
+cry/Layer 52
+bounds:1258,126,27,42
+rotate:90

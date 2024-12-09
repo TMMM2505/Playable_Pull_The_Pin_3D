@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BackupDataAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: Server
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 10
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: fa69ed56045928042ad7e5ef73f15cc4, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - fa151120b7d24aa4eb00e276fa62d69b: 21300000
+    - 88c6ef20d64940749b8b5c63f27bb618: 21300000
+    - e3cbe973040804541b0e3d1fb77c38b7: 21300000
+    - ef6d97593ce7e4d4390fc1030690e73c: 21300000
+    - ac5f1b3bd4b57e6469a0ff80f310f4c9: 21300000
+    - 8d79740cde60de841a98b2b004be168b: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: fa151120b7d24aa4eb00e276fa62d69b, type: 3}
+  - {fileID: 21300000, guid: 88c6ef20d64940749b8b5c63f27bb618, type: 3}
+  - {fileID: 21300000, guid: e3cbe973040804541b0e3d1fb77c38b7, type: 3}
+  - {fileID: 21300000, guid: ef6d97593ce7e4d4390fc1030690e73c, type: 3}
+  - {fileID: 21300000, guid: ac5f1b3bd4b57e6469a0ff80f310f4c9, type: 3}
+  - {fileID: 21300000, guid: 8d79740cde60de841a98b2b004be168b, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Backup_AppleBtn
+  - checkbox2
+  - btn_blue
+  - btn_pink
+  - Backup_FblBtn
+  - checkbox1
+  m_RenderDataMap: {}
+  m_Tag: BackupDataAtlas
+  m_IsVariant: 0

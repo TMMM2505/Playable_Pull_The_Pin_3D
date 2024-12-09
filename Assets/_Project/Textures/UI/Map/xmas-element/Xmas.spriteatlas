@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Xmas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 5fb0c557c610d5142a6cdcff3b8de9de, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 0420f613bc5f4b7418bbb7483fda07f4: 21300000
+    - 889bfe94800ffef4396ee1d7d6ef75f6: 21300000
+    - 8e1814e450b2eab41b1937916872ea60: 21300000
+    - ce1d2ab696cc5a1449fbab6fdd4730c7: 21300000
+    - 21461a67c1a632e43b7dc5389a11f112: 21300000
+    - cca3c877523e6de4e86debfee6cb44bf: 21300000
+    - fa32a3188d2447247b8342468ca82de5: 21300000
+    - a2f4c6482816d3c46bb99acf418405c6: 21300000
+    - f3a15188553b30a4389033291cdf202a: 21300000
+    - 679c51db84b5d5f468d2b25751d4ed49: 21300000
+    - a096e86cf56aa9244b9fc5298ee9626f: 21300000
+    - 55bd44dcd9b14a341a579659f356440a: 21300000
+    - 0210e76deddfce14996deb7e4705c14a: 21300000
+    - 021073adfa9f4ad42902e3ce2a2f1e7d: 21300000
+    - 23861eada179f274199f586edcd26ef9: 21300000
+    - c7368adda4cac4a4c94a6a2905264091: 21300000
+    - 930c3a1e14534024bb44e51b08fc816b: 21300000
+    - 6b88b03e7a30edc4f92cec8a22647e3a: 21300000
+    - 0162c91fd7daa714da47668346436a04: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 0420f613bc5f4b7418bbb7483fda07f4, type: 3}
+  - {fileID: 21300000, guid: 889bfe94800ffef4396ee1d7d6ef75f6, type: 3}
+  - {fileID: 21300000, guid: 8e1814e450b2eab41b1937916872ea60, type: 3}
+  - {fileID: 21300000, guid: ce1d2ab696cc5a1449fbab6fdd4730c7, type: 3}
+  - {fileID: 21300000, guid: 21461a67c1a632e43b7dc5389a11f112, type: 3}
+  - {fileID: 21300000, guid: cca3c877523e6de4e86debfee6cb44bf, type: 3}
+  - {fileID: 21300000, guid: fa32a3188d2447247b8342468ca82de5, type: 3}
+  - {fileID: 21300000, guid: a2f4c6482816d3c46bb99acf418405c6, type: 3}
+  - {fileID: 21300000, guid: f3a15188553b30a4389033291cdf202a, type: 3}
+  - {fileID: 21300000, guid: 679c51db84b5d5f468d2b25751d4ed49, type: 3}
+  - {fileID: 21300000, guid: a096e86cf56aa9244b9fc5298ee9626f, type: 3}
+  - {fileID: 21300000, guid: 55bd44dcd9b14a341a579659f356440a, type: 3}
+  - {fileID: 21300000, guid: 0210e76deddfce14996deb7e4705c14a, type: 3}
+  - {fileID: 21300000, guid: 021073adfa9f4ad42902e3ce2a2f1e7d, type: 3}
+  - {fileID: 21300000, guid: 23861eada179f274199f586edcd26ef9, type: 3}
+  - {fileID: 21300000, guid: c7368adda4cac4a4c94a6a2905264091, type: 3}
+  - {fileID: 21300000, guid: 930c3a1e14534024bb44e51b08fc816b, type: 3}
+  - {fileID: 21300000, guid: 6b88b03e7a30edc4f92cec8a22647e3a, type: 3}
+  - {fileID: 21300000, guid: 0162c91fd7daa714da47668346436a04, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - X-maxDecor (8)
+  - X-masDecor-Ligh (3)
+  - X-maxDecor (9)
+  - X-masDecor-Ligh (7)
+  - X-maxDecor (2)
+  - X-masDecor-Ligh (4)
+  - X-masDecor-Ligh (6)
+  - X-maxDecor (4)
+  - X-masDecor-Ligh (9)
+  - X-maxDecor (5)
+  - X-masDecor-Ligh (8)
+  - X-masDecor-Ligh (5)
+  - X-maxDecor (6)
+  - X-masDecor-Ligh (10)
+  - X-masDecor-Ligh (2)
+  - X-masDecor-Ligh (1)
+  - X-maxDecor (7)
+  - X-maxDecor (3)
+  - X-maxDecor (1)
+  m_RenderDataMap: {}
+  m_Tag: Xmas
+  m_IsVariant: 0

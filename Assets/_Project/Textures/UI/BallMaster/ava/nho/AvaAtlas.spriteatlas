@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: AvaAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 1cefa5c02e1d8244b88df3bfbeb53c07, type: 3}
+    - {fileID: 2800000, guid: 1eaca5fafbf63854e9c87013b5090db8, type: 3}
+    - {fileID: 2800000, guid: c68165e6cb3fc3e45b0583248e91bc80, type: 3}
+    - {fileID: 2800000, guid: 8fa0ab8dcb854b54188354929cc6f0cc, type: 3}
+    - {fileID: 2800000, guid: f3589dd64392de94d9eb1542c2786019, type: 3}
+    - {fileID: 2800000, guid: 19807a8f32c590043b5fcbe1c6f0acd9, type: 3}
+    - {fileID: 2800000, guid: 0b1fa9d3d9f54a14e96f86db96bd193d, type: 3}
+    - {fileID: 2800000, guid: dac9ff1007da33c49b32fd5dfb2cea23, type: 3}
+    - {fileID: 2800000, guid: 432ef917bbd66014885e4c9ef8073424, type: 3}
+    - {fileID: 2800000, guid: 4ca0a9f097526a241be6dc35c557fc8e, type: 3}
+    - {fileID: 2800000, guid: df119b3b0d7d2134a95d8ae6f5c47ab5, type: 3}
+    - {fileID: 2800000, guid: 4068498cccd3aee419332aa9994a7644, type: 3}
+    - {fileID: 2800000, guid: c209e3e354c47c94591a6d78f1d7889a, type: 3}
+    - {fileID: 2800000, guid: d3ea8b0e8d09cfa4ca578ee00f7fccae, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - dac9ff1007da33c49b32fd5dfb2cea23: 21300000
+    - 1cefa5c02e1d8244b88df3bfbeb53c07: 21300000
+    - 4ca0a9f097526a241be6dc35c557fc8e: 21300000
+    - 0b1fa9d3d9f54a14e96f86db96bd193d: 21300000
+    - c209e3e354c47c94591a6d78f1d7889a: 21300000
+    - f3589dd64392de94d9eb1542c2786019: 21300000
+    - c68165e6cb3fc3e45b0583248e91bc80: 21300000
+    - 432ef917bbd66014885e4c9ef8073424: 21300000
+    - 1eaca5fafbf63854e9c87013b5090db8: 21300000
+    - df119b3b0d7d2134a95d8ae6f5c47ab5: 21300000
+    - 4068498cccd3aee419332aa9994a7644: 21300000
+    - 8fa0ab8dcb854b54188354929cc6f0cc: 21300000
+    - d3ea8b0e8d09cfa4ca578ee00f7fccae: 21300000
+    - 19807a8f32c590043b5fcbe1c6f0acd9: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: dac9ff1007da33c49b32fd5dfb2cea23, type: 3}
+  - {fileID: 21300000, guid: 1cefa5c02e1d8244b88df3bfbeb53c07, type: 3}
+  - {fileID: 21300000, guid: 4ca0a9f097526a241be6dc35c557fc8e, type: 3}
+  - {fileID: 21300000, guid: 0b1fa9d3d9f54a14e96f86db96bd193d, type: 3}
+  - {fileID: 21300000, guid: c209e3e354c47c94591a6d78f1d7889a, type: 3}
+  - {fileID: 21300000, guid: f3589dd64392de94d9eb1542c2786019, type: 3}
+  - {fileID: 21300000, guid: c68165e6cb3fc3e45b0583248e91bc80, type: 3}
+  - {fileID: 21300000, guid: 432ef917bbd66014885e4c9ef8073424, type: 3}
+  - {fileID: 21300000, guid: 1eaca5fafbf63854e9c87013b5090db8, type: 3}
+  - {fileID: 21300000, guid: df119b3b0d7d2134a95d8ae6f5c47ab5, type: 3}
+  - {fileID: 21300000, guid: 4068498cccd3aee419332aa9994a7644, type: 3}
+  - {fileID: 21300000, guid: 8fa0ab8dcb854b54188354929cc6f0cc, type: 3}
+  - {fileID: 21300000, guid: d3ea8b0e8d09cfa4ca578ee00f7fccae, type: 3}
+  - {fileID: 21300000, guid: 19807a8f32c590043b5fcbe1c6f0acd9, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - khi
+  - capybara
+  - meo
+  - huou
+  - vit
+  - gau
+  - chuot
+  - lon
+  - cho
+  - rua
+  - tho
+  - ga
+  - voi
+  - gautruc
+  m_RenderDataMap: {}
+  m_Tag: AvaAtlas
+  m_IsVariant: 0

@@ -1,0 +1,1224 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4427408540f879b44b7abe7d9e5a9a43, type: 3}
+  m_Name: BuildingConfig
+  m_EditorClassIdentifier: 
+  levelToUnlock: 26
+  listBuildingMapData:
+  - iconArea: {fileID: 21300000, guid: bc65c552d6e0ac848b56df635116659d, type: 3}
+    levelUnlock: 26
+    mapName: 0
+    listBuildingData:
+    - name: 3
+      buildingItemDatas:
+      - level: 0
+        icon: {fileID: 0}
+        price: 0
+      - level: 1
+        icon: {fileID: 21300000, guid: 36fac86fc6f23dc4fa603a960ece4390, type: 3}
+        price: 100
+      - level: 2
+        icon: {fileID: 21300000, guid: b1ee831f1fbcffe458f5abac144fb73c, type: 3}
+        price: 150
+      - level: 3
+        icon: {fileID: 21300000, guid: 9bb74745df9de354fb4bb8c4c9619570, type: 3}
+        price: 200
+      - level: 4
+        icon: {fileID: 21300000, guid: 64c65f64280678742a0a4bd2898b319c, type: 3}
+        price: 300
+      - level: 5
+        icon: {fileID: 21300000, guid: 5a0d8561e726c71499cf1658b5fa6e42, type: 3}
+        price: 400
+      icon: {fileID: 21300000, guid: 5a0d8561e726c71499cf1658b5fa6e42, type: 3}
+    - name: 0
+      buildingItemDatas:
+      - level: 0
+        icon: {fileID: 0}
+        price: 0
+      - level: 1
+        icon: {fileID: 21300000, guid: 4f4852d4ea99ae6499b66479094fb3a2, type: 3}
+        price: 100
+      - level: 2
+        icon: {fileID: 21300000, guid: df2451e8ba8d68c4cb00e581999abbbe, type: 3}
+        price: 150
+      - level: 3
+        icon: {fileID: 21300000, guid: c71fc2350f1d670449b62698a684b62f, type: 3}
+        price: 200
+      - level: 4
+        icon: {fileID: 21300000, guid: 78f87c590b25dc24694205039f671c38, type: 3}
+        price: 300
+      - level: 5
+        icon: {fileID: 21300000, guid: 9d3e007721177da41895f3bb738c0e6e, type: 3}
+        price: 400
+      icon: {fileID: 21300000, guid: 9d3e007721177da41895f3bb738c0e6e, type: 3}
+    - name: 5
+      buildingItemDatas:
+      - level: 0
+        icon: {fileID: 0}
+        price: 0
+      - level: 1
+        icon: {fileID: 21300000, guid: 0b3b461e79aafda469198a6cb75202d0, type: 3}
+        price: 100
+      - level: 2
+        icon: {fileID: 21300000, guid: 2ad8d965420fb924e969b3e8a6402136, type: 3}
+        price: 150
+      - level: 3
+        icon: {fileID: 21300000, guid: a16ddf6dbb5abdf4db025cd915a9b236, type: 3}
+        price: 200
+      - level: 4
+        icon: {fileID: 21300000, guid: c4eba99c97d213945bdd6a939f5c04d0, type: 3}
+        price: 300
+      - level: 5
+        icon: {fileID: 21300000, guid: 80b779fcce9358648b3e70340bd52864, type: 3}
+        price: 400
+      icon: {fileID: 21300000, guid: 80b779fcce9358648b3e70340bd52864, type: 3}
+    - name: 2
+      buildingItemDatas:
+      - level: 0
+        icon: {fileID: 0}
+        price: 0
+      - level: 1
+        icon: {fileID: 21300000, guid: e156d9875b2a8e043bc5cf64495b9f65, type: 3}
+        price: 100
+      - level: 2
+        icon: {fileID: 21300000, guid: 9b0e12504bc5f044ca10b9c347b80134, type: 3}
+        price: 150
+      - level: 3
+        icon: {fileID: 21300000, guid: d79d1f4c54e152c4d81fd8918da84013, type: 3}
+        price: 200
+      - level: 4
+        icon: {fileID: 21300000, guid: 4a207f5a1aca28647a37875ea7421e83, type: 3}
+        price: 300
+      - level: 5
+        icon: {fileID: 21300000, guid: cfbfa8845de186448be84f8988bfe31a, type: 3}
+        price: 400
+      icon: {fileID: 21300000, guid: cfbfa8845de186448be84f8988bfe31a, type: 3}
+    - name: 4
+      buildingItemDatas:
+      - level: 0
+        icon: {fileID: 0}
+        price: 0
+      - level: 1
+        icon: {fileID: 21300000, guid: 41fd59ee22cabbf498c18c75883fb83b, type: 3}
+        price: 100
+      - level: 2
+        icon: {fileID: 21300000, guid: 979cba8591976c64c8b16f45563e8422, type: 3}
+        price: 150
+      - level: 3
+        icon: {fileID: 21300000, guid: 385336c0f3e53e54fa5f38c4244fe8dc, type: 3}
+        price: 200
+      - level: 4
+        icon: {fileID: 21300000, guid: ad18cb41440960544a74c7d0bed275de, type: 3}
+        price: 300
+      - level: 5
+        icon: {fileID: 21300000, guid: cdfadcbfb4d785a41bc5d8edad5bf7b7, type: 3}
+        price: 400
+      icon: {fileID: 21300000, guid: cdfadcbfb4d785a41bc5d8edad5bf7b7, type: 3}
+    - name: 6
+      buildingItemDatas:
+      - level: 0
+        icon: {fileID: 0}
+        price: 0
+      - level: 1
+        icon: {fileID: 21300000, guid: a3edbc909d9d0404a97d6a6798e3457e, type: 3}
+        price: 100
+      - level: 2
+        icon: {fileID: 21300000, guid: 77ac64b427c065548b753f2d0de4c0ee, type: 3}
+        price: 150
+      - level: 3
+        icon: {fileID: 21300000, guid: b38d6c718d46e5c4ab866ebb869e38a0, type: 3}
+        price: 200
+      - level: 4
+        icon: {fileID: 21300000, guid: d81e1f2c11596e84c84bb9603fd43fb1, type: 3}
+        price: 300
+      - level: 5
+        icon: {fileID: 21300000, guid: e0672a1fdff85df4cb1ee1e48336640d, type: 3}
+        price: 400
+      icon: {fileID: 21300000, guid: e0672a1fdff85df4cb1ee1e48336640d, type: 3}
+    - name: 1
+      buildingItemDatas:
+      - level: 0
+        icon: {fileID: 0}
+        price: 0
+      - level: 1
+        icon: {fileID: 21300000, guid: 65a53a4f0de799a479f2fe2a1a1e2f78, type: 3}
+        price: 100
+      - level: 2
+        icon: {fileID: 21300000, guid: edb1a272b73f7994d88c5efeff0ba79e, type: 3}
+        price: 150
+      - level: 3
+        icon: {fileID: 21300000, guid: 1ce726bb621aa504e84c421a920472e3, type: 3}
+        price: 200
+      - level: 4
+        icon: {fileID: 21300000, guid: fe8ee9883c5838146996bcf785b99fc7, type: 3}
+        price: 300
+      - level: 5
+        icon: {fileID: 21300000, guid: 4ffd1f19bb6de4748b860436f8eaaafe, type: 3}
+        price: 400
+      icon: {fileID: 21300000, guid: 4ffd1f19bb6de4748b860436f8eaaafe, type: 3}
+  - iconArea: {fileID: 21300000, guid: b8ff2be8e885df64e9fdc3760fc25a1a, type: 3}
+    levelUnlock: 50
+    mapName: 1
+    listBuildingData:
+    - name: 9
+      buildingItemDatas:
+      - level: 0
+        icon: {fileID: 0}
+        price: 0
+      - level: 1
+        icon: {fileID: 21300000, guid: a04f0dbf0924b3146a33e66ce32864ac, type: 3}
+        price: 150
+      - level: 2
+        icon: {fileID: 21300000, guid: 08c43167a1bd3a4418f630eb4c5e38a2, type: 3}
+        price: 200
+      - level: 3
+        icon: {fileID: 21300000, guid: 0cd438b467f666e4db991aaea2d17b43, type: 3}
+        price: 250
+      - level: 4
+        icon: {fileID: 21300000, guid: 1b790e9a19ac9a3478e5ffd6cb3185a3, type: 3}
+        price: 300
+      - level: 5
+        icon: {fileID: 21300000, guid: f7ac3b701adf12748ab4c725cdc27f6c, type: 3}
+        price: 500
+      icon: {fileID: 21300000, guid: f7ac3b701adf12748ab4c725cdc27f6c, type: 3}
+    - name: 12
+      buildingItemDatas:
+      - level: 0
+        icon: {fileID: 0}
+        price: 0
+      - level: 1
+        icon: {fileID: 21300000, guid: 6093cacc5756217438060767a5639281, type: 3}
+        price: 150
+      - level: 2
+        icon: {fileID: 21300000, guid: 52981c1636b7f9546a485371be1e4407, type: 3}
+        price: 200
+      - level: 3
+        icon: {fileID: 21300000, guid: 4e890e4d45c134a499b9bc407501726d, type: 3}
+        price: 250
+      - level: 4
+        icon: {fileID: 21300000, guid: 91135582e545a1242a4d3ac888c9c06d, type: 3}
+        price: 300
+      - level: 5
+        icon: {fileID: 21300000, guid: b6b14735e60d14c478bf387542eef07b, type: 3}
+        price: 500
+      icon: {fileID: 21300000, guid: b6b14735e60d14c478bf387542eef07b, type: 3}
+    - name: 8
+      buildingItemDatas:
+      - level: 0
+        icon: {fileID: 0}
+        price: 0
+      - level: 1
+        icon: {fileID: 21300000, guid: d90ef772357de334a97d17ed17cde1a6, type: 3}
+        price: 150
+      - level: 2
+        icon: {fileID: 21300000, guid: ba5544ef131955a4282d98ae64205af2, type: 3}
+        price: 200
+      - level: 3
+        icon: {fileID: 21300000, guid: 2d2efbf1dfbd2164bbfc698872b1f93c, type: 3}
+        price: 250
+      - level: 4
+        icon: {fileID: 21300000, guid: 7d0ab92ff05f86145802f97ad7f880ab, type: 3}
+        price: 300
+      - level: 5
+        icon: {fileID: 21300000, guid: 8e9372690cb561d4e8eda40d0100e539, type: 3}
+        price: 500
+      icon: {fileID: 21300000, guid: 8e9372690cb561d4e8eda40d0100e539, type: 3}
+    - name: 11
+      buildingItemDatas:
+      - level: 0
+        icon: {fileID: 0}
+        price: 0
+      - level: 1
+        icon: {fileID: 21300000, guid: 2cc4a7a0ac88f53449992976ed1a6219, type: 3}
+        price: 150
+      - level: 2
+        icon: {fileID: 21300000, guid: 4d066dafe96b92141bda8e57414e4123, type: 3}
+        price: 200
+      - level: 3
+        icon: {fileID: 21300000, guid: fc247fe68ebaa5348a97bc20ab23d2f2, type: 3}
+        price: 250
+      - level: 4
+        icon: {fileID: 21300000, guid: 5e83c09c004fac940b3728157958084e, type: 3}
+        price: 300
+      - level: 5
+        icon: {fileID: 21300000, guid: e38fc3e7963747c4ca98b84eafde1703, type: 3}
+        price: 500
+      icon: {fileID: 21300000, guid: e38fc3e7963747c4ca98b84eafde1703, type: 3}
+    - name: 7
+      buildingItemDatas:
+      - level: 0
+        icon: {fileID: 0}
+        price: 0
+      - level: 1
+        icon: {fileID: 21300000, guid: e5f2269521b91b246927e465e47f876a, type: 3}
+        price: 150
+      - level: 2
+        icon: {fileID: 21300000, guid: 514439f9775066f4290357b099fe2aef, type: 3}
+        price: 200
+      - level: 3
+        icon: {fileID: 21300000, guid: ed4d19f55bc4e8d40a7a90c502c6caf5, type: 3}
+        price: 250
+      - level: 4
+        icon: {fileID: 21300000, guid: a527944dd6a64bc45ae41e4acdb43e84, type: 3}
+        price: 300
+      - level: 5
+        icon: {fileID: 21300000, guid: fcebf3b83e0efd34089537ee5d7eb235, type: 3}
+        price: 500
+      icon: {fileID: 21300000, guid: fcebf3b83e0efd34089537ee5d7eb235, type: 3}
+    - name: 10
+      buildingItemDatas:
+      - level: 0
+        icon: {fileID: 0}
+        price: 0
+      - level: 1
+        icon: {fileID: 21300000, guid: a9ef3540ad59b984e83ed914b1e4cd14, type: 3}
+        price: 150
+      - level: 2
+        icon: {fileID: 21300000, guid: 0b78c3586a2ed034a8dee02d7cea8408, type: 3}
+        price: 200
+      - level: 3
+        icon: {fileID: 21300000, guid: a24c1d3282c528546ba28c9fcce7178e, type: 3}
+        price: 250
+      - level: 4
+        icon: {fileID: 21300000, guid: 7de498e8fa4bf5342ad7d2c36003e40c, type: 3}
+        price: 300
+      - level: 5
+        icon: {fileID: 21300000, guid: 5ac978a5a5234d044b945ad4b7552b6e, type: 3}
+        price: 500
+      icon: {fileID: 21300000, guid: 5ac978a5a5234d044b945ad4b7552b6e, type: 3}
+    - name: 13
+      buildingItemDatas:
+      - level: 0
+        icon: {fileID: 0}
+        price: 0
+      - level: 1
+        icon: {fileID: 21300000, guid: 311b94affdc220446aa0dfd1bbc21ebb, type: 3}
+        price: 150
+      - level: 2
+        icon: {fileID: 21300000, guid: 0c84d6f80131a784b8f7ba21728dabf7, type: 3}
+        price: 200
+      - level: 3
+        icon: {fileID: 21300000, guid: 13b92afd807c838488f739f104e20214, type: 3}
+        price: 250
+      - level: 4
+        icon: {fileID: 21300000, guid: 2aacf81c11ce9d74dab68024e4749cc2, type: 3}
+        price: 300
+      - level: 5
+        icon: {fileID: 21300000, guid: 53847a14e425c4f4f8e9d0a7e649c0a4, type: 3}
+        price: 500
+      icon: {fileID: 21300000, guid: 53847a14e425c4f4f8e9d0a7e649c0a4, type: 3}
+  - iconArea: {fileID: 21300000, guid: f70b456bf638eae4787f6047105b8eda, type: 3}
+    levelUnlock: 100
+    mapName: 2
+    listBuildingData:
+    - name: 14
+      buildingItemDatas:
+      - level: 0
+        icon: {fileID: 0}
+        price: 0
+      - level: 1
+        icon: {fileID: 21300000, guid: 645431cf22ceea249abaff4f907aa3da, type: 3}
+        price: 200
+      - level: 2
+        icon: {fileID: 21300000, guid: 089c494e32ba3af47a4619000fecc872, type: 3}
+        price: 250
+      - level: 3
+        icon: {fileID: 21300000, guid: 06b01555ea9c78d45a22d882b8613f0d, type: 3}
+        price: 300
+      - level: 4
+        icon: {fileID: 21300000, guid: c781a9b4b9129db40a7d92016ad7c9c2, type: 3}
+        price: 400
+      - level: 5
+        icon: {fileID: 21300000, guid: fd6509fa2c8a7ca42a7a59544eef788d, type: 3}
+        price: 600
+      icon: {fileID: 21300000, guid: fd6509fa2c8a7ca42a7a59544eef788d, type: 3}
+    - name: 15
+      buildingItemDatas:
+      - level: 0
+        icon: {fileID: 0}
+        price: 0
+      - level: 1
+        icon: {fileID: 21300000, guid: fa82a16e7c477fa458d48fbbc82e406f, type: 3}
+        price: 200
+      - level: 2
+        icon: {fileID: 21300000, guid: ee1ce20a83f6dca4db0003702cc3886a, type: 3}
+        price: 250
+      - level: 3
+        icon: {fileID: 21300000, guid: d6fafe3831915e34ba4a9a7f8c55b567, type: 3}
+        price: 300
+      - level: 4
+        icon: {fileID: 21300000, guid: d0c247def3db79347a46f98fa8399967, type: 3}
+        price: 400
+      - level: 5
+        icon: {fileID: 21300000, guid: 67864d02c42a92e4e9786b4d681231b3, type: 3}
+        price: 600
+      icon: {fileID: 21300000, guid: 67864d02c42a92e4e9786b4d681231b3, type: 3}
+    - name: 16
+      buildingItemDatas:
+      - level: 0
+        icon: {fileID: 0}
+        price: 0
+      - level: 1
+        icon: {fileID: 21300000, guid: 9f604095a0e34b848a64ed67d1741c8f, type: 3}
+        price: 200
+      - level: 2
+        icon: {fileID: 21300000, guid: 56adaea164f139548920a2b11a20ece0, type: 3}
+        price: 250
+      - level: 3
+        icon: {fileID: 21300000, guid: 8f0eb130a29315143bec5e8e145f8be6, type: 3}
+        price: 300
+      - level: 4
+        icon: {fileID: 21300000, guid: 5346f6da7f9cda541b62a97f736e2527, type: 3}
+        price: 400
+      - level: 5
+        icon: {fileID: 21300000, guid: 42ebda1c37b740c4a969341fe28e8c77, type: 3}
+        price: 600
+      icon: {fileID: 21300000, guid: 42ebda1c37b740c4a969341fe28e8c77, type: 3}
+    - name: 17
+      buildingItemDatas:
+      - level: 0
+        icon: {fileID: 0}
+        price: 0
+      - level: 1
+        icon: {fileID: 21300000, guid: 5f78cdbb9d7b3a840b85a800bc4fc996, type: 3}
+        price: 200
+      - level: 2
+        icon: {fileID: 21300000, guid: f889a3bdde3db3241a528b08a316c072, type: 3}
+        price: 250
+      - level: 3
+        icon: {fileID: 21300000, guid: 55d77737be50a07419959307c4f3ebbd, type: 3}
+        price: 300
+      - level: 4
+        icon: {fileID: 21300000, guid: 67cf37bef64648440a4780016dc80c76, type: 3}
+        price: 400
+      - level: 5
+        icon: {fileID: 21300000, guid: cf9b5c3edbd4b7d41a99bf964e0605f8, type: 3}
+        price: 600
+      icon: {fileID: 21300000, guid: cf9b5c3edbd4b7d41a99bf964e0605f8, type: 3}
+    - name: 18
+      buildingItemDatas:
+      - level: 0
+        icon: {fileID: 0}
+        price: 0
+      - level: 1
+        icon: {fileID: 21300000, guid: 331e8fcc8508858418da6accce4b743a, type: 3}
+        price: 200
+      - level: 2
+        icon: {fileID: 21300000, guid: 20e0eec7b8a89a54187ec5aea17678a1, type: 3}
+        price: 250
+      - level: 3
+        icon: {fileID: 21300000, guid: 98dd5d832220a0941bfa114a2cae4af4, type: 3}
+        price: 300
+      - level: 4
+        icon: {fileID: 21300000, guid: f44f45a89642c1a4d9c81d65c21da2e6, type: 3}
+        price: 400
+      - level: 5
+        icon: {fileID: 21300000, guid: f4f7a756146f51d45983b8f9fccda3e9, type: 3}
+        price: 600
+      icon: {fileID: 21300000, guid: 67864d02c42a92e4e9786b4d681231b3, type: 3}
+    - name: 19
+      buildingItemDatas:
+      - level: 0
+        icon: {fileID: 0}
+        price: 0
+      - level: 1
+        icon: {fileID: 21300000, guid: d60f43a7db6ee734e925e4616e4b7754, type: 3}
+        price: 200
+      - level: 2
+        icon: {fileID: 21300000, guid: 3008b9bbf7c2a37409015cad60c00278, type: 3}
+        price: 250
+      - level: 3
+        icon: {fileID: 21300000, guid: 1092dd0be407bf94caaa03d4ad6975a7, type: 3}
+        price: 300
+      - level: 4
+        icon: {fileID: 21300000, guid: bd17bb67ba0c74847bd6b7092451d053, type: 3}
+        price: 400
+      - level: 5
+        icon: {fileID: 21300000, guid: 77f6d8d9c75b7394aac3a4bb3e6262bf, type: 3}
+        price: 600
+      icon: {fileID: 21300000, guid: 77f6d8d9c75b7394aac3a4bb3e6262bf, type: 3}
+    - name: 20
+      buildingItemDatas:
+      - level: 0
+        icon: {fileID: 0}
+        price: 0
+      - level: 1
+        icon: {fileID: 21300000, guid: 072989b8f6c772b4b810d9d5988c0536, type: 3}
+        price: 200
+      - level: 2
+        icon: {fileID: 21300000, guid: 4e3ba98da42e720498e8a8eacd40d3b4, type: 3}
+        price: 250
+      - level: 3
+        icon: {fileID: 21300000, guid: 7dfc7ccd219dee24094688e5df887abd, type: 3}
+        price: 300
+      - level: 4
+        icon: {fileID: 21300000, guid: 3a70a783257feeb4cb7d8da196adfc9b, type: 3}
+        price: 400
+      - level: 5
+        icon: {fileID: 21300000, guid: 695f10a1ee368cf43b71c4caf398bc0e, type: 3}
+        price: 600
+      icon: {fileID: 21300000, guid: 695f10a1ee368cf43b71c4caf398bc0e, type: 3}
+  - iconArea: {fileID: 21300000, guid: a1c87771185d05249b7ba8a1e6ec09a5, type: 3}
+    levelUnlock: 150
+    mapName: 3
+    listBuildingData:
+    - name: 21
+      buildingItemDatas:
+      - level: 0
+        icon: {fileID: 0}
+        price: 0
+      - level: 1
+        icon: {fileID: 21300000, guid: 03aa303f91143d34d89f78fae32e960f, type: 3}
+        price: 250
+      - level: 2
+        icon: {fileID: 21300000, guid: 5db7251274642724fb4d1e75dce87682, type: 3}
+        price: 300
+      - level: 3
+        icon: {fileID: 21300000, guid: 217278e4208b7334fa56ca2f2ebd059b, type: 3}
+        price: 500
+      - level: 4
+        icon: {fileID: 21300000, guid: 6bd876a95d68bbd42be7efd3b422d5ec, type: 3}
+        price: 600
+      - level: 5
+        icon: {fileID: 21300000, guid: 33a325d4c128132409aa228cce339d01, type: 3}
+        price: 700
+      icon: {fileID: 21300000, guid: 33a325d4c128132409aa228cce339d01, type: 3}
+    - name: 22
+      buildingItemDatas:
+      - level: 0
+        icon: {fileID: 0}
+        price: 0
+      - level: 1
+        icon: {fileID: 21300000, guid: c70c86d176038a24a9261680bb82079f, type: 3}
+        price: 250
+      - level: 2
+        icon: {fileID: 21300000, guid: ed59c1562c0cdc142ae253b50f3cc196, type: 3}
+        price: 300
+      - level: 3
+        icon: {fileID: 21300000, guid: 6761c9f704998924bbb9f33f8cfc6500, type: 3}
+        price: 500
+      - level: 4
+        icon: {fileID: 21300000, guid: 3bdabc10babf69c4fb69a2d16964c651, type: 3}
+        price: 600
+      - level: 5
+        icon: {fileID: 21300000, guid: 71092053bc5472d4ca7455e0c10355d1, type: 3}
+        price: 700
+      icon: {fileID: 21300000, guid: 71092053bc5472d4ca7455e0c10355d1, type: 3}
+    - name: 23
+      buildingItemDatas:
+      - level: 0
+        icon: {fileID: 0}
+        price: 0
+      - level: 1
+        icon: {fileID: 21300000, guid: 4ba4e3b0a50b3f04291b11e5ea42507a, type: 3}
+        price: 250
+      - level: 2
+        icon: {fileID: 21300000, guid: 6e6227fc27f502347ad30f0a5e1f4b34, type: 3}
+        price: 300
+      - level: 3
+        icon: {fileID: 21300000, guid: 65eae2233592049459cbfd8e1f07681e, type: 3}
+        price: 500
+      - level: 4
+        icon: {fileID: 21300000, guid: a2711e69835f684459526fce31370a01, type: 3}
+        price: 600
+      - level: 5
+        icon: {fileID: 21300000, guid: 8bdf0d681427da44cbddca52d69b0b6e, type: 3}
+        price: 700
+      icon: {fileID: 21300000, guid: 8bdf0d681427da44cbddca52d69b0b6e, type: 3}
+    - name: 24
+      buildingItemDatas:
+      - level: 0
+        icon: {fileID: 0}
+        price: 0
+      - level: 1
+        icon: {fileID: 21300000, guid: 68e9dd18da9e5a64fbd0455f327a1524, type: 3}
+        price: 250
+      - level: 2
+        icon: {fileID: 21300000, guid: a1eb58fe44695474fbc61c2d7e776e8b, type: 3}
+        price: 300
+      - level: 3
+        icon: {fileID: 21300000, guid: 40dbc45f8b1c12349bba17841a7fd8b9, type: 3}
+        price: 500
+      - level: 4
+        icon: {fileID: 21300000, guid: 75bb4e558216127459638950b61dd3f5, type: 3}
+        price: 600
+      - level: 5
+        icon: {fileID: 21300000, guid: 25b00c1111f99454d951a9ed788404a0, type: 3}
+        price: 700
+      icon: {fileID: 21300000, guid: 25b00c1111f99454d951a9ed788404a0, type: 3}
+    - name: 25
+      buildingItemDatas:
+      - level: 0
+        icon: {fileID: 0}
+        price: 0
+      - level: 1
+        icon: {fileID: 21300000, guid: 38cbd592ffc4ca04f9f8160aefdfc99a, type: 3}
+        price: 250
+      - level: 2
+        icon: {fileID: 21300000, guid: 3f8c29628feea0c4c9697fe536f813da, type: 3}
+        price: 300
+      - level: 3
+        icon: {fileID: 21300000, guid: ef3a2d8088ba8ee449d5ce7e76b0c4f0, type: 3}
+        price: 500
+      - level: 4
+        icon: {fileID: 21300000, guid: 3ccc12b4e098efa43950587726051c4a, type: 3}
+        price: 600
+      - level: 5
+        icon: {fileID: 21300000, guid: 0a2dc52b094c3d14f8d568b8f5694391, type: 3}
+        price: 700
+      icon: {fileID: 21300000, guid: 0a2dc52b094c3d14f8d568b8f5694391, type: 3}
+    - name: 26
+      buildingItemDatas:
+      - level: 0
+        icon: {fileID: 0}
+        price: 0
+      - level: 1
+        icon: {fileID: 21300000, guid: ce41e15cddfa096448e48604c14479da, type: 3}
+        price: 250
+      - level: 2
+        icon: {fileID: 21300000, guid: b523bd8378b1a324c856a02f911ac4a8, type: 3}
+        price: 300
+      - level: 3
+        icon: {fileID: 21300000, guid: 45f50a02fa6db3c4f946a47eb5e21985, type: 3}
+        price: 500
+      - level: 4
+        icon: {fileID: 21300000, guid: b8a7eac9d2878cb45a223a8474d0856b, type: 3}
+        price: 600
+      - level: 5
+        icon: {fileID: 21300000, guid: ba4204166621bd749872d93208838f21, type: 3}
+        price: 700
+      icon: {fileID: 21300000, guid: ba4204166621bd749872d93208838f21, type: 3}
+    - name: 27
+      buildingItemDatas:
+      - level: 0
+        icon: {fileID: 0}
+        price: 0
+      - level: 1
+        icon: {fileID: 21300000, guid: a5beb6ab52d66ff41ab7ec7307f05818, type: 3}
+        price: 250
+      - level: 2
+        icon: {fileID: 21300000, guid: 9ceffa60d2dcd344fa8783e3981ad122, type: 3}
+        price: 300
+      - level: 3
+        icon: {fileID: 21300000, guid: 6b2e4c0038ea1a840b29946719c2799b, type: 3}
+        price: 500
+      - level: 4
+        icon: {fileID: 21300000, guid: 6c5218ceb2e40084da7e900915087147, type: 3}
+        price: 600
+      - level: 5
+        icon: {fileID: 21300000, guid: 13f9dba624540e34990c620024811e03, type: 3}
+        price: 700
+      icon: {fileID: 21300000, guid: 13f9dba624540e34990c620024811e03, type: 3}
+  - iconArea: {fileID: 21300000, guid: fe97304ddc2860d40a419fd264895341, type: 3}
+    levelUnlock: 200
+    mapName: 4
+    listBuildingData:
+    - name: 28
+      buildingItemDatas:
+      - level: 0
+        icon: {fileID: 0}
+        price: 0
+      - level: 1
+        icon: {fileID: 21300000, guid: 630e98c84438f7341a8a707bdb09009b, type: 3}
+        price: 400
+      - level: 2
+        icon: {fileID: 21300000, guid: 8fb44da9aa440c74993cd3434bef63ba, type: 3}
+        price: 500
+      - level: 3
+        icon: {fileID: 21300000, guid: 31213094c55cc2f43a71f99a70bea31d, type: 3}
+        price: 700
+      - level: 4
+        icon: {fileID: 21300000, guid: 0429c63f8ea2fe845b22bf9caf255e14, type: 3}
+        price: 800
+      - level: 5
+        icon: {fileID: 21300000, guid: 921262f11dfb21546ad68f1bc57ff755, type: 3}
+        price: 1000
+      icon: {fileID: 21300000, guid: 921262f11dfb21546ad68f1bc57ff755, type: 3}
+    - name: 29
+      buildingItemDatas:
+      - level: 0
+        icon: {fileID: 0}
+        price: 0
+      - level: 1
+        icon: {fileID: 21300000, guid: f6745d32a0f90fe4291dae51b26f2fb4, type: 3}
+        price: 400
+      - level: 2
+        icon: {fileID: 21300000, guid: 19cff09a332cdb745b00443bd85f5bc6, type: 3}
+        price: 500
+      - level: 3
+        icon: {fileID: 21300000, guid: 212dba042beece44dbd177c151acece8, type: 3}
+        price: 700
+      - level: 4
+        icon: {fileID: 21300000, guid: f9a77b151f5203048b5e5fae49a5da4d, type: 3}
+        price: 800
+      - level: 5
+        icon: {fileID: 21300000, guid: 3150d06c1fdfe9047a5fdf43e8993259, type: 3}
+        price: 1000
+      icon: {fileID: 21300000, guid: 3150d06c1fdfe9047a5fdf43e8993259, type: 3}
+    - name: 30
+      buildingItemDatas:
+      - level: 0
+        icon: {fileID: 0}
+        price: 0
+      - level: 1
+        icon: {fileID: 21300000, guid: ca17b1ca4cd48a449805e93d86d69e9f, type: 3}
+        price: 400
+      - level: 2
+        icon: {fileID: 21300000, guid: 20d8bae58b7a54643a9b1562753d4f1e, type: 3}
+        price: 500
+      - level: 3
+        icon: {fileID: 21300000, guid: bdbbc42ae206d1448b3c34396fe6e070, type: 3}
+        price: 700
+      - level: 4
+        icon: {fileID: 21300000, guid: 5da1100c1615f124a9561d21375571cc, type: 3}
+        price: 800
+      - level: 5
+        icon: {fileID: 21300000, guid: 66a710ce80ccbae4db68f12aee024680, type: 3}
+        price: 1000
+      icon: {fileID: 21300000, guid: 66a710ce80ccbae4db68f12aee024680, type: 3}
+    - name: 31
+      buildingItemDatas:
+      - level: 0
+        icon: {fileID: 0}
+        price: 0
+      - level: 1
+        icon: {fileID: 21300000, guid: d30bf1ba75f23f34da2e485dbccf1e6f, type: 3}
+        price: 400
+      - level: 2
+        icon: {fileID: 21300000, guid: 7928f5935c086214f8be60cb4940a572, type: 3}
+        price: 500
+      - level: 3
+        icon: {fileID: 21300000, guid: 5ff9f41a5e2ff4a4486a4c9177994996, type: 3}
+        price: 700
+      - level: 4
+        icon: {fileID: 21300000, guid: b2b1428999719ef40a13cef991476119, type: 3}
+        price: 800
+      - level: 5
+        icon: {fileID: 21300000, guid: d58f0ea55dc63564d933c80d1a4a37a8, type: 3}
+        price: 1000
+      icon: {fileID: 21300000, guid: d58f0ea55dc63564d933c80d1a4a37a8, type: 3}
+    - name: 32
+      buildingItemDatas:
+      - level: 0
+        icon: {fileID: 0}
+        price: 0
+      - level: 1
+        icon: {fileID: 21300000, guid: 81a60c1894f272c4cb461e4431505e39, type: 3}
+        price: 400
+      - level: 2
+        icon: {fileID: 21300000, guid: c5e25f3e67df5854495bdd7246b13e33, type: 3}
+        price: 500
+      - level: 3
+        icon: {fileID: 21300000, guid: f0e8dfa9e366ff94486330f0d5f5da14, type: 3}
+        price: 700
+      - level: 4
+        icon: {fileID: 21300000, guid: 42f87b8dcf7557d4aaad2b095105b523, type: 3}
+        price: 800
+      - level: 5
+        icon: {fileID: 21300000, guid: c25bba9928c4d5f489feb0c2dae88819, type: 3}
+        price: 1000
+      icon: {fileID: 21300000, guid: c25bba9928c4d5f489feb0c2dae88819, type: 3}
+    - name: 33
+      buildingItemDatas:
+      - level: 0
+        icon: {fileID: 0}
+        price: 0
+      - level: 1
+        icon: {fileID: 21300000, guid: 79024c9f236ffc547818b847d6d7dbfb, type: 3}
+        price: 400
+      - level: 2
+        icon: {fileID: 21300000, guid: e2dc7afb7d2488d4abbf834e10e21f0e, type: 3}
+        price: 500
+      - level: 3
+        icon: {fileID: 21300000, guid: 649608c682486e24081cc22d5c96e9cf, type: 3}
+        price: 700
+      - level: 4
+        icon: {fileID: 21300000, guid: 550483ada042fe947a8c6c777c32c944, type: 3}
+        price: 800
+      - level: 5
+        icon: {fileID: 21300000, guid: b60d01b94ca0f39438a447bfdf573019, type: 3}
+        price: 1000
+      icon: {fileID: 21300000, guid: b60d01b94ca0f39438a447bfdf573019, type: 3}
+    - name: 34
+      buildingItemDatas:
+      - level: 0
+        icon: {fileID: 0}
+        price: 0
+      - level: 1
+        icon: {fileID: 21300000, guid: 8dcd2f71a234d874aa9f2f4bcc87cdc6, type: 3}
+        price: 400
+      - level: 2
+        icon: {fileID: 21300000, guid: 4452eb8e231462343825e2e27ca392e6, type: 3}
+        price: 500
+      - level: 3
+        icon: {fileID: 21300000, guid: a348193b315f7f84eaf369055f4d8b07, type: 3}
+        price: 700
+      - level: 4
+        icon: {fileID: 21300000, guid: f3a02935e72eccc459226c6b6e077a91, type: 3}
+        price: 800
+      - level: 5
+        icon: {fileID: 21300000, guid: a014cf4b49944b3469e978918185184a, type: 3}
+        price: 1000
+      icon: {fileID: 21300000, guid: a014cf4b49944b3469e978918185184a, type: 3}
+  - iconArea: {fileID: 21300000, guid: 3856be38bc102b2448849f393ea01a31, type: 3}
+    levelUnlock: 250
+    mapName: 5
+    listBuildingData:
+    - name: 35
+      buildingItemDatas:
+      - level: 0
+        icon: {fileID: 0}
+        price: 0
+      - level: 1
+        icon: {fileID: 21300000, guid: dad1f85436712ff46816da628a9a87b2, type: 3}
+        price: 600
+      - level: 2
+        icon: {fileID: 21300000, guid: c6b0a5ad088dc20408eb1750d401d177, type: 3}
+        price: 750
+      - level: 3
+        icon: {fileID: 21300000, guid: 5a3bf2cc3d34fe04bb5e31462c6e0a13, type: 3}
+        price: 1000
+      - level: 4
+        icon: {fileID: 21300000, guid: 272e7a5d7c4b6d549bfec500f58c4fe4, type: 3}
+        price: 1400
+      - level: 5
+        icon: {fileID: 21300000, guid: d23ab1d19572a5240a65bc3fbf6eec04, type: 3}
+        price: 1600
+      icon: {fileID: 21300000, guid: d23ab1d19572a5240a65bc3fbf6eec04, type: 3}
+    - name: 36
+      buildingItemDatas:
+      - level: 0
+        icon: {fileID: 0}
+        price: 0
+      - level: 1
+        icon: {fileID: 21300000, guid: 9ec81c4899e9514468066797c9c8309d, type: 3}
+        price: 600
+      - level: 2
+        icon: {fileID: 21300000, guid: 32d4b19bbf6ac86438c436257ce1d35f, type: 3}
+        price: 750
+      - level: 3
+        icon: {fileID: 21300000, guid: 3fcea2152edd2184aa5ef6d9a33853f8, type: 3}
+        price: 1000
+      - level: 4
+        icon: {fileID: 21300000, guid: 02d9e9d414732b44a8dd7d28d9d6df83, type: 3}
+        price: 1400
+      - level: 5
+        icon: {fileID: 21300000, guid: 6baba686b5358e3448f0783d8a02ee79, type: 3}
+        price: 1600
+      icon: {fileID: 21300000, guid: 6baba686b5358e3448f0783d8a02ee79, type: 3}
+    - name: 37
+      buildingItemDatas:
+      - level: 0
+        icon: {fileID: 0}
+        price: 0
+      - level: 1
+        icon: {fileID: 21300000, guid: a0b808467de234a40ae8dd6157ca053d, type: 3}
+        price: 600
+      - level: 2
+        icon: {fileID: 21300000, guid: 59985e7e620c2da4fafd3cc7d6dfd164, type: 3}
+        price: 750
+      - level: 3
+        icon: {fileID: 21300000, guid: e61b87c824d907a4a806506745bec01c, type: 3}
+        price: 1000
+      - level: 4
+        icon: {fileID: 21300000, guid: 0dcec4fc9b356a748b7c870f8dfaab57, type: 3}
+        price: 1400
+      - level: 5
+        icon: {fileID: 21300000, guid: e0c8fb4860a74044692d6e75b657694e, type: 3}
+        price: 1600
+      icon: {fileID: 21300000, guid: e0c8fb4860a74044692d6e75b657694e, type: 3}
+    - name: 38
+      buildingItemDatas:
+      - level: 0
+        icon: {fileID: 0}
+        price: 0
+      - level: 1
+        icon: {fileID: 21300000, guid: 4b90f9c5f5e20614ab47a878c7ffee53, type: 3}
+        price: 600
+      - level: 2
+        icon: {fileID: 21300000, guid: 876f93ba72e607841a559e4e142acf20, type: 3}
+        price: 750
+      - level: 3
+        icon: {fileID: 21300000, guid: 22e594f7a06499a408dbd94f52708acf, type: 3}
+        price: 1000
+      - level: 4
+        icon: {fileID: 21300000, guid: a461a210897ac1041b8cd28b9e8feb9f, type: 3}
+        price: 1400
+      - level: 5
+        icon: {fileID: 21300000, guid: ee9ae193321650842bada955300ae818, type: 3}
+        price: 1600
+      icon: {fileID: 21300000, guid: ee9ae193321650842bada955300ae818, type: 3}
+    - name: 39
+      buildingItemDatas:
+      - level: 0
+        icon: {fileID: 0}
+        price: 0
+      - level: 1
+        icon: {fileID: 21300000, guid: b2debc6995bb52446aaf2496ed77cc18, type: 3}
+        price: 600
+      - level: 2
+        icon: {fileID: 21300000, guid: c542d4813d68fd641af65221479c0a53, type: 3}
+        price: 750
+      - level: 3
+        icon: {fileID: 21300000, guid: ce98d511132b07040bac7e9cc5940833, type: 3}
+        price: 1000
+      - level: 4
+        icon: {fileID: 21300000, guid: 9c96702ed98b62f4c808cfd21a4d3886, type: 3}
+        price: 1400
+      - level: 5
+        icon: {fileID: 21300000, guid: 30c73963c7606cb499868301005bd5e9, type: 3}
+        price: 1600
+      icon: {fileID: 21300000, guid: 30c73963c7606cb499868301005bd5e9, type: 3}
+    - name: 40
+      buildingItemDatas:
+      - level: 0
+        icon: {fileID: 0}
+        price: 0
+      - level: 1
+        icon: {fileID: 21300000, guid: 91439e1048820704fb2d2db24d8b068e, type: 3}
+        price: 600
+      - level: 2
+        icon: {fileID: 21300000, guid: 371da4548f107ed4bbff6bd5e9efeae1, type: 3}
+        price: 750
+      - level: 3
+        icon: {fileID: 21300000, guid: f97cd72b4fd437b48912fb0ebe420b35, type: 3}
+        price: 1000
+      - level: 4
+        icon: {fileID: 21300000, guid: ec7a8f9ab39227e46a493c80b4414798, type: 3}
+        price: 1400
+      - level: 5
+        icon: {fileID: 21300000, guid: 18dd5045fb7da9943a777723f0ed8ea8, type: 3}
+        price: 1600
+      icon: {fileID: 21300000, guid: 18dd5045fb7da9943a777723f0ed8ea8, type: 3}
+    - name: 41
+      buildingItemDatas:
+      - level: 0
+        icon: {fileID: 0}
+        price: 0
+      - level: 1
+        icon: {fileID: 21300000, guid: f4637d7c0fa09044b94a20e4c3486675, type: 3}
+        price: 600
+      - level: 2
+        icon: {fileID: 21300000, guid: c1ae9cfadf346aa4d82db7eef2fece4e, type: 3}
+        price: 750
+      - level: 3
+        icon: {fileID: 21300000, guid: 64f14bd956c15f94fa0745029dc6fb5e, type: 3}
+        price: 1000
+      - level: 4
+        icon: {fileID: 21300000, guid: 9b4667d437065474fa4d4a92db31c87f, type: 3}
+        price: 1400
+      - level: 5
+        icon: {fileID: 21300000, guid: 728390576bc300c4b8d65c3865d409f7, type: 3}
+        price: 1600
+      icon: {fileID: 21300000, guid: 728390576bc300c4b8d65c3865d409f7, type: 3}
+  - iconArea: {fileID: 21300000, guid: 1b2508c575c7e2e4fbf5dab9e687e993, type: 3}
+    levelUnlock: 300
+    mapName: 6
+    listBuildingData:
+    - name: 42
+      buildingItemDatas:
+      - level: 0
+        icon: {fileID: 0}
+        price: 0
+      - level: 1
+        icon: {fileID: 21300000, guid: 99036df7902d8a24d8cb5a8acccc9e2f, type: 3}
+        price: 1500
+      - level: 2
+        icon: {fileID: 21300000, guid: 8187814666cddd84d8b5611f8f472c57, type: 3}
+        price: 1600
+      - level: 3
+        icon: {fileID: 21300000, guid: 53cb726a71ebdbc40835695d2f6cc7ce, type: 3}
+        price: 1800
+      - level: 4
+        icon: {fileID: 21300000, guid: 59eed514d0adb0c43aab322bfab50893, type: 3}
+        price: 2000
+      - level: 5
+        icon: {fileID: 21300000, guid: 7f1d47d1b44720b47ae98edbb38e69e9, type: 3}
+        price: 2400
+      icon: {fileID: 21300000, guid: 7f1d47d1b44720b47ae98edbb38e69e9, type: 3}
+    - name: 43
+      buildingItemDatas:
+      - level: 0
+        icon: {fileID: 0}
+        price: 0
+      - level: 1
+        icon: {fileID: 21300000, guid: b1cee49f46ee990429c662c5e2a91986, type: 3}
+        price: 1500
+      - level: 2
+        icon: {fileID: 21300000, guid: 70d05b803d452d144b1759b113f158f2, type: 3}
+        price: 1600
+      - level: 3
+        icon: {fileID: 21300000, guid: d637f0515b69002438a5383d6b401410, type: 3}
+        price: 1800
+      - level: 4
+        icon: {fileID: 21300000, guid: e51338462b1cbb64fb548d162f0bafa3, type: 3}
+        price: 2000
+      - level: 5
+        icon: {fileID: 21300000, guid: 5ab76cd2ed7e00e448051c02e8ebd5ab, type: 3}
+        price: 2400
+      icon: {fileID: 21300000, guid: 5ab76cd2ed7e00e448051c02e8ebd5ab, type: 3}
+    - name: 44
+      buildingItemDatas:
+      - level: 0
+        icon: {fileID: 0}
+        price: 0
+      - level: 1
+        icon: {fileID: 21300000, guid: 79c9c3fed3145eb4692f217a67c72be7, type: 3}
+        price: 1500
+      - level: 2
+        icon: {fileID: 21300000, guid: 7d1797f1de5a0fa4ca12e6b380e23859, type: 3}
+        price: 1600
+      - level: 3
+        icon: {fileID: 21300000, guid: 5ba02bb3c0c17424e865150d660642aa, type: 3}
+        price: 1800
+      - level: 4
+        icon: {fileID: 21300000, guid: 9c8f024e31fd30e4ca524a4143b313ca, type: 3}
+        price: 2000
+      - level: 5
+        icon: {fileID: 21300000, guid: 9bf9e56e426623d4ab27ba08595bced9, type: 3}
+        price: 2400
+      icon: {fileID: 21300000, guid: 9bf9e56e426623d4ab27ba08595bced9, type: 3}
+    - name: 45
+      buildingItemDatas:
+      - level: 0
+        icon: {fileID: 0}
+        price: 0
+      - level: 1
+        icon: {fileID: 21300000, guid: beab1261b33ac3e459c360a3b9d4e4cc, type: 3}
+        price: 1500
+      - level: 2
+        icon: {fileID: 21300000, guid: 8355fff0b8f4b5345b85f061c8626eca, type: 3}
+        price: 1600
+      - level: 3
+        icon: {fileID: 21300000, guid: a1f504a6ab9f1034e90671e0e0ed9168, type: 3}
+        price: 1800
+      - level: 4
+        icon: {fileID: 21300000, guid: dde3f340fbdd0d34fb65121a8851cc24, type: 3}
+        price: 2000
+      - level: 5
+        icon: {fileID: 21300000, guid: 8e5bf32fd57a7b24f979b6da84e78bfe, type: 3}
+        price: 2400
+      icon: {fileID: 21300000, guid: 8e5bf32fd57a7b24f979b6da84e78bfe, type: 3}
+    - name: 46
+      buildingItemDatas:
+      - level: 0
+        icon: {fileID: 0}
+        price: 0
+      - level: 1
+        icon: {fileID: 21300000, guid: 089c8883ef0d3e44f93a61fdb2aeae4a, type: 3}
+        price: 1500
+      - level: 2
+        icon: {fileID: 21300000, guid: 9e874327cd08754479ab39410d7f35ff, type: 3}
+        price: 1600
+      - level: 3
+        icon: {fileID: 21300000, guid: b7a706771badd944592f8ca456ca69bc, type: 3}
+        price: 1800
+      - level: 4
+        icon: {fileID: 21300000, guid: a8ade17b4753c4147bc29c59c6de703f, type: 3}
+        price: 2000
+      - level: 5
+        icon: {fileID: 21300000, guid: 6bbeedad22cbf4540ba3b24f38693122, type: 3}
+        price: 2400
+      icon: {fileID: 21300000, guid: 6bbeedad22cbf4540ba3b24f38693122, type: 3}
+    - name: 47
+      buildingItemDatas:
+      - level: 0
+        icon: {fileID: 0}
+        price: 0
+      - level: 1
+        icon: {fileID: 21300000, guid: b77e8a85899096c4697c30818be3b352, type: 3}
+        price: 1500
+      - level: 2
+        icon: {fileID: 21300000, guid: 0644e4a108b83d341a4571ef6d2e49e0, type: 3}
+        price: 1600
+      - level: 3
+        icon: {fileID: 21300000, guid: 03a9879aad863ff40995135cf56cb098, type: 3}
+        price: 1800
+      - level: 4
+        icon: {fileID: 21300000, guid: ff80d6dd33a8833429a47d71af7b7585, type: 3}
+        price: 2000
+      - level: 5
+        icon: {fileID: 21300000, guid: 91d943184aa7c7c4f9fa4b246cafc004, type: 3}
+        price: 2400
+      icon: {fileID: 21300000, guid: 91d943184aa7c7c4f9fa4b246cafc004, type: 3}
+    - name: 48
+      buildingItemDatas:
+      - level: 0
+        icon: {fileID: 0}
+        price: 0
+      - level: 1
+        icon: {fileID: 21300000, guid: 7921a753b7a60cc42b2850090cbde19d, type: 3}
+        price: 1500
+      - level: 2
+        icon: {fileID: 21300000, guid: db422ff11173fa64faf5df658788fa08, type: 3}
+        price: 1600
+      - level: 3
+        icon: {fileID: 21300000, guid: 460b0461e0e904d4f9aeff53c15bb31f, type: 3}
+        price: 1800
+      - level: 4
+        icon: {fileID: 21300000, guid: 2ab3c99748010b344a81a604cc2d2e19, type: 3}
+        price: 2000
+      - level: 5
+        icon: {fileID: 21300000, guid: a0cb9a9a524d782408ec353a9721058f, type: 3}
+        price: 2400
+      icon: {fileID: 21300000, guid: a0cb9a9a524d782408ec353a9721058f, type: 3}
+  - iconArea: {fileID: 21300000, guid: a914477b24b34c9498de5657aa75b878, type: 3}
+    levelUnlock: 350
+    mapName: 7
+    listBuildingData:
+    - name: 49
+      buildingItemDatas:
+      - level: 0
+        icon: {fileID: 0}
+        price: 0
+      - level: 1
+        icon: {fileID: 21300000, guid: 8da69577f73afc744801f3f6b27e9ce4, type: 3}
+        price: 2000
+      - level: 2
+        icon: {fileID: 21300000, guid: d813f469d3d8d164fb9b11bfc8a85dfb, type: 3}
+        price: 2500
+      - level: 3
+        icon: {fileID: 21300000, guid: bc6ead9273ffb6740a3e736430302bfc, type: 3}
+        price: 3000
+      - level: 4
+        icon: {fileID: 21300000, guid: ab0cd1fa739428f4ca9fc74007026a9e, type: 3}
+        price: 4000
+      - level: 5
+        icon: {fileID: 21300000, guid: 5c574ccfba18fa44f8c0f8f86eed36af, type: 3}
+        price: 5000
+      icon: {fileID: 21300000, guid: 5c574ccfba18fa44f8c0f8f86eed36af, type: 3}
+    - name: 50
+      buildingItemDatas:
+      - level: 0
+        icon: {fileID: 0}
+        price: 0
+      - level: 1
+        icon: {fileID: 21300000, guid: 254d2171071cb3f4bb9194cca73eb68c, type: 3}
+        price: 2000
+      - level: 2
+        icon: {fileID: 21300000, guid: 1dfd80397e1d6b54aba8a6dced1a06f6, type: 3}
+        price: 2500
+      - level: 3
+        icon: {fileID: 21300000, guid: eed1c18d96419db4d96de648df1f21ff, type: 3}
+        price: 3000
+      - level: 4
+        icon: {fileID: 21300000, guid: bbbb48adea8440645bda76a049f85505, type: 3}
+        price: 4000
+      - level: 5
+        icon: {fileID: 21300000, guid: 62d8419e7e9f1ee4eae6926aa2c67f8d, type: 3}
+        price: 5000
+      icon: {fileID: 21300000, guid: 62d8419e7e9f1ee4eae6926aa2c67f8d, type: 3}
+    - name: 51
+      buildingItemDatas:
+      - level: 0
+        icon: {fileID: 0}
+        price: 0
+      - level: 1
+        icon: {fileID: 21300000, guid: 7150b69bc90b3c847ae5e3a02884fb21, type: 3}
+        price: 2000
+      - level: 2
+        icon: {fileID: 21300000, guid: 7f6c3cf2e852a3441aba2d655e52a617, type: 3}
+        price: 2500
+      - level: 3
+        icon: {fileID: 21300000, guid: 1df9d9449f037bb4da9d247097d77776, type: 3}
+        price: 3000
+      - level: 4
+        icon: {fileID: 21300000, guid: 54f5dc99eb89a1546a5ce25bb8ee4732, type: 3}
+        price: 4000
+      - level: 5
+        icon: {fileID: 21300000, guid: 12e351fe441fc564d9fd513726c59393, type: 3}
+        price: 5000
+      icon: {fileID: 21300000, guid: 12e351fe441fc564d9fd513726c59393, type: 3}
+    - name: 52
+      buildingItemDatas:
+      - level: 0
+        icon: {fileID: 0}
+        price: 0
+      - level: 1
+        icon: {fileID: 21300000, guid: 120a05f940e07ca488ddc6c0f4fd780f, type: 3}
+        price: 2000
+      - level: 2
+        icon: {fileID: 21300000, guid: 7e3def67f1bfce04ca88b8a68d85dcf9, type: 3}
+        price: 2500
+      - level: 3
+        icon: {fileID: 21300000, guid: 5ed864278247db8419241c8d89a9d938, type: 3}
+        price: 3000
+      - level: 4
+        icon: {fileID: 21300000, guid: 41cf9d307d8934e408497ee4cec97ca9, type: 3}
+        price: 4000
+      - level: 5
+        icon: {fileID: 21300000, guid: c283ca431d3dfe94e82930953585db92, type: 3}
+        price: 5000
+      icon: {fileID: 21300000, guid: c283ca431d3dfe94e82930953585db92, type: 3}
+    - name: 53
+      buildingItemDatas:
+      - level: 0
+        icon: {fileID: 0}
+        price: 0
+      - level: 1
+        icon: {fileID: 21300000, guid: 92a9e0f58741c894b95eadaa0780f765, type: 3}
+        price: 2000
+      - level: 2
+        icon: {fileID: 21300000, guid: e2991fd88d381a144a1c8a21602b022c, type: 3}
+        price: 2500
+      - level: 3
+        icon: {fileID: 21300000, guid: cb84730ced7f79f4a977256406355804, type: 3}
+        price: 3000
+      - level: 4
+        icon: {fileID: 21300000, guid: ac7ae1eceacd97145a0f52bcc09cab86, type: 3}
+        price: 4000
+      - level: 5
+        icon: {fileID: 21300000, guid: 651db2aeb2a66614aaa8519755e437e2, type: 3}
+        price: 5000
+      icon: {fileID: 21300000, guid: 651db2aeb2a66614aaa8519755e437e2, type: 3}
+    - name: 54
+      buildingItemDatas:
+      - level: 0
+        icon: {fileID: 0}
+        price: 0
+      - level: 1
+        icon: {fileID: 21300000, guid: af77ed27dd4dee544bafbf50d29d2d17, type: 3}
+        price: 2000
+      - level: 2
+        icon: {fileID: 21300000, guid: d71dae58286a3fb43a437b5799fbb163, type: 3}
+        price: 2500
+      - level: 3
+        icon: {fileID: 21300000, guid: dfca5cd2ebc98684993f828a6b9b1d4a, type: 3}
+        price: 3000
+      - level: 4
+        icon: {fileID: 21300000, guid: 7e856c7f4a412214a9b969744ea1900e, type: 3}
+        price: 4000
+      - level: 5
+        icon: {fileID: 21300000, guid: 93befb8fba331304cb2c3d7c987a11e1, type: 3}
+        price: 5000
+      icon: {fileID: 21300000, guid: 93befb8fba331304cb2c3d7c987a11e1, type: 3}
+    - name: 55
+      buildingItemDatas:
+      - level: 0
+        icon: {fileID: 0}
+        price: 0
+      - level: 1
+        icon: {fileID: 21300000, guid: e46b8422e4936a840a6ebf2134483bc8, type: 3}
+        price: 2000
+      - level: 2
+        icon: {fileID: 21300000, guid: 81be7d5fb803a3c46a58486715146aeb, type: 3}
+        price: 2500
+      - level: 3
+        icon: {fileID: 21300000, guid: a33c2a4f375188248bbf91db6db09570, type: 3}
+        price: 3000
+      - level: 4
+        icon: {fileID: 21300000, guid: 7b90fee0355b3af4eaba151b2338f81b, type: 3}
+        price: 4000
+      - level: 5
+        icon: {fileID: 21300000, guid: d1a2a2bd2c48a864daf3ea64dcc580bc, type: 3}
+        price: 5000
+      icon: {fileID: 21300000, guid: d1a2a2bd2c48a864daf3ea64dcc580bc, type: 3}

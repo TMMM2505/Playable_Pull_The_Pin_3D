@@ -1,0 +1,287 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63a67d678c4696f4daec28472779f9a0, type: 3}
+  m_Name: ChallengeConfig
+  m_EditorClassIdentifier: 
+  LevelChallengeConfig:
+    Datas:
+    - Id: Challenge1
+      LevelChallenge: {fileID: 6487001857879313043, guid: 895cf944e4c4ae34abed0d6d5a05dba7,
+        type: 3}
+      LevelUnlock: 45
+      CoinReward: 200
+    - Id: Challenge2
+      LevelChallenge: {fileID: 6487001857879313043, guid: 86ce2f60fac88b04c94e7340f4237fbd,
+        type: 3}
+      LevelUnlock: 45
+      CoinReward: 200
+    - Id: Challenge3
+      LevelChallenge: {fileID: 6487001857879313043, guid: a1193355448586048968dbf7586ed004,
+        type: 3}
+      LevelUnlock: 45
+      CoinReward: 200
+    - Id: Challenge4
+      LevelChallenge: {fileID: 6487001857879313043, guid: 583963bd777406049b492f9fae41e1b3,
+        type: 3}
+      LevelUnlock: 50
+      CoinReward: 250
+    - Id: Challenge5
+      LevelChallenge: {fileID: 6487001857879313043, guid: 0440c4af53b6ca64797e7ef4d1a5e75f,
+        type: 3}
+      LevelUnlock: 55
+      CoinReward: 250
+    - Id: Challenge6
+      LevelChallenge: {fileID: 6487001857879313043, guid: dc1cdd2234b1f4542bf7e8e13c5353e6,
+        type: 3}
+      LevelUnlock: 60
+      CoinReward: 250
+    - Id: Challenge7
+      LevelChallenge: {fileID: 6487001857879313043, guid: f62bb377b39460e4db9cbb0e556d3509,
+        type: 3}
+      LevelUnlock: 65
+      CoinReward: 300
+    - Id: Challenge8
+      LevelChallenge: {fileID: 6487001857879313043, guid: 11bc67d09244d3e4596845723f9d64b1,
+        type: 3}
+      LevelUnlock: 70
+      CoinReward: 300
+    - Id: Challenge9
+      LevelChallenge: {fileID: 6487001857879313043, guid: f3f00396d6a889c4f83379df7d68ab48,
+        type: 3}
+      LevelUnlock: 75
+      CoinReward: 300
+    - Id: Challenge10
+      LevelChallenge: {fileID: 6487001857879313043, guid: 3a09d421d69f3004e8525c4499135b5c,
+        type: 3}
+      LevelUnlock: 80
+      CoinReward: 350
+    - Id: Challenge11
+      LevelChallenge: {fileID: 6487001857879313043, guid: fbdac6b015f84de408f230f0a52834da,
+        type: 3}
+      LevelUnlock: 85
+      CoinReward: 350
+    - Id: Challenge12
+      LevelChallenge: {fileID: 6487001857879313043, guid: 593e2e22caa9e264ba37f8a9109b3900,
+        type: 3}
+      LevelUnlock: 90
+      CoinReward: 350
+    - Id: Challenge13
+      LevelChallenge: {fileID: 6487001857879313043, guid: c17e2baf52de2b241b6629c4d7cded8b,
+        type: 3}
+      LevelUnlock: 95
+      CoinReward: 400
+    - Id: Challenge14
+      LevelChallenge: {fileID: 6487001857879313043, guid: 2e13a57414b801f47b48a00aacd84d5b,
+        type: 3}
+      LevelUnlock: 100
+      CoinReward: 400
+    - Id: Challenge15
+      LevelChallenge: {fileID: 6487001857879313043, guid: d615f7ceaedf156449a66c532d3e5f86,
+        type: 3}
+      LevelUnlock: 105
+      CoinReward: 400
+    - Id: Challenge16
+      LevelChallenge: {fileID: 6487001857879313043, guid: e3631c59acd29e84ba7a6fac414fd302,
+        type: 3}
+      LevelUnlock: 110
+      CoinReward: 450
+    - Id: Challenge17
+      LevelChallenge: {fileID: 6487001857879313043, guid: 4400b4c85be23b14b86d72cf77e91dfe,
+        type: 3}
+      LevelUnlock: 115
+      CoinReward: 450
+    - Id: Challenge18
+      LevelChallenge: {fileID: 6487001857879313043, guid: 0d248494f4637d541a7bb9181adf047d,
+        type: 3}
+      LevelUnlock: 120
+      CoinReward: 450
+    - Id: Challenge19
+      LevelChallenge: {fileID: 6487001857879313043, guid: 5ad631a153edcf346b43b728cc701e1a,
+        type: 3}
+      LevelUnlock: 125
+      CoinReward: 500
+    - Id: Challenge20
+      LevelChallenge: {fileID: 6487001857879313043, guid: b77e0fc0f6ce7f14ca7f2763cddd4788,
+        type: 3}
+      LevelUnlock: 130
+      CoinReward: 500
+    - Id: Challenge21
+      LevelChallenge: {fileID: 6487001857879313043, guid: 99929c8cfad837f42bdd9a06e8a9eaf0,
+        type: 3}
+      LevelUnlock: 135
+      CoinReward: 500
+    - Id: Challenge22
+      LevelChallenge: {fileID: 6487001857879313043, guid: d71b0ffd000c6594b926addcaa566903,
+        type: 3}
+      LevelUnlock: 140
+      CoinReward: 550
+    - Id: Challenge23
+      LevelChallenge: {fileID: 6487001857879313043, guid: 2577c8d8411d4e347aefe767e050b131,
+        type: 3}
+      LevelUnlock: 145
+      CoinReward: 550
+    - Id: Challenge24
+      LevelChallenge: {fileID: 6487001857879313043, guid: debcf76e78f3b564ba5fcb629c37e9f1,
+        type: 3}
+      LevelUnlock: 150
+      CoinReward: 550
+    - Id: Challenge25
+      LevelChallenge: {fileID: 6487001857879313043, guid: 8273b7bf299efa14697c2ac64d049212,
+        type: 3}
+      LevelUnlock: 155
+      CoinReward: 600
+    - Id: Challenge26
+      LevelChallenge: {fileID: 6487001857879313043, guid: 9f44bd087ccfd754bbfca636cad6dca9,
+        type: 3}
+      LevelUnlock: 160
+      CoinReward: 600
+    - Id: Challenge27
+      LevelChallenge: {fileID: 6487001857879313043, guid: 98fcf12df7356204baa24655e75cac6c,
+        type: 3}
+      LevelUnlock: 165
+      CoinReward: 600
+    - Id: Challenge28
+      LevelChallenge: {fileID: 6487001857879313043, guid: d05ba5644e994184b975e9eef61bf3ba,
+        type: 3}
+      LevelUnlock: 170
+      CoinReward: 650
+    - Id: Challenge29
+      LevelChallenge: {fileID: 6487001857879313043, guid: 3f94fdf6e0d601043bfc19e33bb083a0,
+        type: 3}
+      LevelUnlock: 175
+      CoinReward: 650
+    - Id: Challenge30
+      LevelChallenge: {fileID: 6487001857879313043, guid: fd415964a46ad72459b04c2c7cba435a,
+        type: 3}
+      LevelUnlock: 180
+      CoinReward: 650
+    - Id: Challenge31
+      LevelChallenge: {fileID: 6487001857879313043, guid: 80dd002058e8cbb4089268177c4d80d7,
+        type: 3}
+      LevelUnlock: 185
+      CoinReward: 700
+    - Id: Challenge32
+      LevelChallenge: {fileID: 6487001857879313043, guid: 8fc4b991b87f7b74bbc8e9fb1bb6f8b0,
+        type: 3}
+      LevelUnlock: 190
+      CoinReward: 700
+    - Id: Challenge33
+      LevelChallenge: {fileID: 6487001857879313043, guid: 0eb609937d7c4e34bbc9d0ea9659885c,
+        type: 3}
+      LevelUnlock: 195
+      CoinReward: 700
+    - Id: Challenge34
+      LevelChallenge: {fileID: 6487001857879313043, guid: 6dbd6cd9c41967b4794a450326184c97,
+        type: 3}
+      LevelUnlock: 200
+      CoinReward: 750
+    - Id: Challenge35
+      LevelChallenge: {fileID: 6487001857879313043, guid: 3f442e96d2401cb49898e36a9f756bdb,
+        type: 3}
+      LevelUnlock: 205
+      CoinReward: 750
+    - Id: Challenge36
+      LevelChallenge: {fileID: 6487001857879313043, guid: 2eed901e169336c4bbf7560b99882145,
+        type: 3}
+      LevelUnlock: 210
+      CoinReward: 750
+    - Id: Challenge37
+      LevelChallenge: {fileID: 6487001857879313043, guid: 1a9d553e8f9d99648bbaf04c996bfd85,
+        type: 3}
+      LevelUnlock: 215
+      CoinReward: 800
+    - Id: Challenge38
+      LevelChallenge: {fileID: 6487001857879313043, guid: 9957fe4725199cf43b835e2c8e0fdd0d,
+        type: 3}
+      LevelUnlock: 220
+      CoinReward: 800
+    - Id: Challenge39
+      LevelChallenge: {fileID: 6487001857879313043, guid: 8782bc04f4a478242a5066776ff44130,
+        type: 3}
+      LevelUnlock: 225
+      CoinReward: 800
+    - Id: Challenge40
+      LevelChallenge: {fileID: 6487001857879313043, guid: 5be92636fd8193546b4f59612028d93d,
+        type: 3}
+      LevelUnlock: 230
+      CoinReward: 850
+    - Id: Challenge41
+      LevelChallenge: {fileID: 6487001857879313043, guid: 1ec9d9671b17a8d478c4598a7a057260,
+        type: 3}
+      LevelUnlock: 235
+      CoinReward: 850
+    - Id: Challenge42
+      LevelChallenge: {fileID: 6487001857879313043, guid: 1d75dc6295e0aef48b7740953e67c671,
+        type: 3}
+      LevelUnlock: 240
+      CoinReward: 850
+  MultipleChallengeConfig:
+    GiftNumber: 6
+    GiftClaimReward: 1000
+    CoinReward: 100
+    BonusMoneyPerBall: 5
+    FirstLevelUnlock: 30
+    Datas:
+    - Id: Multiple1
+      MultipleChallenge: {fileID: 1855031508272060238, guid: fbe48b9035e89a74b88e4b01b6736212,
+        type: 3}
+    - Id: Multiple2
+      MultipleChallenge: {fileID: 1855031508272060238, guid: 452a75b28fcb64f47803c1caae716d08,
+        type: 3}
+    - Id: Multiple3
+      MultipleChallenge: {fileID: 1855031508272060238, guid: e2577032ea4f5a742afc397eb4581e38,
+        type: 3}
+    - Id: Multiple4
+      MultipleChallenge: {fileID: 1855031508272060238, guid: 446f3dee44fb02c4ead12ec6a67a9ae1,
+        type: 3}
+    - Id: Multiple5
+      MultipleChallenge: {fileID: 1855031508272060238, guid: 29b5dbd41a45d5741ac4b27fe1b0eba6,
+        type: 3}
+    - Id: Multiple6
+      MultipleChallenge: {fileID: 1855031508272060238, guid: da8dd7a9c422f65499205aa9ddece431,
+        type: 3}
+    - Id: Multiple7
+      MultipleChallenge: {fileID: 1855031508272060238, guid: 72feab80a90db7b47901f63c19433af4,
+        type: 3}
+    - Id: Multiple8
+      MultipleChallenge: {fileID: 1855031508272060238, guid: 6fe1c22212ec4ad4887dd90a8681ec61,
+        type: 3}
+    - Id: Multiple9
+      MultipleChallenge: {fileID: 1855031508272060238, guid: db3ec4d9bf166734da6cc12cc7ccf5cb,
+        type: 3}
+    - Id: Multiple10
+      MultipleChallenge: {fileID: 1855031508272060238, guid: f2189722615d6974a84de090129b1db8,
+        type: 3}
+    - Id: Multiple11
+      MultipleChallenge: {fileID: 1855031508272060238, guid: 81de73f970893f746b1f9b57c9307821,
+        type: 3}
+    - Id: Multiple12
+      MultipleChallenge: {fileID: 1855031508272060238, guid: 148bc41e8c32c51478d7b87a0f739baf,
+        type: 3}
+    - Id: Multiple13
+      MultipleChallenge: {fileID: 1855031508272060238, guid: 866d9d0b9d71729499bf2a896a9e2746,
+        type: 3}
+    - Id: Multiple14
+      MultipleChallenge: {fileID: 1855031508272060238, guid: e268b1df8b2e0004985c3901038168ad,
+        type: 3}
+    - Id: Multiple15
+      MultipleChallenge: {fileID: 1855031508272060238, guid: 8509463bcc4d1ce4e9c9ec82e054dcb4,
+        type: 3}
+    - Id: Multiple16
+      MultipleChallenge: {fileID: 1855031508272060238, guid: f315f426240df7641bc07d689c58530d,
+        type: 3}
+    - Id: Multiple17
+      MultipleChallenge: {fileID: 1855031508272060238, guid: f9a858e5747a7b84caa00a054cca2b7f,
+        type: 3}
+    - Id: Multiple18
+      MultipleChallenge: {fileID: 1855031508272060238, guid: 224ad96e58ae7fc4db5e0f79592bfb05,
+        type: 3}

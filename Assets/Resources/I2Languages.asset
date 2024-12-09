@@ -1,0 +1,2051 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f0b0c553be8edd4682e9180fdd13e37, type: 3}
+  m_Name: I2Languages
+  m_EditorClassIdentifier: 
+  mSource:
+    UserAgreesToHaveItOnTheScene: 0
+    UserAgreesToHaveItInsideThePluginsFolder: 0
+    GoogleLiveSyncIsUptoDate: 1
+    mTerms:
+    - Term: 1-16 characters
+      TermType: 0
+      Description: 
+      Languages:
+      - 1-16 characters
+      - "1\uFF5E16\u6587\u5B57"
+      - 1-16 Zeichen
+      - "1~16\uC790"
+      - 1-16 caracteres
+      - "1 \xE0 16 caract\xE8res"
+      - "1-16 k\xFD t\u1EF1"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: AREA
+      TermType: 0
+      Description: 
+      Languages:
+      - Area
+      - "\u30A8\u30EA\u30A2"
+      - Bereich
+      - "\uC601\uC5ED"
+      - "\xC1rea"
+      - Zone
+      - "Khu V\u1EF1c"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: AVOID THE BOMB
+      TermType: 0
+      Description: 
+      Languages:
+      - Avoid The Bomb
+      - "\u7206\u5F3E\u3092\u907F\u3051\u308B"
+      - Vermeiden Sie Die Bombe
+      - "\uD3ED\uD0C4\uC744 \uD53C\uD558\uB2E4"
+      - Evite A Bomba
+      - "\xC9viter La Bombe"
+      - "Tr\xE1nh Bom"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: AVOID THE LAVA
+      TermType: 0
+      Description: 
+      Languages:
+      - Avoid The Lava
+      - "\u6EB6\u5CA9\u3092\u907F\u3051\u308B"
+      - Vermeiden Sie Die Lava
+      - "\uC6A9\uC554\uC744 \uD53C\uD558\uC138\uC694"
+      - Evite A Lava
+      - "\xC9viter La Lave"
+      - "Tr\xE1nh Dung Nham"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Are you sure to import data?
+      TermType: 0
+      Description: 
+      Languages:
+      - Are you sure to import data?
+      - "\u30C7\u30FC\u30BF\u3092\u30A4\u30F3\u30DD\u30FC\u30C8\u3057\u3066\u3082\u3088\u308D\u3057\u3044\u3067\u3059\u304B?"
+      - "Sind Sie sicher, dass Sie Daten importieren m\xF6chten?"
+      - "\uB370\uC774\uD130\uB97C \uAC00\uC838\uC624\uC2DC\uACA0\uC2B5\uB2C8\uAE4C?"
+      - Tem certeza de que deseja importar dados?
+      - "\xCAtes-vous s\xFBr d'importer des donn\xE9es\_?"
+      - "B\u1EA1n c\xF3 ch\u1EAFc ch\u1EAFn kh\xF4i ph\u1EE5c d\u1EEF li\u1EC7u kh\xF4ng?"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Avoid Lava
+      TermType: 0
+      Description: 
+      Languages:
+      - Avoid Lava
+      - "\u6EB6\u5CA9\u3092\u907F\u3051\u308B"
+      - Vermeiden Sie Lava
+      - "\uC6A9\uC554\uC744 \uD53C\uD558\uB2E4"
+      - Evite Lava
+      - Avoid Lava
+      - "Tr\xE1nh Dung Nham"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Backup Data
+      TermType: 0
+      Description: 
+      Languages:
+      - Backup Data
+      - "\u30D0\u30C3\u30AF\u30A2\u30C3\u30D7\u30C7\u30FC\u30BF"
+      - Backup-Daten
+      - "\uBC31\uC5C5 \uB370\uC774\uD130"
+      - Dados De Backup
+      - "Donn\xE9es De Sauvegarde"
+      - "Sao L\u01B0u D\u1EEF Li\u1EC7u"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Ball Master
+      TermType: 0
+      Description: 
+      Languages:
+      - Ball Master
+      - "\u30DC\u30FC\u30EB\u30DE\u30B9\u30BF\u30FC"
+      - Ballmeister
+      - "\uBCFC \uB9C8\uC2A4\uD130"
+      - Mestre Da Bola
+      - "Ma\xEEtre De Balle"
+      - "B\u1EADc Th\u1EA7y B\xF3ng"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: BallMasterDes
+      TermType: 0
+      Description: 
+      Languages:
+      - Beat level to compete with other players for the reward
+      - "\u30EC\u30D9\u30EB\u3092\u9054\u6210\u3057\u3066\u4ED6\u306E\u30D7\u30EC\u30A4\u30E4\u30FC\u3068\u5831\u916C\u3092\u7AF6\u3044\u5408\u3044\u307E\u3059"
+      - "Schlie\xDFe ein Level ab, um mit anderen Spielern um die Belohnung zu konkurrieren"
+      - "\uB808\uBCA8\uC744 \uAE68\uACE0 \uB2E4\uB978 \uD50C\uB808\uC774\uC5B4\uC640
+        \uBCF4\uC0C1\uC744 \uACBD\uC7C1\uD558\uC138\uC694."
+      - "Ven\xE7a o n\xEDvel para competir com outros jogadores pela recompensa"
+      - "Terminez le niveau pour rivaliser avec d'autres joueurs pour la r\xE9compense"
+      - "Ho\xE0n th\xE0nh c\u1EA5p \u0111\u1ED9, c\u1EA1nh tranh v\u1EDBi nh\u1EEFng
+        ng\u01B0\u1EDDi ch\u01A1i kh\xE1c \u0111\u1EC3 nh\u1EADn ph\u1EA7n th\u01B0\u1EDFng"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Beach
+      TermType: 0
+      Description: 
+      Languages:
+      - Beach
+      - "\u30D3\u30FC\u30C1"
+      - Strand
+      - "\uD574\uBCC0"
+      - Praia
+      - Plage
+      - "B\xE3i Bi\u1EC3n"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Beach Restaurant
+      TermType: 0
+      Description: 
+      Languages:
+      - Beach Restaurant
+      - "\u30D3\u30FC\u30C1\u30EC\u30B9\u30C8\u30E9\u30F3"
+      - Strandrestaurant
+      - "\uD574\uBCC0 \uB808\uC2A4\uD1A0\uB791"
+      - Restaurante De Praia
+      - Restaurant De Plage
+      - "Nh\xE0 H\xE0ng B\xE3i Bi\u1EC3n"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Best
+      TermType: 0
+      Description: 
+      Languages:
+      - Best
+      - "\u6700\u9AD8"
+      - Am Besten
+      - "\uCD5C\uC0C1\uC758"
+      - Melhor
+      - Meilleur
+      - "T\u1ED1t Nh\u1EA5t"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Break large balls
+      TermType: 0
+      Description: 
+      Languages:
+      - Break large balls
+      - "\u5927\u304D\u306A\u30DC\u30FC\u30EB\u3092\u58CA\u3059"
+      - "Gro\xDFe Kugeln zerbrechen"
+      - "\uD070 \uACF5\uC744 \uBD80\uC218\uC138\uC694"
+      - Quebre bolas grandes
+      - Casser de grosses boules
+      - "Ph\xE1 v\u1EE1 nh\u1EEFng qu\u1EA3 b\xF3ng l\u1EDBn"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Bug
+      TermType: 0
+      Description: 
+      Languages:
+      - Bug
+      - "\u30D0\u30B0"
+      - Insekt
+      - "\uBC8C\uB808"
+      - Erro
+      - Bogue
+      - "S\xE2u B\u1ECD"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Build
+      TermType: 0
+      Description: 
+      Languages:
+      - Build
+      - "\u5EFA\u3066\u308B"
+      - Bauen
+      - "\uC9D3\uB2E4"
+      - Construir
+      - Construire
+      - "X\xE2y D\u1EF1ng"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: "B\u1EA1n c\xF3 ch\u1EAFc ch\u1EAFn kh\xF4i ph\u1EE5c d\u1EEF li\u1EC7u
+        kh\xF4ng?"
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: CHEST
+      TermType: 0
+      Description: 
+      Languages:
+      - CHEST
+      - "\u80F8"
+      - Brust
+      - "\uAC00\uC2B4"
+      - Peito
+      - Poitrine
+      - "R\u01AF\u01A0NG"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: CONGRATULATIONS!
+      TermType: 0
+      Description: 
+      Languages:
+      - Congratulations!
+      - "\u304A\u3081\u3067\u3068\u3046\uFF01"
+      - "Gl\xFCckwunsch!"
+      - "\uCD95\uD558\uD574\uC694!"
+      - "Parab\xE9ns!"
+      - "Toutes Nos F\xE9licitations!"
+      - "Ch\xFAc M\u1EEBng!"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: COUNTRY
+      TermType: 0
+      Description: 
+      Languages:
+      - Country
+      - "\u56FD"
+      - Land
+      - "\uAD6D\uAC00"
+      - "Pa\xEDs"
+      - Pays
+      - "Qu\u1ED1c Gia"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Card
+      TermType: 0
+      Description: 
+      Languages:
+      - Card
+      - "\u30AB\u30FC\u30C9"
+      - Karte
+      - "\uCE74\uB4DC"
+      - "Cart\xE3o"
+      - Carte
+      - "Th\u1EBB"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Card Collection
+      TermType: 0
+      Description: 
+      Languages:
+      - Card Collection
+      - "\u30AB\u30FC\u30C9\u30B3\u30EC\u30AF\u30B7\u30E7\u30F3"
+      - Kartensammlung
+      - "\uCE74\uB4DC \uC218\uC9D1"
+      - "Cole\xE7\xE3o De Cart\xF5es"
+      - Collection De Cartes
+      - "B\u1ED9 S\u01B0u T\u1EADp Th\u1EBB"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Challenge
+      TermType: 0
+      Description: 
+      Languages:
+      - Challenge
+      - "\u30C1\u30E3\u30EC\u30F3\u30B8"
+      - Herausforderung
+      - "\uB3C4\uC804"
+      - Desafio
+      - "D\xE9fi"
+      - "Th\u1EED Th\xE1ch"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Challenge {value}
+      TermType: 0
+      Description: 
+      Languages:
+      - Challenge {[value]}
+      - "\u30C1\u30E3\u30EC\u30F3\u30B8{[value]}"
+      - Herausforderung {[value]}
+      - "\uB3C4\uC804 {[value]}"
+      - Desafio {[value]}
+      - "D\xE9fi {[value]}"
+      - "Th\u1EED th\xE1ch {[value]}"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Chill Place
+      TermType: 0
+      Description: 
+      Languages:
+      - Chill Place
+      - "\u304F\u3064\u308D\u3052\u308B\u5834\u6240"
+      - Chill-Ort
+      - "\uCC28\uAC00\uC6B4 \uC7A5\uC18C"
+      - Lugar Frio
+      - "Lieu De D\xE9tente"
+      - "N\u01A1i Th\u01B0 Gi\xE3n"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Choose a card !!!
+      TermType: 0
+      Description: 
+      Languages:
+      - Choose a card !!!
+      - "\u30AB\u30FC\u30C9\u3092\u9078\u3093\u3067\u304F\u3060\u3055\u3044!!!"
+      - "W\xE4hle eine Karte !!!"
+      - "\uCE74\uB4DC\uB97C \uC120\uD0DD\uD558\uC138\uC694!!!"
+      - "Escolha um cart\xE3o !!!"
+      - Choisissez une carte !!!
+      - "Ch\u1ECDn m\u1ED9t t\u1EA5m th\u1EBB !!!"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: City
+      TermType: 0
+      Description: 
+      Languages:
+      - City
+      - "\u5E02"
+      - Stadt
+      - "\uB3C4\uC2DC"
+      - Cidade
+      - Ville
+      - "Th\xE0nh Ph\u1ED1"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Claim Rewards!
+      TermType: 0
+      Description: 
+      Languages:
+      - Claim Rewards!
+      - "\u5831\u916C\u3092\u8ACB\u6C42\u3057\u307E\u3057\u3087\u3046\uFF01"
+      - Belohnung Entgegennehmen!
+      - "\uBCF4\uC0C1\uC744 \uCCAD\uAD6C\uD558\uC138\uC694!"
+      - Reivindicar Recompensas!
+      - "R\xE9clamez Des R\xE9compenses\_!"
+      - "Nh\u1EADn qu\xE0!"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Coffee
+      TermType: 0
+      Description: 
+      Languages:
+      - Coffee
+      - "\u30B3\u30FC\u30D2\u30FC"
+      - Kaffee
+      - "\uCEE4\uD53C"
+      - "Caf\xE9"
+      - "Caf\xE9"
+      - "C\xE0 Ph\xEA"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Collect cards from chests
+      TermType: 0
+      Description: 
+      Languages:
+      - Collect cards from chests
+      - "\u5B9D\u7BB1\u304B\u3089\u30AB\u30FC\u30C9\u3092\u96C6\u3081\u308B"
+      - Sammle Karten aus Truhen
+      - "\uC0C1\uC790\uC5D0\uC11C \uCE74\uB4DC\uB97C \uC218\uC9D1\uD558\uC138\uC694"
+      - "Colete cartas de ba\xFAs"
+      - "R\xE9cup\xE9rez les cartes des coffres"
+      - "Thu th\u1EADp th\u1EBB t\u1EEB r\u01B0\u01A1ng"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Collection
+      TermType: 0
+      Description: 
+      Languages:
+      - Collection
+      - "\u30B3\u30EC\u30AF\u30B7\u30E7\u30F3\n"
+      - 'Sammlung
+
+'
+      - "\uC218\uC9D1\n"
+      - "Cole\xE7\xE3o\n"
+      - 'Collection
+
+'
+      - "B\u1ED9 S\u01B0u T\u1EADp\n"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Color balls
+      TermType: 0
+      Description: 
+      Languages:
+      - Color balls
+      - "\u30AB\u30E9\u30FC\u30DC\u30FC\u30EB"
+      - Farbkugeln
+      - "\uCEEC\uB7EC \uBCFC"
+      - Bolas coloridas
+      - Boules de couleur
+      - "Qu\u1EA3 b\xF3ng m\xE0u"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Coming soon
+      TermType: 0
+      Description: 
+      Languages:
+      - Coming Soon
+      - "\u8FD1\u65E5\u516C\u958B"
+      - "Demn\xE4chst"
+      - "\uACE7 \uCD9C\uC2DC \uC608\uC815"
+      - Em breve
+      - "\xC0 venir"
+      - "S\u1EAFp ra m\u1EAFt"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Complete
+      TermType: 0
+      Description: 
+      Languages:
+      - Complete
+      - "\u5B8C\u4E86"
+      - "Vollst\xE4ndig"
+      - "\uC644\uBCBD\uD55C"
+      - Completo
+      - Complet
+      - "Ho\xE0n Th\xE0nh"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Complete Multiply Level {value}
+      TermType: 0
+      Description: 
+      Languages:
+      - Complete <br> Multiply <br> Level {[value]}
+      - "\u30AF\u30EA\u30A2 <br> \u4E57\u7B97 <br> \u30EC\u30D9\u30EB {[value]}"
+      - "Vervollst\xE4ndigen Sie <br>multiplizieren Sie <br> Level {[value]}"
+      - "\uC644\uB8CC <br> \uACF1\uD558\uAE30 <br> \uB808\uBCA8 {[value]}"
+      - "Completar <br> Multiplicar <br> N\xEDvel {[value]}"
+      - "Compl\xE9ter <br> Multiplier <br> Niveau {[value]}"
+      - "Ho\xE0n Th\xE0nh <br> Nh\xE2n <br> C\u1EA5p \u0111\u1ED9 {[value]}"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Complete levels
+      TermType: 0
+      Description: 
+      Languages:
+      - Complete levels
+      - "\u30EC\u30D9\u30EB\u3092\u5B8C\u4E86\u3059\u308B"
+      - Komplette Level
+      - "\uB808\uBCA8\uC744 \uC644\uB8CC\uD558\uC138\uC694"
+      - "N\xEDveis completos"
+      - Terminer les niveaux
+      - "Ho\xE0n th\xE0nh c\u1EA5p \u0111\u1ED9"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Complete set
+      TermType: 0
+      Description: 
+      Languages:
+      - Complete set
+      - "\u30B3\u30F3\u30D7\u30EA\u30FC\u30C8\u30BB\u30C3\u30C8"
+      - Komplett-Set
+      - "\uC644\uC804\uD55C \uC138\uD2B8"
+      - Conjunto completo
+      - Ensemble complet
+      - "Ho\xE0n th\xE0nh b\u1ED9 th\u1EBB"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Complete set of cards to unlock
+      TermType: 0
+      Description: 
+      Languages:
+      - Complete set of cards to unlock
+      - "\u30ED\u30C3\u30AF\u3092\u89E3\u9664\u3059\u308B\u30AB\u30FC\u30C9\u306E\u5B8C\u5168\u306A\u30BB\u30C3\u30C8"
+      - Kompletter Kartensatz zum Freischalten
+      - "\uC7A0\uAE08 \uD574\uC81C\uD560 \uCE74\uB4DC \uC138\uD2B8 \uC644\uC131"
+      - Conjunto completo de cartas para desbloquear
+      - "Jeu complet de cartes \xE0 d\xE9bloquer"
+      - "Ho\xE0n ch\u1EC9nh c\xE1c b\u1ED9 th\u1EBB \u0111\u1EC3 m\u1EDF kh\xF3a"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Confirm
+      TermType: 0
+      Description: 
+      Languages:
+      - Confirm
+      - "\u78BA\u8A8D\u3059\u308B"
+      - "Best\xE4tigen"
+      - "\uD655\uC778\uD558\uB2E4"
+      - Confirme
+      - Confirmer
+      - "X\xE1c Nh\u1EADn"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Congratulations
+      TermType: 0
+      Description: 
+      Languages:
+      - Congratulations
+      - "\u304A\u3081\u3067\u3068\u3046"
+      - "Gl\xFCckwunsch"
+      - "\uCD95\uD558\uD574\uC694"
+      - "Parab\xE9ns"
+      - "Toutes Nos F\xE9licitations"
+      - "Ch\xFAc M\u1EEBng"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Connection Error
+      TermType: 0
+      Description: 
+      Languages:
+      - Connection Error
+      - "\u63A5\u7D9A\u30A8\u30E9\u30FC"
+      - Verbindungsfehler
+      - "\uC5F0\uACB0 \uC624\uB958"
+      - "Erro De Conex\xE3o"
+      - Erreur De Connexion
+      - "L\u1ED7i K\u1EBFt N\u1ED1i"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Contains at least
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Contains at least
+
+'
+      - "\u5C11\u306A\u304F\u3068\u3082\u542B\u307E\u308C\u3066\u3044\u307E\u3059\n"
+      - "Enth\xE4lt mindestens\n"
+      - "\uCD5C\uC18C\uD55C \uD3EC\uD568\n"
+      - "Cont\xE9m pelo menos\n"
+      - 'Contient au moins
+
+'
+      - "Ch\u1EE9a \xEDt nh\u1EA5t\n"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Country
+      TermType: 0
+      Description: 
+      Languages:
+      - Country
+      - "\u56FD"
+      - Land
+      - "\uAD6D\uAC00"
+      - "Pa\xEDs"
+      - Pays
+      - "Qu\u1ED1c Gia"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Daily Gift
+      TermType: 0
+      Description: 
+      Languages:
+      - Daily Gift
+      - "\u6BCE\u65E5\u306E\u8D08\u308A\u7269"
+      - "T\xE4gliches Geschenk"
+      - "\uB9E4\uC77C\uC758 \uC120\uBB3C"
+      - "Presente Di\xE1rio"
+      - Cadeau Quotidien
+      - "Qu\xE0 T\u1EB7ng H\xE0ng Ng\xE0y"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Daily Task
+      TermType: 0
+      Description: 
+      Languages:
+      - Daily Task
+      - "\u6BCE\u65E5\u306E\u4ED5\u4E8B"
+      - "T\xE4gliche Aufgabe"
+      - "\uC77C\uC77C \uC5C5\uBB34"
+      - "Tarefa Di\xE1ria"
+      - "T\xE2che Quotidienne"
+      - "Nhi\u1EC7m V\u1EE5 H\xE0ng Ng\xE0y"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Day {value}
+      TermType: 0
+      Description: 
+      Languages:
+      - Day {[value]}
+      - "\u65E5{[value]}"
+      - Tag {[value]}
+      - "\uC77C {[value]}"
+      - Dia {[value]}
+      - Jour {[value]}
+      - "Ng\xE0y {[value]}"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Defuse bombs
+      TermType: 0
+      Description: 
+      Languages:
+      - Defuse bombs
+      - "\u7206\u5F3E\u3092\u89E3\u9664\u3059\u308B"
+      - "Bomben entsch\xE4rfen"
+      - "\uD3ED\uD0C4 \uD574\uCCB4"
+      - Desarmar bombas
+      - "D\xE9samorcer les bombes"
+      - "G\u1EE1 bom"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Don't show this again
+      TermType: 0
+      Description: 
+      Languages:
+      - Don't show this again
+      - "\u3053\u308C\u3092\u4E8C\u5EA6\u3068\u8868\u793A\u3057\u306A\u3044\u3067\u304F\u3060\u3055\u3044"
+      - Zeige das nicht noch einmal
+      - "\uB2E4\uC2DC \uD45C\uC2DC\uD558\uC9C0 \uC54A\uC74C"
+      - "N\xE3o mostre isso de novo"
+      - "Ne montre plus \xE7a"
+      - "Kh\xF4ng hi\u1EC3n th\u1ECB l\u1EA1i \u0111i\u1EC1u n\xE0y"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Drag pins
+      TermType: 0
+      Description: 
+      Languages:
+      - Drag pins
+      - "\u30C9\u30E9\u30C3\u30B0\u30D4\u30F3"
+      - Ziehen Sie die Stifte
+      - "\uD540 \uB4DC\uB798\uADF8"
+      - Arrastar pinos
+      - "Faites glisser les \xE9pingles"
+      - "K\xE9o ghim"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Event
+      TermType: 0
+      Description: 
+      Languages:
+      - Event
+      - "\u30A4\u30D9\u30F3\u30C8"
+      - Ereignis
+      - "\uC774\uBCA4\uD2B8"
+      - Evento
+      - "\xC9v\xE9nement"
+      - "S\u1EF1 Ki\u1EC7n"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Failed
+      TermType: 0
+      Description: 
+      Languages:
+      - Failed
+      - "\u5931\u6557\u3057\u305F"
+      - Fehlgeschlagen
+      - "\uC2E4\uD328\uD55C"
+      - Fracassado
+      - "\xC9chou\xE9"
+      - "Th\u1EA5t B\u1EA1i"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Free
+      TermType: 0
+      Description: 
+      Languages:
+      - Free
+      - "\u7121\u6599"
+      - Frei
+      - "\uBB34\uB8CC"
+      - Livre
+      - Gratuit
+      - "Mi\u1EC5n Ph\xED"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Gas Station
+      TermType: 0
+      Description: 
+      Languages:
+      - Gas Station
+      - "\u30AC\u30BD\u30EA\u30F3\u30B9\u30BF\u30F3\u30C9"
+      - Tankstelle
+      - "\uC8FC\uC720\uC18C"
+      - Posto De Gasolina
+      - Station-Essence
+      - "Tr\u1EA1m X\u0103ng"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Get
+      TermType: 0
+      Description: 
+      Languages:
+      - Get
+      - "\u5F97\u308B"
+      - Erhalten
+      - "\uC5BB\uB2E4"
+      - Pegar
+      - Obtenir
+      - "L\u1EA5y"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Get Higher Rank
+      TermType: 0
+      Description: 
+      Languages:
+      - Get Higher Rank
+      - "\u3088\u308A\u9AD8\u3044\u30E9\u30F3\u30AF\u3092\u7372\u5F97\u3059\u308B"
+      - "Einen H\xF6heren Rang Erhalten"
+      - "\uB354 \uB192\uC740 \uC21C\uC704\uB97C \uC5BB\uC73C\uC138\uC694"
+      - "Obter Classifica\xE7\xE3o Mais Alta"
+      - "Obtenir Un Rang Plus \xC9lev\xE9"
+      - "\u0110\u1EA1t Th\u1EE9 H\u1EA1ng Cao H\u01A1n"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Get coins
+      TermType: 0
+      Description: 
+      Languages:
+      - Get coins
+      - "\u30B3\u30A4\u30F3\u3092\u30B2\u30C3\u30C8"
+      - "Holen Sie sich M\xFCnzen"
+      - "\uCF54\uC778 \uBC1B\uAE30"
+      - Obter moedas
+      - "R\xE9cup\xE9rer des pi\xE8ces"
+      - "Nh\u1EADn xu"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: GoldChest
+      TermType: 0
+      Description: 
+      Languages:
+      - Golden Chest
+      - "\u9EC4\u91D1\u306E\u7BB1"
+      - Goldene Truhe
+      - "\uD669\uAE08 \uC0C1\uC790"
+      - "Ba\xFA De Ouro"
+      - "Coffre Dor\xE9"
+      - "R\u01B0\u01A1ng V\xE0ng"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Green Villa
+      TermType: 0
+      Description: 
+      Languages:
+      - Green Villa
+      - "\u30B0\u30EA\u30FC\u30F3\u30F4\u30A3\u30E9"
+      - "Gr\xFCne Villa"
+      - "\uADF8\uB9B0 \uBE4C\uB77C"
+      - Vila Verde
+      - Villa Verte
+      - "Bi\u1EC7t Th\u1EF1 Xanh"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Hard
+      TermType: 0
+      Description: 
+      Languages:
+      - Hard
+      - "\u96E3\u3057\u3044"
+      - Hart
+      - "\uB531\uB531\uD55C"
+      - Duro
+      - Dur
+      - "Kh\xF3"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Join
+      TermType: 0
+      Description: 
+      Languages:
+      - Join
+      - "\u53C2\u52A0\u3059\u308B"
+      - Verbinden
+      - "\uAC00\uC785\uD558\uB2E4"
+      - Juntar
+      - Rejoindre
+      - Tham Gia
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LEVEL COMPLETED!
+      TermType: 0
+      Description: 
+      Languages:
+      - Level Completed!
+      - "\u30EC\u30D9\u30EB\u5B8C\u4E86\uFF01"
+      - Level Abgeschlossen!
+      - "\uB808\uBCA8 \uC644\uB8CC!"
+      - "N\xEDvel Conclu\xEDdo!"
+      - "Niveau Termin\xE9 !"
+      - "C\u1EA5p \u0110\u1ED9 \u0110\xE3 Ho\xE0n Th\xE0nh!"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: LOSE
+      TermType: 0
+      Description: 
+      Languages:
+      - Lose
+      - "\u5931\u3046"
+      - Verlieren
+      - "\uC783\uB2E4"
+      - Perder
+      - Perdre
+      - Thua
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Language
+      TermType: 0
+      Description: 
+      Languages:
+      - Language
+      - "\u8A00\u8A9E"
+      - Sprache
+      - "\uC5B8\uC5B4"
+      - Linguagem
+      - Langue
+      - "Ng\xF4n Ng\u1EEF"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Level 50
+      TermType: 0
+      Description: 
+      Languages:
+      - Reach Lv {[value]}
+      - "\u5230\u9054Lv{[value]}"
+      - Erreiche Level {[value]}
+      - "\uB808\uBCA8 {[value]}\uC5D0 \uB3C4\uB2EC"
+      - "alcan\xE7ar o n\xEDvel {[value]}"
+      - atteindre le niveau {[value]}
+      - "\u0110\u1EA1t lv {[value]}"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Level Card
+      TermType: 0
+      Description: 
+      Languages:
+      - Lvl {[value]}
+      - "\u30EC\u30D9\u30EB{[value]}"
+      - Stufe {[value]}
+      - "\uB808\uBCA8 {[value]}"
+      - "n\xEDvel {[value]}"
+      - niveau {[value]}
+      - "C\u1EA5p \u0111\u1ED9 {[value]}"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Level Unlocked
+      TermType: 0
+      Description: 
+      Languages:
+      - Level <br> Unlocked
+      - "\u30EC\u30D9\u30EB<br> \u30ED\u30C3\u30AF\u89E3\u9664"
+      - Level <br> Freigeschaltet
+      - "\uB808\uBCA8 <br> \uC7A0\uAE08 \uD574\uC81C\uB428"
+      - "N\xEDvel <br> Desbloqueado"
+      - "Niveau <br> D\xE9bloqu\xE9"
+      - "C\u1EA5p \u0111\u1ED9 <br> \u0111\xE3 \u0111\u01B0\u1EE3c m\u1EDF kh\xF3a"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Level {value}
+      TermType: 0
+      Description: 
+      Languages:
+      - Level {[value]}
+      - "\u30EC\u30D9\u30EB{[value]}"
+      - Stufe {[value]}
+      - "\uB808\uBCA8 {[value]}"
+      - "N\xEDvel {[value]}"
+      - Niveau {[value]}
+      - "C\u1EA5p \u0111\u1ED9 {[value]}"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Light House
+      TermType: 0
+      Description: 
+      Languages:
+      - Light House
+      - "\u30E9\u30A4\u30C8\u30CF\u30A6\u30B9"
+      - Leuchtturm
+      - "\uB77C\uC774\uD2B8 \uD558\uC6B0\uC2A4"
+      - Farol
+      - Phare
+      - "Ng\xF4i Nh\xE0 \xC1nh S\xE1ng"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Loading...
+      TermType: 0
+      Description: 
+      Languages:
+      - Loading {[value]}%
+      - "\u8AAD\u307F\u8FBC\u307F\u4E2D {[value]} %"
+      - Laden {[value]} %
+      - "\uB85C\uB529 {[value]} %"
+      - Carregando {[value]}%
+      - Chargement {[value]} %
+      - "\u0110ang t\u1EA3i {[value]} %"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Lock
+      TermType: 0
+      Description: 
+      Languages:
+      - Lock
+      - "\u30ED\u30C3\u30AF"
+      - Sperren
+      - "\uC7A0\uADF8\uB2E4"
+      - Trancar
+      - Verrouillage
+      - "Kho\u0301a"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Login
+      TermType: 0
+      Description: 
+      Languages:
+      - Login
+      - "\u30ED\u30B0\u30A4\u30F3"
+      - Anmeldung
+      - "\uB85C\uADF8\uC778"
+      - Conecte-Se
+      - Se Connecter
+      - "\u0110\u0103ng Nh\u1EADp"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Mall
+      TermType: 0
+      Description: 
+      Languages:
+      - Mall
+      - "\u30E2\u30FC\u30EB"
+      - Einkaufszentrum
+      - "\uC1FC\uD551 \uC13C\uD130"
+      - Shopping Center
+      - Centre Commercial
+      - "Trung T\xE2m Mua S\u1EAFm"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Max
+      TermType: 0
+      Description: 
+      Languages:
+      - Max
+      - "\u6700\u5927"
+      - Max
+      - "\uCD5C\uB300"
+      - "M\xE1x."
+      - Maximum
+      - "T\u1ED1i \u0110a"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Max Level
+      TermType: 0
+      Description: 
+      Languages:
+      - Max Level
+      - "\u6700\u5927\u30EC\u30D9\u30EB"
+      - Maximales Level
+      - "\uCD5C\uB300 \uB808\uBCA8"
+      - "N\xEDvel M\xE1ximo"
+      - Niveau Maximum
+      - "C\u1EA5p Cao Nh\u1EA5t"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Miss Out
+      TermType: 0
+      Description: 
+      Languages:
+      - Miss Out
+      - "\u9003\u3059"
+      - Verpassen
+      - "\uBE60\uC9C0\uB2E4"
+      - Perder
+      - Passer
+      - "B\u1ECF L\u1EE1"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Multiply
+      TermType: 0
+      Description: 
+      Languages:
+      - Multiply
+      - "\u304B\u3051\u308B"
+      - Multiplizieren
+      - "\uACF1\uD558\uB2E4"
+      - Multiplicar
+      - Multiplier
+      - "Nh\xE2n"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Multiply challenge {value}
+      TermType: 0
+      Description: 
+      Languages:
+      - Multiply challenge {[value]}
+      - "\u4E57\u7B97\u30C1\u30E3\u30EC\u30F3\u30B8{[value]}"
+      - Herausforderung {[value]} multiplizieren
+      - "\uACF1\uD558\uAE30 \uB3C4\uC804 {[value]}"
+      - Multiplicar desafio {[value]}
+      - "Multiplier le d\xE9fi {[value]}"
+      - "Th\u1EED th\xE1ch nh\xE2n l\xEAn {[value]}"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: 'My rank: {value}'
+      TermType: 0
+      Description: 
+      Languages:
+      - 'My rank: {[value]}'
+      - "\u79C1\u306E\u30E9\u30F3\u30AF\uFF1A{[value]}"
+      - 'Mein Rang: {[value]}'
+      - "\uB0B4 \uC21C\uC704: {[value]}"
+      - "Minha classifica\xE7\xE3o: {[value]}"
+      - 'Mon classement : {[value]}'
+      - "C\u1EA5p b\u1EADc c\u1EE7a t\xF4i: {[value]}"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Name cannot be blank!
+      TermType: 0
+      Description: 
+      Languages:
+      - Name cannot be blank!
+      - "\u540D\u524D\u3092\u7A7A\u767D\u306B\u3059\u308B\u3053\u3068\u306F\u3067\u304D\u307E\u305B\u3093\u3002"
+      - Der Name darf nicht leer sein!
+      - "\uC774\uB984\uC740 \uBE44\uC6CC\uB458 \uC218 \uC5C6\uC2B5\uB2C8\uB2E4!"
+      - "O nome n\xE3o pode ficar em branco!"
+      - "Le nom ne peut pas \xEAtre vide\_!"
+      - "T\xEAn kh\xF4ng \u0111\u01B0\u1EE3c \u0111\u1EC3 tr\u1ED1ng!"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Name is too short
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Name length cannot be longer than 16 characters!
+      TermType: 0
+      Description: 
+      Languages:
+      - Name length cannot be longer than 16 characters!
+      - "\u540D\u524D\u306E\u9577\u3055\u306F 16 \u6587\u5B57\u3092\u8D85\u3048\u308B\u3053\u3068\u306F\u3067\u304D\u307E\u305B\u3093\u3002"
+      - "Der Name darf nicht l\xE4nger als 16 Zeichen sein!"
+      - "\uC774\uB984 \uAE38\uC774\uB294 16\uC790\uB97C \uCD08\uACFC\uD560 \uC218
+        \uC5C6\uC2B5\uB2C8\uB2E4!"
+      - "O comprimento do nome n\xE3o pode ter mais de 16 caracteres!"
+      - "La longueur du nom ne peut pas d\xE9passer 16\_caract\xE8res\_!"
+      - "\u0110\u1ED9 d\xE0i t\xEAn kh\xF4ng \u0111\u01B0\u1EE3c d\xE0i h\u01A1n
+        16 k\xFD t\u1EF1!"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Name not available
+      TermType: 0
+      Description: 
+      Languages:
+      - "Name not available\r"
+      - "\u540D\u524D\u304C\u5229\u7528\u3067\u304D\u307E\u305B\u3093\r"
+      - "Name nicht verf\xFCgbar\r"
+      - "\uC774\uB984\uC744 \uC0AC\uC6A9\uD560 \uC218 \uC5C6\uC2B5\uB2C8\uB2E4.\r"
+      - "Nome n\xE3o dispon\xEDvel\r"
+      - "Nom non disponible\r"
+      - "T\xEAn kh\xF4ng c\xF3 s\u1EB5n\r"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: New Text
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: New task in {value}
+      TermType: 0
+      Description: 
+      Languages:
+      - New task in {[value]}
+      - "{[value]} \u306E\u65B0\u3057\u3044\u30BF\u30B9\u30AF"
+      - Neue Aufgabe in {[value]}
+      - "{[value]}\uC758 \uC0C8 \uC791\uC5C5"
+      - Nova tarefa em {[value]}
+      - "Nouvelle t\xE2che en {[value]}"
+      - "Nhi\u1EC7m v\u1EE5 m\u1EDBi trong {[value]}"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Next Level
+      TermType: 0
+      Description: 
+      Languages:
+      - Next Level
+      - "\u6B21\u306E\u30EC\u30D9\u30EB"
+      - "N\xE4chste Ebene"
+      - "\uB2E4\uC74C \uB808\uBCA8"
+      - "Pr\xF3ximo N\xEDvel"
+      - Niveau Suivant
+      - "C\u1EA5p \u0110\u1ED9 Ti\u1EBFp Theo"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: No Thanks
+      TermType: 0
+      Description: 
+      Languages:
+      - No Thanks
+      - "\u7D50\u69CB\u3067\u3059"
+      - Nein Danke
+      - "\uACE0\uB9D9\uC9C0 \uB9CC \uC0AC\uC591 \uD560\uAC8C"
+      - "N\xE3o, Obrigado"
+      - Non Merci
+      - "Kh\xF4ng, C\xE1m \u01A0n"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: No Thanks!
+      TermType: 0
+      Description: 
+      Languages:
+      - No Thanks!
+      - "\u7D50\u69CB\u3067\u3059\uFF01"
+      - Nein Danke!
+      - "\uACE0\uB9D9\uC9C0 \uB9CC \uC0AC\uC591 \uD560\uAC8C!"
+      - "N\xE3o, Obrigado!"
+      - Non Merci!
+      - "Kh\xF4ng, C\xE1m \u01A0n!"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Nothing to show. You have reached the end of the rankings
+      TermType: 0
+      Description: 
+      Languages:
+      - Nothing to show. You have reached the end of the rankings
+      - "\u4F55\u3082\u898B\u305B\u3089\u308C\u306A\u3044\u3002\u30E9\u30F3\u30AD\u30F3\u30B0\u306E\u6700\u5F8C\u307E\u3067\u5230\u9054\u3057\u307E\u3057\u305F"
+      - Nichts zu zeigen. Sie haben das Ende der Rangliste erreicht
+      - "\uBCF4\uC5EC\uC904 \uAC83\uC774 \uC5C6\uC2B5\uB2C8\uB2E4. \uC21C\uC704\uC758
+        \uB9C8\uC9C0\uB9C9\uC5D0 \uB3C4\uB2EC\uD588\uC2B5\uB2C8\uB2E4."
+      - "Nada para mostrar. Voc\xEA chegou ao final do ranking"
+      - "Rien \xE0 montrer. Vous \xEAtes arriv\xE9 \xE0 la fin du classement"
+      - "Kh\xF4ng c\xF3 g\xEC \u0111\u1EC3 hi\u1EC3n th\u1ECB. B\u1EA1n \u0111\xE3
+        \u0111\u1EBFn cu\u1ED1i b\u1EA3ng x\u1EBFp h\u1EA1ng"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Notification
+      TermType: 0
+      Description: 
+      Languages:
+      - Notification
+      - "\u901A\u77E5"
+      - Benachrichtigung
+      - "\uACF5\uACE0"
+      - "Notifica\xE7\xE3o"
+      - Notification
+      - "Th\xF4ng B\xE1o"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Ok
+      TermType: 0
+      Description: 
+      Languages:
+      - Ok
+      - Ok
+      - OK
+      - Ok
+      - OK
+      - Ok
+      - Ok
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Owned
+      TermType: 0
+      Description: 
+      Languages:
+      - Owned
+      - "\u6240\u6709\u3057\u3066\u3044\u308B"
+      - Besessen
+      - "\uC18C\uC720"
+      - Controlado
+      - "Poss\xE9d\xE9"
+      - "\u0110\xE3 s\u1EDF h\u1EEFu"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Page {value}
+      TermType: 0
+      Description: 
+      Languages:
+      - Page {[value]}
+      - "\u30DA\u30FC\u30B8{[value]}"
+      - Seite {[value]}
+      - "\uD398\uC774\uC9C0 {[value]}"
+      - "P\xE1gina {[value]}"
+      - Page {[value]}
+      - Trang {[value]}
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Play
+      TermType: 0
+      Description: 
+      Languages:
+      - Play
+      - "\u904A\u3076"
+      - Spielen
+      - "\uB180\uB2E4"
+      - Jogar
+      - Jouer
+      - "Ch\u01A1i"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Play Challenge
+      TermType: 0
+      Description: 
+      Languages:
+      - Play Challenge
+      - "\u30D7\u30EC\u30A4\u30C1\u30E3\u30EC\u30F3\u30B8"
+      - Spielherausforderung
+      - "\uB3C4\uC804\uD558\uB2E4"
+      - Jogar Desafio
+      - "Jouer Au D\xE9fi"
+      - "Ch\u01A1i Th\u1EED Th\xE1ch"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Play level and win prizes!
+      TermType: 0
+      Description: 
+      Languages:
+      - Play level and win prizes!
+      - "\u30EC\u30D9\u30EB\u3092\u30D7\u30EC\u30A4\u3057\u3066\u8CDE\u54C1\u3092\u7372\u5F97\u3057\u307E\u3057\u3087\u3046\uFF01"
+      - Spiele Level und gewinne Preise!
+      - "\uB808\uBCA8\uC744 \uD50C\uB808\uC774\uD558\uACE0 \uC0C1\uD488\uC744 \uD68D\uB4DD\uD558\uC138\uC694!"
+      - "Jogue de n\xEDvel e ganhe pr\xEAmios!"
+      - "Jouez au niveau et gagnez des prix\_!"
+      - "Ch\u01A1i c\u1EA5p \u0111\u1ED9 v\xE0 gi\xE0nh gi\u1EA3i th\u01B0\u1EDFng!"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: PlayPlace
+      TermType: 0
+      Description: 
+      Languages:
+      - PlayPlace
+      - "\u30D7\u30EC\u30A4\u30D7\u30EC\u30A4\u30B9"
+      - Spielplatz
+      - "\uD50C\uB808\uC774\uD50C\uB808\uC774\uC2A4"
+      - Play Place
+      - Place de jeu
+      - "N\u01A1i ch\u01A1i"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Please check your internet connection and try again!
+      TermType: 0
+      Description: 
+      Languages:
+      - Please check your internet connection and try again!
+      - "\u30A4\u30F3\u30BF\u30FC\u30CD\u30C3\u30C8\u63A5\u7D9A\u3092\u78BA\u8A8D\u3057\u3066\u3001\u3082\u3046\u4E00\u5EA6\u304A\u8A66\u3057\u304F\u3060\u3055\u3044\u3002"
+      - "Bitte \xFCberpr\xFCfen Sie Ihre Internetverbindung und versuchen Sie es
+        erneut!"
+      - "\uC778\uD130\uB137 \uC5F0\uACB0\uC744 \uD655\uC778\uD558\uACE0 \uB2E4\uC2DC
+        \uC2DC\uB3C4\uD574 \uC8FC\uC138\uC694!"
+      - "Por favor verifique sua conex\xE3o com a internet e tente novamente!"
+      - "S'il vous pla\xEEt, v\xE9rifiez votre connexion \xE0 internet et r\xE9essayez!"
+      - "Vui l\xF2ng ki\u1EC3m tra k\u1EBFt n\u1ED1i internet c\u1EE7a b\u1EA1n v\xE0
+        th\u1EED l\u1EA1i!"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Please rate us 5 stars Thanks and love you!
+      TermType: 0
+      Description: 
+      Languages:
+      - Please rate us 5 stars <br> Thanks and love you!
+      - "5 \u3064\u661F\u8A55\u4FA1\u3092\u304A\u9858\u3044\u3057\u307E\u3059<br>
+        \u3042\u308A\u304C\u3068\u3046\u3001\u305D\u3057\u3066\u611B\u3057\u3066\u3044\u307E\u3059!"
+      - "Bitte bewerten Sie uns mit 5 Sternen <br> Danke und liebe Gr\xFC\xDFe!"
+      - "\uBCC4 5\uAC1C\uB97C \uD3C9\uAC00\uD574 \uC8FC\uC138\uC694. <br> \uAC10\uC0AC\uD558\uACE0
+        \uC0AC\uB791\uD569\uB2C8\uB2E4!"
+      - "Por favor, avalie-nos com 5 estrelas <br> Obrigado e amo voc\xEA!"
+      - "Veuillez nous \xE9valuer 5 \xE9toiles. Merci et je vous aime\_!"
+      - "Vui l\xF2ng \u0111\xE1nh gi\xE1 ch\xFAng t\xF4i 5 sao <br> C\u1EA3m \u01A1n
+        v\xE0 y\xEAu b\u1EA1n!"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: REMOVE ADS
+      TermType: 0
+      Description: 
+      Languages:
+      - Remove Ads
+      - "\u5E83\u544A\u3092\u524A\u9664"
+      - Anzeigen Entfernen
+      - "\uAD11\uACE0\uB97C \uC81C\uAC70\uD558\uB2E4"
+      - Remover Propagandas
+      - Supprimez La Pub
+      - "B\u1ECF Qu\u1EA3ng C\xE1o"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Race
+      TermType: 0
+      Description: 
+      Languages:
+      - Race
+      - "\u4EBA\u7A2E"
+      - Wettrennen
+      - "\uACBD\uC8FC"
+      - Corrida
+      - Course
+      - "Lo\xE0i "
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Rank
+      TermType: 0
+      Description: 
+      Languages:
+      - Rank
+      - "\u30E9\u30F3\u30AF"
+      - Rang
+      - "\uACC4\uAE09"
+      - "Classifica\xE7\xE3o"
+      - Rang
+      - "H\u1EA1ng"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Rank can not displayed right now! Please try again later!
+      TermType: 0
+      Description: 
+      Languages:
+      - Rank can not displayed right now! Please try again later!
+      - "\u73FE\u5728\u30E9\u30F3\u30AF\u304C\u8868\u793A\u3067\u304D\u307E\u305B\u3093\uFF01\u5F8C\u3067\u3082\u3046\u4E00\u5EA6\u8A66\u3057\u3066\u304F\u3060\u3055\u3044\u3002"
+      - "Der Rang kann derzeit nicht angezeigt werden! Bitte versuchen Sie es sp\xE4ter
+        noch einmal!"
+      - "\uC9C0\uAE08\uC740 \uC21C\uC704\uB97C \uD45C\uC2DC\uD560 \uC218 \uC5C6\uC2B5\uB2C8\uB2E4!
+        \uB098\uC911\uC5D0 \uB2E4\uC2DC \uC2DC\uB3C4 \uD574\uC8FC\uC2ED\uC2DC\uC624!"
+      - "A classifica\xE7\xE3o n\xE3o pode ser exibida agora! Por favor, tente novamente
+        mais tarde!"
+      - "Le classement ne peut pas \xEAtre affich\xE9 pour le moment\_! Veuillez
+        r\xE9essayer plus tard!"
+      - "X\u1EBFp h\u1EA1ng kh\xF4ng th\u1EC3 hi\u1EC3n th\u1ECB ngay b\xE2y gi\u1EDD!
+        Vui l\xF2ng th\u1EED l\u1EA1i sau!"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Rate Us
+      TermType: 0
+      Description: 
+      Languages:
+      - Rate Us
+      - "\u79C1\u305F\u3061\u3092\u8A55\u4FA1\u3057\u3066\u304F\u3060\u3055\u3044"
+      - Bewerten Sie Uns
+      - "\uC6B0\uB9AC\uB97C \uD3C9\uAC00\uD574 \uC8FC\uC138\uC694"
+      - Nos Avalie
+      - "\xC9valuez Nous"
+      - "\u0110\xE1nh Gi\xE1 Ch\xFAng T\xF4i"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Reach level {value}
+      TermType: 0
+      Description: 
+      Languages:
+      - Reach level {[value]}
+      - "\u30EC\u30D9\u30EB{[value]}\u306B\u5230\u9054"
+      - Erreiche Level {[value]}
+      - "\uB808\uBCA8 \uB3C4\uB2EC {[value]}"
+      - "Alcance o n\xEDvel {[value]}"
+      - Atteindre le niveau {[value]}
+      - "\u0110\u1EA1t c\u1EA5p \u0111\u1ED9 {[value]}"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Remove ADSUnlock All Pin + Theme + Ball10.000 Gold
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Remove advertising
+      TermType: 0
+      Description: 
+      Languages:
+      - Remove advertising
+      - "\u5E83\u544A\u3092\u524A\u9664\u3059\u308B"
+      - Werbung entfernen
+      - "\uAD11\uACE0 \uC81C\uAC70"
+      - Remover publicidade
+      - "Supprimer la publicit\xE9"
+      - "X\xF3a qu\u1EA3ng c\xE1o"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Restaurant
+      TermType: 0
+      Description: 
+      Languages:
+      - Restaurant
+      - "\u30EC\u30B9\u30C8\u30E9\u30F3"
+      - Restaurant
+      - "\uC2DD\uB2F9"
+      - Restaurante
+      - Restaurant
+      - "Nh\xE0 H\xE0ng"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Restore
+      TermType: 0
+      Description: 
+      Languages:
+      - Restore Purchase
+      - "\u8CFC\u5165\u5546\u54C1\u3092\u5FA9\u5143\u3059\u308B"
+      - Kauf Wiederherstellen
+      - "\uAD6C\uB9E4 \uBCF5\uC6D0"
+      - Restaurar Compra
+      - Restaurer L'achat
+      - "Kh\xF4i Ph\u1EE5c Mua H\xE0ng"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Restore Data
+      TermType: 0
+      Description: 
+      Languages:
+      - Restore Data
+      - "\u30C7\u30FC\u30BF\u3092\u5FA9\u5143\u3059\u308B"
+      - Daten Wiederherstellen
+      - "\uB370\uC774\uD130 \uBCF5\uC6D0"
+      - Restaurar Dados
+      - "Restaurer Les Donn\xE9es"
+      - "Kh\xF4i Ph\u1EE5c D\u1EEF Li\u1EC7u"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Retry
+      TermType: 0
+      Description: 
+      Languages:
+      - Retry
+      - "\u30EA\u30C8\u30E9\u30A4"
+      - Wiederholen
+      - "\uB2E4\uC2DC \uD574 \uBCF4\uB2E4"
+      - Tente Novamente
+      - Recommencez
+      - "Th\u1EED L\u1EA1i"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Reward
+      TermType: 0
+      Description: 
+      Languages:
+      - Reward
+      - "\u8912\u7F8E"
+      - Belohnen
+      - "\uBCF4\uC0C1"
+      - Recompensa
+      - "R\xE9compense"
+      - "Ph\u1EA7n Th\u01B0\u1EDFng"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Sale off
+      TermType: 0
+      Description: 
+      Languages:
+      - Sale off
+      - "\u30BB\u30FC\u30EB\u30AA\u30D5"
+      - Ausverkauf
+      - "\uC138\uC77C\uC624\uD504"
+      - "Liquida\xE7\xE3o"
+      - Soldes
+      - "Gi\u1EA3m gi\xE1"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Set Completed!
+      TermType: 0
+      Description: 
+      Languages:
+      - Set Completed!
+      - "\u30BB\u30C3\u30C8\u5B8C\u4E86\uFF01"
+      - Set Fertig!
+      - "\uC138\uD2B8 \uC644\uB8CC!"
+      - "Conjunto Conclu\xEDdo!"
+      - "Ensemble Termin\xE9 !"
+      - "Ho\xE0n Th\xE0nh B\u1ED9 Th\u1EBB!"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Setting
+      TermType: 0
+      Description: 
+      Languages:
+      - Setting
+      - "\u8A2D\u5B9A"
+      - Einstellung
+      - "\uD658\uACBD"
+      - Contexto
+      - "Param\xE8tre"
+      - "C\xE0i \u0110\u1EB7t"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Shop
+      TermType: 0
+      Description: 
+      Languages:
+      - Shop
+      - "\u5E97"
+      - "Gesch\xE4ft"
+      - "\uAC00\uAC8C"
+      - Comprar
+      - Boutique
+      - "C\u1EEDa H\xE0ng"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: SilverChest
+      TermType: 0
+      Description: 
+      Languages:
+      - Silver Chest
+      - "\u9280\u306E\u7BB1"
+      - Silberne Truhe
+      - "\uC740\uC0C9 \uAC00\uC2B4"
+      - "Ba\xFA De Prata"
+      - "Coffre Argent\xE9"
+      - "R\u01B0\u01A1ng B\u1EA1c"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Skin
+      TermType: 0
+      Description: 
+      Languages:
+      - Skin
+      - "\u808C"
+      - Haut
+      - "\uD53C\uBD80"
+      - Pele
+      - Peau
+      - "Trang ph\u1EE5c"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Skip
+      TermType: 0
+      Description: 
+      Languages:
+      - Skip
+      - "\u30B9\u30AD\u30C3\u30D7"
+      - "\xDCberspringen"
+      - "\uAC74\uB108\uB6F0\uB2E4"
+      - Pular
+      - Sauter
+      - "Qua c\u1EA5p \u0111\u1ED9"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: SpecialDescript
+      TermType: 0
+      Description: 
+      Languages:
+      - Remove ADS<br>Unlock All Pin + Theme + Ball<br>10.000 Gold
+      - "ADS \u3092\u524A\u9664<br>\u3059\u3079\u3066\u306E\u30D4\u30F3 + \u30C6\u30FC\u30DE
+        + \u30DC\u30FC\u30EB\u306E\u30ED\u30C3\u30AF\u3092\u89E3\u9664<br>10,000
+        \u30B4\u30FC\u30EB\u30C9"
+      - Werbung entfernen<br>Alle Pin + Theme + Ball freischalten<br>10.000 Gold
+      - "ADS \uC81C\uAC70<br>\uBAA8\uB4E0 \uD540 + \uD14C\uB9C8 + \uACF5 \uC7A0\uAE08
+        \uD574\uC81C<br>10.000 \uACE8\uB4DC"
+      - Remover ADS<br>Desbloquear todos os Pins + Tema + Bola<br>10.000 Ouro
+      - "Supprimer les ADS<br>D\xE9verrouiller toutes les \xE9pingles + th\xE8mes
+        + boule<br>10 000 pi\xE8ces d'or"
+      - "X\xF3a QU\u1EA2NG C\xC1O<br>M\u1EDF kh\xF3a t\u1EA5t c\u1EA3 Pin + Ch\u1EE7
+        \u0111\u1EC1 + B\xF3ng<br>10.000 V\xE0ng"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Stadium
+      TermType: 0
+      Description: 
+      Languages:
+      - Stadium
+      - "\u30B9\u30BF\u30B8\u30A2\u30E0"
+      - Stadion
+      - "\uACBD\uAE30\uC7A5"
+      - "Est\xE1dio"
+      - Stade
+      - "S\xE2n V\u1EADn \u0110\u1ED9ng"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Start New Event
+      TermType: 0
+      Description: 
+      Languages:
+      - Start New Event
+      - "\u65B0\u3057\u3044\u30A4\u30D9\u30F3\u30C8\u3092\u958B\u59CB\u3059\u308B"
+      - Neue Veranstaltung Starten
+      - "\uC0C8\uB85C\uC6B4 \uC774\uBCA4\uD2B8 \uC2DC\uC791"
+      - Iniciar Novo Evento
+      - "D\xE9marrer Un Nouvel \xC9v\xE9nement"
+      - "B\u1EAFt \u0110\u1EA7u S\u1EF1 Ki\u1EC7n M\u1EDBi"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: SuperShip
+      TermType: 0
+      Description: 
+      Languages:
+      - SuperShip
+      - "\u30B9\u30FC\u30D1\u30FC\u30B7\u30C3\u30D7"
+      - SuperSchiff
+      - "\uC288\uD37C\uC2ED"
+      - Supernave
+      - Supernavire
+      - SuperShip
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Tap To Continue
+      TermType: 0
+      Description: 
+      Languages:
+      - Tap To Continue
+      - "\u30BF\u30C3\u30D7\u3057\u3066\u7D9A\u884C\u3057\u307E\u3059"
+      - Tippen Sie, Um Fortzufahren
+      - "\uACC4\uC18D\uD558\uB824\uBA74 \uD0ED\uD558\uC138\uC694."
+      - Clique Para Continuar
+      - Appuyez Pour Continuer
+      - "Nh\u1EA5n \u0110\u1EC3 Ti\u1EBFp T\u1EE5c"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Tap to continue
+      TermType: 0
+      Description: 
+      Languages:
+      - Tap to continue
+      - "\u30BF\u30C3\u30D7\u3057\u3066\u7D9A\u884C\u3057\u307E\u3059"
+      - Tippen Sie, um fortzufahren
+      - "\uACC4\uC18D\uD558\uB824\uBA74 \uD0ED\uD558\uC138\uC694."
+      - Clique para continuar
+      - Appuyez pour continuer
+      - "Nh\u1EA5n \u0111\u1EC3 ti\u1EBFp t\u1EE5c"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Task
+      TermType: 0
+      Description: 
+      Languages:
+      - Task
+      - "\u30BF\u30B9\u30AF"
+      - Aufgabe
+      - "\uC77C"
+      - Tarefa
+      - "T\xE2che"
+      - "Nhi\u1EC7m V\u1EE5"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Top Prize
+      TermType: 0
+      Description: 
+      Languages:
+      - Top Prize
+      - "\u6700\u9AD8\u8CDE"
+      - Spitzenpreis
+      - "\uCD5C\uACE0\uC0C1"
+      - "Pr\xEAmio Principal"
+      - Premier Prix
+      - "Gi\u1EA3i Th\u01B0\u1EDFng Cao Nh\u1EA5t"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Try Again
+      TermType: 0
+      Description: 
+      Languages:
+      - Try Again
+      - "\u3082\u3046\u4E00\u5EA6\u3084\u308A\u76F4\u3057\u3066\u304F\u3060\u3055\u3044"
+      - Versuchen Sie Es Erneut
+      - "\uB2E4\uC2DC \uC2DC\uB3C4\uD558\uC2ED\uC2DC\uC624"
+      - Tente Novamente
+      - "Essayer \xC0 Nouveau"
+      - "Th\u1EED L\u1EA1i"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Unknown
+      TermType: 0
+      Description: 
+      Languages:
+      - Unknown
+      - "\u672A\u77E5"
+      - Unbekannt
+      - "\uC54C\uB824\uC9C0\uC9C0 \uC54A\uC740"
+      - Desconhecido
+      - Inconnu
+      - "Kh\xF4ng X\xE1c \u0110\u1ECBnh"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Unlock Building
+      TermType: 0
+      Description: 
+      Languages:
+      - Unlock Building
+      - "\u5EFA\u7269\u306E\u30ED\u30C3\u30AF\u3092\u89E3\u9664\u3059\u308B"
+      - "Geb\xE4ude Freischalten"
+      - "\uAC74\uBB3C \uC7A0\uAE08 \uD574\uC81C"
+      - "Desbloquear Edif\xEDcio"
+      - "D\xE9bloquer Le B\xE2timent"
+      - "M\u1EDF Kh\xF3a X\xE2y D\u1EF1ng"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Unlock Challenge Mode
+      TermType: 0
+      Description: 
+      Languages:
+      - Unlock Challenge Mode
+      - "\u30C1\u30E3\u30EC\u30F3\u30B8\u30E2\u30FC\u30C9\u306E\u30ED\u30C3\u30AF\u3092\u89E3\u9664\u3059\u308B"
+      - Schalte Den Herausforderungsmodus Frei
+      - "\uB3C4\uC804 \uBAA8\uB4DC \uC7A0\uAE08 \uD574\uC81C"
+      - Desbloquear Modo De Desafio
+      - "D\xE9bloquer Le Mode D\xE9fi"
+      - "M\u1EDF Kh\xF3a Ch\u1EBF \u0110\u1ED9 Th\u1EED Th\xE1ch"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Unlock atLevel
+      TermType: 0
+      Description: 
+      Languages:
+      - "Unlock at<br>Level {[value]} \n"
+      - "\u30EC\u30D9\u30EB {[value]}<br>\u3067\u30ED\u30C3\u30AF\u3092\u89E3\u9664\u3057\u307E\u3059\n"
+      - 'Schalte es auf<br>Level {[value]} frei
+
+'
+      - "\uB808\uBCA8\uC5D0\uC11C<br>\uC7A0\uAE08 \uD574\uC81C {[value]}\n"
+      - "Desbloqueie no<br>n\xEDvel {[value]}\n"
+      - "D\xE9bloquez au<br>Niveau\_{[value]}\n"
+      - "M\u1EDF kh\xF3a <br> t\u1EA1i c\u1EA5p {[value]}\n"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Unlock level {value}
+      TermType: 0
+      Description: 
+      Languages:
+      - Unlock level {[value]}
+      - "\u30ED\u30C3\u30AF\u89E3\u9664\u30EC\u30D9\u30EB{[value]}"
+      - Schalte Level {[value]} frei
+      - "\uB808\uBCA8 \uC7A0\uAE08 \uD574\uC81C {[value]}"
+      - "N\xEDvel de desbloqueio {[value]}"
+      - "Niveau de d\xE9verrouillage {[value]}"
+      - "M\u1EDF kh\xF3a c\u1EA5p \u0111\u1ED9 {[value]}"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Update
+      TermType: 0
+      Description: 
+      Languages:
+      - Update
+      - "\u30A2\u30C3\u30D7\u30C7\u30FC\u30C8"
+      - Aktualisieren
+      - "\uC5C5\uB370\uC774\uD2B8"
+      - Atualizar
+      - "Mise \xC0 Jour"
+      - "C\u1EADp Nh\u1EADt"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Upgrade
+      TermType: 0
+      Description: 
+      Languages:
+      - Upgrade
+      - "\u30A2\u30C3\u30D7\u30B0\u30EC\u30FC\u30C9"
+      - Aktualisierung
+      - "\uC5C5\uADF8\uB808\uC774\uB4DC"
+      - Atualizar
+      - "Mise \xC0 Niveau"
+      - "N\xE2ng C\u1EA5p"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Upgrade 69
+      TermType: 0
+      Description: 
+      Languages:
+      - Upgrade<br>{[value]}<sprite=0>
+      - "\u30A2\u30C3\u30D7\u30B0\u30EC\u30FC\u30C9<br>{[value]} <sprite=0>"
+      - Upgrade<br>{[value]} <sprite=0>
+      - "\uC5C5\uADF8\uB808\uC774\uB4DC<br>{[value]} <sprite=0>"
+      - Atualizar<br>{[value]} <sprite=0>
+      - "Mise \xE0 Niveau<br>{[value]} <sprite=0>"
+      - "N\xE2ng C\u1EA5p<br>{[value]} <sprite=0>"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Visit
+      TermType: 0
+      Description: 
+      Languages:
+      - Visit
+      - "\u8A2A\u554F"
+      - Besuchen
+      - "\uBC29\uBB38\uD558\uB2E4"
+      - Visita
+      - Visite
+      - "Th\u0103m Nom"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Wap Donal
+      TermType: 0
+      Description: 
+      Languages:
+      - Wap Donal
+      - "\u30EF\u30C3\u30D7\u30C9\u30CA\u30EB"
+      - Wap Donal
+      - "\uC651 \uB3C8"
+      - Wap Donal
+      - Wap Donal
+      - Wap Donal
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Warning
+      TermType: 0
+      Description: 
+      Languages:
+      - Warning
+      - "\u8B66\u544A"
+      - Warnung
+      - "\uACBD\uACE0"
+      - Aviso
+      - Avertissement
+      - "C\u1EA3nh B\xE1o"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Win Level
+      TermType: 0
+      Description: 
+      Languages:
+      - Win Level
+      - "\u52DD\u5229\u30EC\u30D9\u30EB"
+      - Gewinnlevel
+      - "\uC2B9\uB9AC \uC218\uC900"
+      - "N\xEDvel De Vit\xF3ria"
+      - Gagner Le Niveau
+      - "Ho\xE0n th\xE0nh c\u1EA5p \u0111\u1ED9"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Win top 1 event Ball Master to unlock
+      TermType: 0
+      Description: 
+      Languages:
+      - Win top 1 event Ball Master to unlock
+      - "\u30C8\u30C3\u30D7 1 \u30A4\u30D9\u30F3\u30C8\u306E\u30DC\u30FC\u30EB\u30DE\u30B9\u30BF\u30FC\u306B\u52DD\u5229\u3057\u3066\u30ED\u30C3\u30AF\u3092\u89E3\u9664\u3057\u307E\u3059"
+      - "Gewinnen Sie das Top-1-Event \u201EBall Master\u201C, um es freizuschalten"
+      - "\uC0C1\uC704 1\uAC1C \uC774\uBCA4\uD2B8 Ball Master\uB97C \uD68D\uB4DD\uD558\uC5EC
+        \uC7A0\uAE08 \uD574\uC81C\uD558\uC138\uC694."
+      - Ganhe o primeiro evento Ball Master para desbloquear
+      - "Gagnez le top 1 de l'\xE9v\xE9nement Ball Master pour d\xE9bloquer"
+      - "Gi\xE0nh chi\u1EBFn th\u1EAFng trong s\u1EF1 ki\u1EC7n Ball Master \u0111\u1EC3
+        m\u1EDF kh\xF3a"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: WoodChest
+      TermType: 0
+      Description: 
+      Languages:
+      - Wooden Chest
+      - "\u6728\u88FD\u30C1\u30A7\u30B9\u30C8"
+      - "H\xF6lzerne Truhe"
+      - "\uB098\uBB34 \uC0C1\uC790"
+      - "Ba\xFA De Madeira"
+      - Coffre En Bois
+      - "R\u01B0\u01A1ng G\u1ED7"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: World
+      TermType: 0
+      Description: 
+      Languages:
+      - World
+      - "\u4E16\u754C"
+      - Welt
+      - "\uC138\uACC4"
+      - Mundo
+      - Monde
+      - "Th\u1EBF Gi\u1EDBi"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: YOUR NAME
+      TermType: 0
+      Description: 
+      Languages:
+      - Your Name
+      - "\u3042\u306A\u305F\u306E\u540D\u524D"
+      - Ihr Name
+      - "\uB2F9\uC2E0\uC758 \uC774\uB984"
+      - Seu Nome
+      - Votre Nom
+      - "T\xEAn C\u1EE7a B\u1EA1n"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: You finished in the top 1st place
+      TermType: 0
+      Description: 
+      Languages:
+      - You finished in the {[value]} place
+      - "{[value]} \u4F4D\u3067\u7D42\u4E86\u3057\u307E\u3057\u305F"
+      - Du hast an der {[value]}-Stelle geendet
+      - "{[value]} \uC704\uCE58\uC5D0\uC11C \uC644\uB8CC\uD588\uC2B5\uB2C8\uB2E4."
+      - "Voc\xEA terminou no lugar {[value]}"
+      - "Tu as fini \xE0 la place {[value]}"
+      - "B\u1EA1n \u0111\xE3 ho\xE0n th\xE0nh \u1EDF v\u1ECB tr\xED {[value]}"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Your Name
+      TermType: 0
+      Description: 
+      Languages:
+      - Your Name
+      - "\u3042\u306A\u305F\u306E\u540D\u524D"
+      - Ihr Name
+      - "\uB2F9\uC2E0\uC758 \uC774\uB984"
+      - Seu Nome
+      - Votre Nom
+      - "T\xEAn C\u1EE7a B\u1EA1n"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Your Reward!
+      TermType: 0
+      Description: 
+      Languages:
+      - Your Reward!
+      - "\u3042\u306A\u305F\u306E\u5831\u916C\uFF01"
+      - Deine Belohnung!
+      - "\uB2F9\uC2E0\uC758 \uBCF4\uC0C1!"
+      - Sua Recompensa!
+      - "Ta R\xE9compense!"
+      - "Ph\u1EA7n Th\u01B0\u1EDFng C\u1EE7a B\u1EA1n!"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: fonts
+      TermType: 9
+      Description: 
+      Languages:
+      - External/Fonts/LilitaOne-Regular Outline_Extended ASCII_50 SDF
+      - Noto Sans CJK Regular SDF-Stroke
+      - LilitaOne-Regular Outline_Extended ASCII_50 SDF
+      - Noto Sans CJK Regular SDF-Stroke
+      - External/Fonts/LilitaOne-Regular Outline_Extended ASCII_50 SDF
+      - BeVietnamPro-Bold-Stroke
+      - BeVietnamPro-Bold-Stroke
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: fonts2
+      TermType: 9
+      Description: 
+      Languages:
+      - LilitaOne-Regular SDF
+      - Noto Sans CJK Regular SDF-Stroke
+      - LilitaOne-Regular SDF
+      - Noto Sans CJK Regular SDF-Stroke
+      - External/Fonts/LilitaOne-Regular Outline_Extended ASCII_50 SDF
+      - BeVietnamPro-Bold-Stroke
+      - BeVietnamPro-Bold-Stroke
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: fonts3
+      TermType: 9
+      Description: 
+      Languages:
+      - LilitaOne-Regular SDF
+      - Noto Sans CJK Regular SDF-No-Stroke
+      - LilitaOne-Regular SDF
+      - Noto Sans CJK Regular SDF-No-Stroke
+      - LilitaOne-Regular SDF
+      - BeVietnamPro-No-Stroke
+      - BeVietnamPro-No-Stroke
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: '{value} turn remaining'
+      TermType: 0
+      Description: 
+      Languages:
+      - '{[value]} turns remaining'
+      - "{[value]}\u6B8B\u308A\u30BF\u30FC\u30F3\u6570"
+      - '{[value]} verbleibende Runden'
+      - "{[value]} \uB0A8\uC740 \uD134"
+      - '{[value]} turnos restantes'
+      - '{[value]} tours restants'
+      - "{[value]} l\u01B0\u1EE3t c\xF2n l\u1EA1i"
+      Flags: 00000000000000
+      Languages_Touch: []
+    - Term: Purchase already Restored
+      TermType: 0
+      Description: 
+      Languages:
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      Flags: 00000000000000
+      Languages_Touch: []
+    CaseInsensitiveTerms: 0
+    OnMissingTranslation: 1
+    mTerm_AppName: 
+    mLanguages:
+    - Name: English
+      Code: en
+      Flags: 0
+    - Name: "\u65E5\u672C\u8A9E"
+      Code: ja
+      Flags: 0
+    - Name: Deutsch
+      Code: de
+      Flags: 0
+    - Name: "\uD55C\uAD6D\uC778"
+      Code: ko
+      Flags: 0
+    - Name: Portuguese
+      Code: pt
+      Flags: 0
+    - Name: French
+      Code: fr
+      Flags: 0
+    - Name: "Ti\u1EBFng Vi\u1EC7t"
+      Code: vi
+      Flags: 0
+    IgnoreDeviceLanguage: 0
+    _AllowUnloadingLanguages: 0
+    Google_WebServiceURL: https://script.google.com/macros/s/AKfycbzZp7GMgiO-6vzZLymtj3YU9YkhCvz4ZTA02wXpDNKvIpfPkwuahAxA6cg1fZWttAfy5A/exec
+    Google_SpreadsheetKey: 1tPUpXhrxwtor6g9BcxSuAqu_OH9wehgYQB0IVwbKrsg
+    Google_SpreadsheetName: I2Loc Pull Pin Out 3D Localization
+    Google_LastUpdatedVersion: 1715657848271
+    Google_Password: gamee1324
+    GoogleUpdateFrequency: 3
+    GoogleInEditorCheckFrequency: 2
+    GoogleUpdateSynchronization: 1
+    GoogleUpdateDelay: 0
+    Assets:
+    - {fileID: 11400000, guid: 8d15ab71442963c47b22b47460111e35, type: 2}
+    - {fileID: 11400000, guid: 100a0cf74667b214bb3294c7dc092afb, type: 2}
+    - {fileID: 11400000, guid: 194c5927bdd414c43aee9e360e4cec1a, type: 2}
+    - {fileID: 11400000, guid: 591f6fd953a8e7a4587b9ab3497cb9c9, type: 2}
+    - {fileID: 11400000, guid: 6a361eaa7916916498cf4f22a2f22481, type: 2}
+    - {fileID: 11400000, guid: eb9fded2eff198f4682c454995aa77c3, type: 2}
+    Spreadsheet_LocalFileName: 
+    Spreadsheet_LocalCSVSeparator: ','
+    Spreadsheet_LocalCSVEncoding: utf-8
+    Spreadsheet_SpecializationAsRows: 1

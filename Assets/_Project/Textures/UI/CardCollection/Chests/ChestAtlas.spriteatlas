@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ChestAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 34bddf792f633cf42859f35efd83dc7a, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 898aa0f107d0cea438d8b878ebfaa12e: 21300000
+    - 612485c3596f100438d2434f79b38287: 21300000
+    - 0c7710350cadf174397fd47a50bbd26c: 21300000
+    - 9d6995651c759964aa8cc45d3b9a9c1a: 21300000
+    - 358a6da5f93a07a4ead11699814d2a62: 21300000
+    - 41e7754742eb571468c16c5aa32ab8cd: 21300000
+    - c276cc7715be91745b067fc8bd3c93a8: 21300000
+    - 53dd21d719c3db247a03cc37a4687744: 21300000
+    - 486f3bf85d911454c96b0954c34df1c3: 21300000
+    - 17832eeb85a5ebb47b54e1a0a0a48e42: 21300000
+    - ab084c6ea5963a546bda185a4f049286: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 898aa0f107d0cea438d8b878ebfaa12e, type: 3}
+  - {fileID: 21300000, guid: 612485c3596f100438d2434f79b38287, type: 3}
+  - {fileID: 21300000, guid: 0c7710350cadf174397fd47a50bbd26c, type: 3}
+  - {fileID: 21300000, guid: 9d6995651c759964aa8cc45d3b9a9c1a, type: 3}
+  - {fileID: 21300000, guid: 358a6da5f93a07a4ead11699814d2a62, type: 3}
+  - {fileID: 21300000, guid: 41e7754742eb571468c16c5aa32ab8cd, type: 3}
+  - {fileID: 21300000, guid: c276cc7715be91745b067fc8bd3c93a8, type: 3}
+  - {fileID: 21300000, guid: 53dd21d719c3db247a03cc37a4687744, type: 3}
+  - {fileID: 21300000, guid: 486f3bf85d911454c96b0954c34df1c3, type: 3}
+  - {fileID: 21300000, guid: 17832eeb85a5ebb47b54e1a0a0a48e42, type: 3}
+  - {fileID: 21300000, guid: ab084c6ea5963a546bda185a4f049286, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 1sao
+  - 5sao
+  - 3
+  - 4sao
+  - bg_chest
+  - quantity
+  - back
+  - 3sao
+  - 2sao
+  - 1
+  - 2
+  m_RenderDataMap: {}
+  m_Tag: ChestAtlas
+  m_IsVariant: 0

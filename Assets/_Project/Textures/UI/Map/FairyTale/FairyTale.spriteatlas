@@ -1,0 +1,169 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: FairyTale
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 420c6d854a743f44d8c1151bcf481eb5, type: 3}
+    - {fileID: 102900000, guid: 0b2fd249d20814b41ba9373709b589c7, type: 3}
+    - {fileID: 102900000, guid: e2885b23094cd2e459ab64b37cf68566, type: 3}
+    - {fileID: 102900000, guid: 241dbb26ab6e8eb4e81080c96fd5e38b, type: 3}
+    - {fileID: 102900000, guid: a16f336870192c24b9c51be36e9a8a7b, type: 3}
+    - {fileID: 102900000, guid: b2caed98b63ed5e4f9c5ab51c5ad93bf, type: 3}
+    - {fileID: 102900000, guid: ae7b2dcbec7a09348af2d75478d6f540, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 41cf9d307d8934e408497ee4cec97ca9: 21300000
+    - 7b90fee0355b3af4eaba151b2338f81b: 21300000
+    - 254d2171071cb3f4bb9194cca73eb68c: 21300000
+    - e46b8422e4936a840a6ebf2134483bc8: 21300000
+    - bc6ead9273ffb6740a3e736430302bfc: 21300000
+    - dfca5cd2ebc98684993f828a6b9b1d4a: 21300000
+    - 7f6c3cf2e852a3441aba2d655e52a617: 21300000
+    - c283ca431d3dfe94e82930953585db92: 21300000
+    - 1df9d9449f037bb4da9d247097d77776: 21300000
+    - 92a9e0f58741c894b95eadaa0780f765: 21300000
+    - 5ed864278247db8419241c8d89a9d938: 21300000
+    - af77ed27dd4dee544bafbf50d29d2d17: 21300000
+    - 7e3def67f1bfce04ca88b8a68d85dcf9: 21300000
+    - 8da69577f73afc744801f3f6b27e9ce4: 21300000
+    - d71dae58286a3fb43a437b5799fbb163: 21300000
+    - e2991fd88d381a144a1c8a21602b022c: 21300000
+    - 1dfd80397e1d6b54aba8a6dced1a06f6: 21300000
+    - d813f469d3d8d164fb9b11bfc8a85dfb: 21300000
+    - 54f5dc99eb89a1546a5ce25bb8ee4732: 21300000
+    - 120a05f940e07ca488ddc6c0f4fd780f: 21300000
+    - ab0cd1fa739428f4ca9fc74007026a9e: 21300000
+    - 7150b69bc90b3c847ae5e3a02884fb21: 21300000
+    - cb84730ced7f79f4a977256406355804: 21300000
+    - ac7ae1eceacd97145a0f52bcc09cab86: 21300000
+    - eed1c18d96419db4d96de648df1f21ff: 21300000
+    - bbbb48adea8440645bda76a049f85505: 21300000
+    - d1a2a2bd2c48a864daf3ea64dcc580bc: 21300000
+    - 62d8419e7e9f1ee4eae6926aa2c67f8d: 21300000
+    - 651db2aeb2a66614aaa8519755e437e2: 21300000
+    - 12e351fe441fc564d9fd513726c59393: 21300000
+    - a33c2a4f375188248bbf91db6db09570: 21300000
+    - 81be7d5fb803a3c46a58486715146aeb: 21300000
+    - 7e856c7f4a412214a9b969744ea1900e: 21300000
+    - 93befb8fba331304cb2c3d7c987a11e1: 21300000
+    - 5c574ccfba18fa44f8c0f8f86eed36af: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 41cf9d307d8934e408497ee4cec97ca9, type: 3}
+  - {fileID: 21300000, guid: 7b90fee0355b3af4eaba151b2338f81b, type: 3}
+  - {fileID: 21300000, guid: 254d2171071cb3f4bb9194cca73eb68c, type: 3}
+  - {fileID: 21300000, guid: e46b8422e4936a840a6ebf2134483bc8, type: 3}
+  - {fileID: 21300000, guid: bc6ead9273ffb6740a3e736430302bfc, type: 3}
+  - {fileID: 21300000, guid: dfca5cd2ebc98684993f828a6b9b1d4a, type: 3}
+  - {fileID: 21300000, guid: 7f6c3cf2e852a3441aba2d655e52a617, type: 3}
+  - {fileID: 21300000, guid: c283ca431d3dfe94e82930953585db92, type: 3}
+  - {fileID: 21300000, guid: 1df9d9449f037bb4da9d247097d77776, type: 3}
+  - {fileID: 21300000, guid: 92a9e0f58741c894b95eadaa0780f765, type: 3}
+  - {fileID: 21300000, guid: 5ed864278247db8419241c8d89a9d938, type: 3}
+  - {fileID: 21300000, guid: af77ed27dd4dee544bafbf50d29d2d17, type: 3}
+  - {fileID: 21300000, guid: 7e3def67f1bfce04ca88b8a68d85dcf9, type: 3}
+  - {fileID: 21300000, guid: 8da69577f73afc744801f3f6b27e9ce4, type: 3}
+  - {fileID: 21300000, guid: d71dae58286a3fb43a437b5799fbb163, type: 3}
+  - {fileID: 21300000, guid: e2991fd88d381a144a1c8a21602b022c, type: 3}
+  - {fileID: 21300000, guid: 1dfd80397e1d6b54aba8a6dced1a06f6, type: 3}
+  - {fileID: 21300000, guid: d813f469d3d8d164fb9b11bfc8a85dfb, type: 3}
+  - {fileID: 21300000, guid: 54f5dc99eb89a1546a5ce25bb8ee4732, type: 3}
+  - {fileID: 21300000, guid: 120a05f940e07ca488ddc6c0f4fd780f, type: 3}
+  - {fileID: 21300000, guid: ab0cd1fa739428f4ca9fc74007026a9e, type: 3}
+  - {fileID: 21300000, guid: 7150b69bc90b3c847ae5e3a02884fb21, type: 3}
+  - {fileID: 21300000, guid: cb84730ced7f79f4a977256406355804, type: 3}
+  - {fileID: 21300000, guid: ac7ae1eceacd97145a0f52bcc09cab86, type: 3}
+  - {fileID: 21300000, guid: eed1c18d96419db4d96de648df1f21ff, type: 3}
+  - {fileID: 21300000, guid: bbbb48adea8440645bda76a049f85505, type: 3}
+  - {fileID: 21300000, guid: d1a2a2bd2c48a864daf3ea64dcc580bc, type: 3}
+  - {fileID: 21300000, guid: 62d8419e7e9f1ee4eae6926aa2c67f8d, type: 3}
+  - {fileID: 21300000, guid: 651db2aeb2a66614aaa8519755e437e2, type: 3}
+  - {fileID: 21300000, guid: 12e351fe441fc564d9fd513726c59393, type: 3}
+  - {fileID: 21300000, guid: a33c2a4f375188248bbf91db6db09570, type: 3}
+  - {fileID: 21300000, guid: 81be7d5fb803a3c46a58486715146aeb, type: 3}
+  - {fileID: 21300000, guid: 7e856c7f4a412214a9b969744ea1900e, type: 3}
+  - {fileID: 21300000, guid: 93befb8fba331304cb2c3d7c987a11e1, type: 3}
+  - {fileID: 21300000, guid: 5c574ccfba18fa44f8c0f8f86eed36af, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Elsa_4
+  - Tinkerbell_4
+  - Alice_1
+  - Tinkerbell_1
+  - Aladin_3
+  - 3
+  - Cinderella_2
+  - Elsa_5
+  - Cinderella_3
+  - Pony_1
+  - Elsa_3
+  - 1
+  - Elsa_2
+  - Aladin_1
+  - 2
+  - Pony_2
+  - Alice_2
+  - Aladin_2
+  - Cinderella_4
+  - Elsa_1
+  - Aladin_4
+  - Cinderella_1
+  - Pony_3
+  - Pony_4
+  - Alice_3
+  - Alice_4
+  - Tinkerbell_5
+  - Alice_5
+  - Pony_5
+  - Cinderella_5
+  - Tinkerbell_3
+  - Tinkerbell_2
+  - 4
+  - 5
+  - Aladin_5
+  m_RenderDataMap: {}
+  m_Tag: FairyTale
+  m_IsVariant: 0

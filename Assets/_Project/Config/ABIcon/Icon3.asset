@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b7b979778f9b4a2bb64806480aec9cb, type: 3}
+  m_Name: Icon3
+  m_EditorClassIdentifier: 
+  iconName: icon_3
+  type: 1
+  source: {fileID: 0}
+  iPhoneNotification40px: {fileID: 2800000, guid: f3d9b12545d69254db7baf63231c0111,
+    type: 3}
+  iPhoneNotification60px: {fileID: 2800000, guid: 574e6fd16ea1d2a42adc86efbc21e538,
+    type: 3}
+  iPhoneSettings58px: {fileID: 2800000, guid: 96910ba913c7bde4096c2ab5e4a4dd07, type: 3}
+  iPhoneSettings87px: {fileID: 2800000, guid: 506b883afbd0afe4aae0ad9ae8b6be9c, type: 3}
+  iPhoneSpotlight80px: {fileID: 2800000, guid: 5aa29bda9848189488396b206a119c24, type: 3}
+  iPhoneSpotlight120px: {fileID: 2800000, guid: 18c26e3e29270574c83f746d10697a21,
+    type: 3}
+  iPhoneApp120px: {fileID: 2800000, guid: 18c26e3e29270574c83f746d10697a21, type: 3}
+  iPhoneApp180px: {fileID: 2800000, guid: 6e3a0e14f23818140af06faa26889c64, type: 3}
+  iPadNotifications20px: {fileID: 2800000, guid: f3d9b12545d69254db7baf63231c0111,
+    type: 3}
+  iPadNotifications40px: {fileID: 2800000, guid: e35f3f9836108cd47881ffcea2cebe78,
+    type: 3}
+  iPadSettings29px: {fileID: 2800000, guid: 279137bda2f2f254683e62a987c45a3c, type: 3}
+  iPadSettings58px: {fileID: 2800000, guid: 96910ba913c7bde4096c2ab5e4a4dd07, type: 3}
+  iPadSpotlight40px: {fileID: 2800000, guid: e35f3f9836108cd47881ffcea2cebe78, type: 3}
+  iPadSpotlight80px: {fileID: 2800000, guid: 5aa29bda9848189488396b206a119c24, type: 3}
+  iPadApp76px: {fileID: 2800000, guid: 0e4fc0723ac50dc459d2e4764b16c87d, type: 3}
+  iPadApp152px: {fileID: 2800000, guid: 0bf9ae6f616e1474799d991d5adc0e92, type: 3}
+  iPadProApp167px: {fileID: 2800000, guid: 1f07b4b73e9b3ad4bb1e3e8f7dc3380c, type: 3}
+  appStore1024px: {fileID: 2800000, guid: d5661818474153946bfa1530002b892b, type: 3}

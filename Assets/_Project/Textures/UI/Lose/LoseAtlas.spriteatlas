@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LoseAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: ef0f3d3f1a060c64da82014131ca7bfb, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 0c778de0d2456de46ad10db8d3586c50: 21300000
+    - 989739b400fa8ae4bb4af64757fd37fc: 21300000
+    - cc96e7552238ef84bbf5f97cd608f319: 21300000
+    - 33a8c246d5ab75842a4aca8c3e53af34: 21300000
+    - ac90c38602b914f418bb9b14de93b038: 21300000
+    - b865bd57de9435b4da2f5abf116753ff: 21300000
+    - bb0e0d9858c026d489302a83b93c0c59: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 0c778de0d2456de46ad10db8d3586c50, type: 3}
+  - {fileID: 21300000, guid: 989739b400fa8ae4bb4af64757fd37fc, type: 3}
+  - {fileID: 21300000, guid: cc96e7552238ef84bbf5f97cd608f319, type: 3}
+  - {fileID: 21300000, guid: 33a8c246d5ab75842a4aca8c3e53af34, type: 3}
+  - {fileID: 21300000, guid: ac90c38602b914f418bb9b14de93b038, type: 3}
+  - {fileID: 21300000, guid: b865bd57de9435b4da2f5abf116753ff, type: 3}
+  - {fileID: 21300000, guid: bb0e0d9858c026d489302a83b93c0c59, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - win_gift_loadbar_2
+  - common_icon_ads
+  - lose (1)
+  - loss_btn
+  - loss_tittle
+  - win_gift_loadbar_1
+  - win_gift
+  m_RenderDataMap: {}
+  m_Tag: LoseAtlas
+  m_IsVariant: 0

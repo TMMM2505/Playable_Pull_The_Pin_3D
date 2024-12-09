@@ -1,0 +1,12 @@
+Gift.png
+size:736,736
+filter:Linear,Linear
+pma:true
+box
+bounds:235,50,332,231
+rotate:90
+gift_light
+bounds:2,384,558,347
+nap
+bounds:2,2,380,231
+rotate:90

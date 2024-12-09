@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HalloweenAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: dcbdb5ab01c1d214a8c19b3ccb7affda, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - d7f379803b52f5a4fafaeccd208ded26: 21300000
+    - f82a3072e94e5ea4eb86c62af18a4ff9: 21300000
+    - b938ed34c74b8e14d9da603189820172: 21300000
+    - eadf0c94f789a75488f776fb76829615: 21300000
+    - bb906356cff86ac44ba15b233668ad0f: 21300000
+    - 752804d626c704f41aa456b53c52b940: 21300000
+    - e15a1307110c4a74181609db75521958: 21300000
+    - a165c3ab030c0cf448aee442e8f28ef9: 21300000
+    - 10c0be1e179acdd4bad608234ca74d0f: 21300000
+    - 2bab341f5d25be54bad2b7d244215e59: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: d7f379803b52f5a4fafaeccd208ded26, type: 3}
+  - {fileID: 21300000, guid: f82a3072e94e5ea4eb86c62af18a4ff9, type: 3}
+  - {fileID: 21300000, guid: b938ed34c74b8e14d9da603189820172, type: 3}
+  - {fileID: 21300000, guid: eadf0c94f789a75488f776fb76829615, type: 3}
+  - {fileID: 21300000, guid: bb906356cff86ac44ba15b233668ad0f, type: 3}
+  - {fileID: 21300000, guid: 752804d626c704f41aa456b53c52b940, type: 3}
+  - {fileID: 21300000, guid: e15a1307110c4a74181609db75521958, type: 3}
+  - {fileID: 21300000, guid: a165c3ab030c0cf448aee442e8f28ef9, type: 3}
+  - {fileID: 21300000, guid: 10c0be1e179acdd4bad608234ca74d0f, type: 3}
+  - {fileID: 21300000, guid: 2bab341f5d25be54bad2b7d244215e59, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - BtnDisable
+  - HalloweenEvent_Pin2
+  - HalloweenEvent_ClockIcon
+  - Common_CloseBtn
+  - BtnClaim
+  - HalloweenEvent_Pin1
+  - DailyTask_Icon_Completed_1 1
+  - HalloweenEvent_GhostIcon
+  - HalloweenEvent_Popup
+  - HalloweenEvent_Shadown
+  m_RenderDataMap: {}
+  m_Tag: HalloweenAtlas
+  m_IsVariant: 0

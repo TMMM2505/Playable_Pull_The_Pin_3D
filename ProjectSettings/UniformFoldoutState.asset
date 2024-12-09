@@ -1,0 +1,28 @@
+{
+    "uniformFoldouts": [
+        {
+            "key": "UIPOPUP_LOGIN",
+            "state": true
+        },
+        {
+            "key": "LEVEL_EDITOR_DROP_AREA",
+            "state": true
+        },
+        {
+            "key": "LEVEL_EDITOR_CONFIG",
+            "state": true
+        },
+        {
+            "key": "LEVEL_EDITOR_PICKUP_AREA",
+            "state": true
+        },
+        {
+            "key": "LEVEL_EDITOR_PICKUP_AREA_CHILD__GAMEPLAY",
+            "state": true
+        },
+        {
+            "key": "UIBUTTON_SETTING",
+            "state": true
+        }
+    ]
+}

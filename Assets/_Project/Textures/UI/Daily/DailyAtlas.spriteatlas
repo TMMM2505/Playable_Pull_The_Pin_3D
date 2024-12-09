@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: DailyAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 43796ad435505e64a96223658ec4d48d, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - 12ca1c8049928e4459f5d7c520da7dd8: 21300000
+    - b0994cc14c29ee74fbea55b28b6d33df: 21300000
+    - cea7ed3235712574fa78da340d8341ba: 21300000
+    - 56292cd5a8b7e3f4ba22ef25803da634: 21300000
+    - 9a2be1f504470984c8c903ea11dc460e: 21300000
+    - eca735e6f9c78654eb614aae95bf25b3: 21300000
+    - f98e99f62fe5bf64785d5d28997f0fdc: 21300000
+    - 9bec17891c0d31a4eb0a190d3b3e502d: 21300000
+    - caead989f8bd9c44bb60dd72a35cef38: 21300000
+    - 37323aba01ee5db4888769a01331fdfd: 21300000
+    - 5831d93b2734dd14d8fe10f43dc23cf6: 21300000
+    - a41407cb7a17bb2409f7883f99f00e84: 21300000
+    - b5d6961c6b02eb34993cb86d0231eeb6: 21300000
+    - d647d13d7533267458a89816729b0f27: 21300000
+    - 1c15215d6b9dfa74c9f4a9bad949cf29: 21300000
+    - fda4b34e9c8be5d4680d06a318ff0184: 21300000
+    - c1c345ae3c88b044ab4613ed00efbefd: 21300000
+    - 7662c24f1fd209640b2b39ef028997c6: 21300000
+    - f0dd427f4bd76834f9251bd5d0721d9f: 21300000
+    - c9e2dd7f380c0ab4680ad4a4c420dd57: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 12ca1c8049928e4459f5d7c520da7dd8, type: 3}
+  - {fileID: 21300000, guid: b0994cc14c29ee74fbea55b28b6d33df, type: 3}
+  - {fileID: 21300000, guid: cea7ed3235712574fa78da340d8341ba, type: 3}
+  - {fileID: 21300000, guid: 56292cd5a8b7e3f4ba22ef25803da634, type: 3}
+  - {fileID: 21300000, guid: 9a2be1f504470984c8c903ea11dc460e, type: 3}
+  - {fileID: 21300000, guid: eca735e6f9c78654eb614aae95bf25b3, type: 3}
+  - {fileID: 21300000, guid: f98e99f62fe5bf64785d5d28997f0fdc, type: 3}
+  - {fileID: 21300000, guid: 9bec17891c0d31a4eb0a190d3b3e502d, type: 3}
+  - {fileID: 21300000, guid: caead989f8bd9c44bb60dd72a35cef38, type: 3}
+  - {fileID: 21300000, guid: 37323aba01ee5db4888769a01331fdfd, type: 3}
+  - {fileID: 21300000, guid: 5831d93b2734dd14d8fe10f43dc23cf6, type: 3}
+  - {fileID: 21300000, guid: a41407cb7a17bb2409f7883f99f00e84, type: 3}
+  - {fileID: 21300000, guid: b5d6961c6b02eb34993cb86d0231eeb6, type: 3}
+  - {fileID: 21300000, guid: d647d13d7533267458a89816729b0f27, type: 3}
+  - {fileID: 21300000, guid: 1c15215d6b9dfa74c9f4a9bad949cf29, type: 3}
+  - {fileID: 21300000, guid: fda4b34e9c8be5d4680d06a318ff0184, type: 3}
+  - {fileID: 21300000, guid: c1c345ae3c88b044ab4613ed00efbefd, type: 3}
+  - {fileID: 21300000, guid: 7662c24f1fd209640b2b39ef028997c6, type: 3}
+  - {fileID: 21300000, guid: f0dd427f4bd76834f9251bd5d0721d9f, type: 3}
+  - {fileID: 21300000, guid: c9e2dd7f380c0ab4680ad4a4c420dd57, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - daily_popup_5
+  - daily_d7
+  - common_icon_ads
+  - daily_d6
+  - daily_btn_yellow
+  - daily_element_popup_3
+  - daily_tick
+  - common_btn_back
+  - daily_popup
+  - daily_d4
+  - daily_popup_4
+  - daily_d3
+  - daily_btn_green
+  - daily_d5
+  - daily_d1
+  - daily_popup_3
+  - daily_popup_2
+  - daily_d2
+  - daily_popup_6
+  - common_icon_x5
+  m_RenderDataMap: {}
+  m_Tag: DailyAtlas
+  m_IsVariant: 0

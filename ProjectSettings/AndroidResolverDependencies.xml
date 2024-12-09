@@ -1,0 +1,48 @@
+<dependencies>
+  <packages>
+    <package>androidx.recyclerview:recyclerview:1.2.1</package>
+    <package>com.android.support:customtabs:28.+</package>
+    <package>com.android.support:recyclerview-v7:28.+</package>
+    <package>com.applovin.mediation:bidmachine-adapter:3.0.0.0</package>
+    <package>com.applovin.mediation:bytedance-adapter:6.1.0.9.0</package>
+    <package>com.applovin.mediation:chartboost-adapter:9.7.0.2</package>
+    <package>com.applovin.mediation:facebook-adapter:[6.17.0.0]</package>
+    <package>com.applovin.mediation:google-adapter:[23.3.0.0]</package>
+    <package>com.applovin.mediation:google-ad-manager-adapter:[23.3.0.0]</package>
+    <package>com.applovin.mediation:inmobi-adapter:10.7.5.0</package>
+    <package>com.applovin.mediation:ironsource-adapter:8.2.1.0.0</package>
+    <package>com.applovin.mediation:mintegral-adapter:16.8.21.0</package>
+    <package>com.applovin.mediation:unityads-adapter:4.12.2.0</package>
+    <package>com.applovin.mediation:vungle-adapter:7.4.0.0</package>
+    <package>com.applovin:applovin-sdk:12.4.3</package>
+    <package>com.google.android.gms:play-services-ads:22.6.0</package>
+    <package>com.google.android.gms:play-services-base:16.1.0</package>
+    <package>com.google.android.ump:user-messaging-platform:2.1.0</package>
+    <package>com.google.code.gson:gson:2.8.5</package>
+    <package>com.google.code.gson:gson:2.9.0</package>
+    <package>com.google.games:gpgs-plugin-support:0.11.01</package>
+    <package>com.squareup.picasso:picasso:2.71828</package>
+    <package>io.odeeo:odeeo-sdk:3.2.7</package>
+  </packages>
+  <files>
+    <file>Assets/GeneratedLocalRepo/GooglePlayGames/com.google.play.games/Editor/m2repository/com/google/games/gpgs-plugin-support/0.11.01/gpgs-plugin-support-0.11.01.aar</file>
+    <file>Assets/GeneratedLocalRepo/GooglePlayGames/com.google.play.games/Editor/m2repository/com/google/games/gpgs-plugin-support/0.11.01/gpgs-plugin-support-0.11.01.pom</file>
+  </files>
+  <settings>
+    <setting name="androidAbis" value="arm64-v8a,armeabi-v7a" />
+    <setting name="bundleId" value="com.gamee.pull.pin.puzzle" />
+    <setting name="explodeAars" value="True" />
+    <setting name="gradleBuildEnabled" value="True" />
+    <setting name="gradlePropertiesTemplateEnabled" value="True" />
+    <setting name="gradleTemplateEnabled" value="True" />
+    <setting name="installAndroidPackages" value="True" />
+    <setting name="localMavenRepoDir" value="Assets/GeneratedLocalRepo" />
+    <setting name="packageDir" value="Assets/Plugins/Android" />
+    <setting name="patchAndroidManifest" value="True" />
+    <setting name="patchMainTemplateGradle" value="True" />
+    <setting name="projectExportEnabled" value="False" />
+    <setting name="useFullCustomMavenRepoPathWhenExport" value="True" />
+    <setting name="useFullCustomMavenRepoPathWhenNotExport" value="False" />
+    <setting name="useJetifier" value="True" />
+  </settings>
+</dependencies>

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/_Project/Textures/GameIcon/Icon_Blue.meta
+guid: 35a0c46c3c73241e7b58480a9fdc7429
+========
+guid: 60293dd0de9764a99bdb9f61377095b3
+labels:
+- al_max
+- al_max_export_path-MaxSdk/Mediation/Fyber
+>>>>>>>> main:Assets/MaxSdk/Mediation/Fyber.meta
+folderAsset: yes
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

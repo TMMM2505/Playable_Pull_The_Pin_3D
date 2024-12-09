@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: DailyTaskAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_IgnorePlatformSupport: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 5e38b89a0f7941740aa1e085517e25be, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+    packedSpriteRenderDataKeys:
+    - bbb16ff3703e67842bf5e421c4377164: 21300000
+    - 27826b24171fcc64f8ace025b59dd676: 21300000
+    - c6cfefc4fe042204d83e1f5adcb51c0e: 21300000
+    - 03534dc57d9797f44843bf44968d05a4: 21300000
+    - f0eaf3b76b6cece448d449999e83b30d: 21300000
+    - a6f7e068b0f9d0a48a9aee5099d70afe: 21300000
+    - 59908b6843475344abe1932fc7048bb5: 21300000
+    - 4348cdf8091f16941ba24775a851107f: 21300000
+    - 57d53c0981028ad48900979119323c69: 21300000
+    - 1acb1729faa281f40b25c32e0d0e5659: 21300000
+    - 4ae3a0f9d9da11d4182430a65c1f8948: 21300000
+    - ea00b54b055426a4ea874ffc69aa8a79: 21300000
+    - 59aaf8db682156d4b9c4c624aff8c5dc: 21300000
+    - 3c7b1e7c4977cea4a8fec6135a5a6593: 21300000
+    - 0b3f6fdc7d6e9474896b20c11945321e: 21300000
+    - fd4fcb6e857d0554297e14d5bbba2da4: 21300000
+    - 3675677ed77d94c44a26c20458894d81: 21300000
+    - edbc3d8eb70cfba4aadf612fc1cb0f79: 21300000
+    - efd9398f09045804dae67277409d58c5: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: bbb16ff3703e67842bf5e421c4377164, type: 3}
+  - {fileID: 21300000, guid: 27826b24171fcc64f8ace025b59dd676, type: 3}
+  - {fileID: 21300000, guid: c6cfefc4fe042204d83e1f5adcb51c0e, type: 3}
+  - {fileID: 21300000, guid: 03534dc57d9797f44843bf44968d05a4, type: 3}
+  - {fileID: 21300000, guid: f0eaf3b76b6cece448d449999e83b30d, type: 3}
+  - {fileID: 21300000, guid: a6f7e068b0f9d0a48a9aee5099d70afe, type: 3}
+  - {fileID: 21300000, guid: 59908b6843475344abe1932fc7048bb5, type: 3}
+  - {fileID: 21300000, guid: 4348cdf8091f16941ba24775a851107f, type: 3}
+  - {fileID: 21300000, guid: 57d53c0981028ad48900979119323c69, type: 3}
+  - {fileID: 21300000, guid: 1acb1729faa281f40b25c32e0d0e5659, type: 3}
+  - {fileID: 21300000, guid: 4ae3a0f9d9da11d4182430a65c1f8948, type: 3}
+  - {fileID: 21300000, guid: ea00b54b055426a4ea874ffc69aa8a79, type: 3}
+  - {fileID: 21300000, guid: 59aaf8db682156d4b9c4c624aff8c5dc, type: 3}
+  - {fileID: 21300000, guid: 3c7b1e7c4977cea4a8fec6135a5a6593, type: 3}
+  - {fileID: 21300000, guid: 0b3f6fdc7d6e9474896b20c11945321e, type: 3}
+  - {fileID: 21300000, guid: fd4fcb6e857d0554297e14d5bbba2da4, type: 3}
+  - {fileID: 21300000, guid: 3675677ed77d94c44a26c20458894d81, type: 3}
+  - {fileID: 21300000, guid: edbc3d8eb70cfba4aadf612fc1cb0f79, type: 3}
+  - {fileID: 21300000, guid: efd9398f09045804dae67277409d58c5, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - DailyTask_Bar_2
+  - DailyTask_FX
+  - DailyTask__UnCompleted
+  - DailyTask_Completed
+  - DailyTask_btn_Collect_1
+  - DailyTask_Complete
+  - DailyTask_Icon_UnCompleted
+  - DailyTask_btn_back copy
+  - DailyTask_gift box_1
+  - DailyTask_Frame
+  - DailyTask_Bar_1
+  - DailyTask_btn_Collect
+  - DailyTask_Icon_Completed
+  - DailyTask_Btn_Completed
+  - DailyTask_gift box_3
+  - DailyTask_btn_watch
+  - DailyTask__Point
+  - DailyTask_gift box_2
+  - DailyTask_Icon_Completed_1
+  m_RenderDataMap: {}
+  m_Tag: DailyTaskAtlas
+  m_IsVariant: 0
