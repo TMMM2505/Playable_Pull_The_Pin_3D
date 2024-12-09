@@ -66,7 +66,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.2d.common": {
-      "version": "8.0.3",
+      "version": "8.0.2",
       "depth": 1,
       "source": "registry",
       "dependencies": {
@@ -367,12 +367,6 @@
       "source": "git",
       "dependencies": {},
       "hash": "4174496f792561e7e9c9ea76cf7d74f4e849e30b"
-    },
-    "uk.lunalabs.luna": {
-      "version": "file:../../../../Plugin Playable/scripts",
-      "depth": 0,
-      "source": "local",
-      "dependencies": {}
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
